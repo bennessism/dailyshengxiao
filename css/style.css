@@ -37,3 +37,27 @@ h2{font-size:clamp(1.5rem,4vw,2.2rem);line-height:1.3;color:#ffd1c9;margin:0 0 1
 .wheel-center small{color:#e8aaa2;letter-spacing:.15em;text-transform:uppercase;font-size:.7rem}.wheel-center strong{font-size:2rem;color:#ffd8ce}
 @media(max-width:680px){.wheel-wrap{--wheel-radius:128px;width:min(100%,345px)}.animal-wheel .animal{width:61px;min-height:58px}.animal-wheel .animal .han{font-size:1.65rem}.animal-wheel .animal .animal-name{font-size:.62rem}.wheel-center{width:90px;height:90px}.wheel-center strong{font-size:1.6rem}.selector-panel .tabs button{font-size:.84rem;padding:11px 3px}}
 @media(max-width:380px){.wheel-wrap{--wheel-radius:112px;width:min(100%,305px)}.animal-wheel .animal{width:56px;min-height:54px}.animal-wheel .animal .han{font-size:1.5rem}.wheel-center{width:78px;height:78px}}
+
+
+/* Layer wheel above its background; keep 生肖 visibly centered. */
+.animal-wheel{z-index:1}
+.wheel-center{position:relative;z-index:2;background:radial-gradient(circle,#76282b 0%,#310e12 72%);border-color:rgba(255,165,135,.6);box-shadow:0 0 26px rgba(220,72,61,.32),inset 0 0 22px rgba(245,184,121,.09)}
+.wheel-center strong{color:#ffe0c9;letter-spacing:.12em;text-shadow:0 0 14px rgba(255,138,110,.5)}
+/* Warm red primary, restrained gold particles and highlights. */
+.particles{position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.5}
+.particles::before{content:"";position:absolute;inset:-220px 0 0;background-repeat:repeat;background-size:220px 220px;animation:shengxiaoDrift 24s linear infinite}
+.p1::before{background-image:radial-gradient(circle,rgba(255,120,105,.52) 0 1px,transparent 1.8px),radial-gradient(circle,rgba(230,172,98,.19) 0 1.4px,transparent 2px);background-position:30px 40px,140px 120px}
+.p2::before{background-image:radial-gradient(circle,rgba(255,172,146,.22) 0 1.5px,transparent 2px),radial-gradient(circle,rgba(195,49,46,.27) 0 2px,transparent 2.6px);background-position:90px 160px,180px 70px;animation-duration:38s;animation-direction:reverse}
+@keyframes shengxiaoDrift{to{transform:translateY(220px)}}
+.animal-wheel .animal .han{color:#dd8d88;text-shadow:0 0 8px rgba(220,74,68,.16);animation:shengxiaoGlyphPulse 3.8s ease-in-out infinite}
+.animal-wheel .animal .animal-name{color:#b88b87}
+.animal-wheel .animal{transition:transform .22s ease,border-color .22s ease,background .22s ease,box-shadow .22s ease}
+.animal-wheel .animal:hover,.animal-wheel .animal:focus-visible{transform:translate(-50%,-50%) scale(1.17);border-color:#f69a8e;background:#551b20;box-shadow:0 0 18px rgba(255,108,100,.3),0 0 30px rgba(194,53,46,.18)}
+.animal-wheel .animal.active{transform:translate(-50%,-50%) scale(1.15);border-color:#ffab9a;background:#7d2930;animation:shengxiaoSelectedPulse 1.9s ease-in-out infinite}
+.animal-wheel .animal.active .han,.animal-wheel .animal:hover .han{color:#ffe2cf;text-shadow:0 0 13px rgba(255,152,128,.8)}
+.animal-wheel .animal.active .animal-name{color:#ffddd1}
+@keyframes shengxiaoGlyphPulse{0%,100%{opacity:.85;filter:drop-shadow(0 0 0 rgba(255,130,100,0))}50%{opacity:1;filter:drop-shadow(0 0 7px rgba(255,135,110,.4))}}
+@keyframes shengxiaoSelectedPulse{0%,100%{box-shadow:0 0 17px rgba(255,123,105,.3),0 0 28px rgba(191,46,42,.17)}50%{box-shadow:0 0 27px rgba(255,153,125,.55),0 0 42px rgba(210,56,48,.32)}}
+.selector-panel .tabs button:hover{box-shadow:0 0 17px rgba(228,76,66,.23)}
+.selector-panel .tabs button.active{box-shadow:0 0 21px rgba(231,73,66,.33),inset 0 1px 0 rgba(255,195,132,.14)}
+@media(prefers-reduced-motion:reduce){.particles::before,.animal-wheel .animal,.animal-wheel .animal .han{animation:none!important;transition:none!important}}
