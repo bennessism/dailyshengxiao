@@ -1,0 +1,86 @@
+[
+  {
+    "id": "rat",
+    "han": "鼠",
+    "name": "Rat",
+    "branch": "子",
+    "element": "Water"
+  },
+  {
+    "id": "ox",
+    "han": "牛",
+    "name": "Ox",
+    "branch": "丑",
+    "element": "Earth"
+  },
+  {
+    "id": "tiger",
+    "han": "虎",
+    "name": "Tiger",
+    "branch": "寅",
+    "element": "Wood"
+  },
+  {
+    "id": "rabbit",
+    "han": "兔",
+    "name": "Rabbit",
+    "branch": "卯",
+    "element": "Wood"
+  },
+  {
+    "id": "dragon",
+    "han": "龙",
+    "name": "Dragon",
+    "branch": "辰",
+    "element": "Earth"
+  },
+  {
+    "id": "snake",
+    "han": "蛇",
+    "name": "Snake",
+    "branch": "巳",
+    "element": "Fire"
+  },
+  {
+    "id": "horse",
+    "han": "马",
+    "name": "Horse",
+    "branch": "午",
+    "element": "Fire"
+  },
+  {
+    "id": "goat",
+    "han": "羊",
+    "name": "Goat",
+    "branch": "未",
+    "element": "Earth"
+  },
+  {
+    "id": "monkey",
+    "han": "猴",
+    "name": "Monkey",
+    "branch": "申",
+    "element": "Metal"
+  },
+  {
+    "id": "rooster",
+    "han": "鸡",
+    "name": "Rooster",
+    "branch": "酉",
+    "element": "Metal"
+  },
+  {
+    "id": "dog",
+    "han": "狗",
+    "name": "Dog",
+    "branch": "戌",
+    "element": "Earth"
+  },
+  {
+    "id": "pig",
+    "han": "猪",
+    "name": "Pig",
+    "branch": "亥",
+    "element": "Water"
+  }
+]
