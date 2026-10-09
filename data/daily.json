@@ -50,5 +50,1175 @@
       "reflection": "The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event.",
       "statement": "In the daily reading, this relationship represents no highlighted direct pair relationship under the selected tables. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
     }
+  },
+  "pairings": {
+    "子_子": {
+      "animal": "rat",
+      "periodAnimal": "rat",
+      "relations": [
+        "同支"
+      ],
+      "statement": "On this calendar day, Rat (鼠子) is compared with the Rat (鼠子) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_丑": {
+      "animal": "rat",
+      "periodAnimal": "ox",
+      "relations": [
+        "六合",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Rat (鼠子) is compared with the Ox (牛丑) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes everyday tasks and attention to detail. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_寅": {
+      "animal": "rat",
+      "periodAnimal": "tiger",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Rat (鼠子) is compared with the Tiger (虎寅) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_卯": {
+      "animal": "rat",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "相刑"
+      ],
+      "statement": "On this calendar day, Rat (鼠子) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 相刑, traditionally understood as a traditional punishment relationship associated with constraints or complicated pressures. This period's reading emphasizes today's choices and interactions. Favor proportionate responses and avoid treating symbolism as a forecast. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_辰": {
+      "animal": "rat",
+      "periodAnimal": "dragon",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Rat (鼠子) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_巳": {
+      "animal": "rat",
+      "periodAnimal": "snake",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Rat (鼠子) is compared with the Snake (蛇巳) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_午": {
+      "animal": "rat",
+      "periodAnimal": "horse",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "On this calendar day, Rat (鼠子) is compared with the Horse (马午) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_未": {
+      "animal": "rat",
+      "periodAnimal": "goat",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Rat (鼠子) is compared with the Goat (羊未) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes everyday tasks and attention to detail. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_申": {
+      "animal": "rat",
+      "periodAnimal": "monkey",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Rat (鼠子) is compared with the Monkey (猴申) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_酉": {
+      "animal": "rat",
+      "periodAnimal": "rooster",
+      "relations": [
+        "相破"
+      ],
+      "statement": "On this calendar day, Rat (鼠子) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_戌": {
+      "animal": "rat",
+      "periodAnimal": "dog",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Rat (鼠子) is compared with the Dog (狗戌) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "子_亥": {
+      "animal": "rat",
+      "periodAnimal": "pig",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Rat (鼠子) is compared with the Pig (猪亥) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_子": {
+      "animal": "ox",
+      "periodAnimal": "rat",
+      "relations": [
+        "六合",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Ox (牛丑) is compared with the Rat (鼠子) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes immediate cooperation and adaptability. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_丑": {
+      "animal": "ox",
+      "periodAnimal": "ox",
+      "relations": [
+        "同支"
+      ],
+      "statement": "For today's short-term reading, Ox (牛丑) is compared with the Ox (牛丑) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_寅": {
+      "animal": "ox",
+      "periodAnimal": "tiger",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Ox (牛丑) is compared with the Tiger (虎寅) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_卯": {
+      "animal": "ox",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Ox (牛丑) is compared with the Rabbit (兔卯) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_辰": {
+      "animal": "ox",
+      "periodAnimal": "dragon",
+      "relations": [
+        "相破"
+      ],
+      "statement": "For today's short-term reading, Ox (牛丑) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_巳": {
+      "animal": "ox",
+      "periodAnimal": "snake",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Ox (牛丑) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_午": {
+      "animal": "ox",
+      "periodAnimal": "horse",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Ox (牛丑) is compared with the Horse (马午) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes immediate cooperation and adaptability. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_未": {
+      "animal": "ox",
+      "periodAnimal": "goat",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "For today's short-term reading, Ox (牛丑) is compared with the Goat (羊未) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_申": {
+      "animal": "ox",
+      "periodAnimal": "monkey",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Ox (牛丑) is compared with the Monkey (猴申) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_酉": {
+      "animal": "ox",
+      "periodAnimal": "rooster",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Ox (牛丑) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_戌": {
+      "animal": "ox",
+      "periodAnimal": "dog",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Ox (牛丑) is compared with the Dog (狗戌) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes today's choices and interactions. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "丑_亥": {
+      "animal": "ox",
+      "periodAnimal": "pig",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Ox (牛丑) is compared with the Pig (猪亥) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_子": {
+      "animal": "tiger",
+      "periodAnimal": "rat",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Tiger (虎寅) is compared with the Rat (鼠子) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_丑": {
+      "animal": "tiger",
+      "periodAnimal": "ox",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Tiger (虎寅) is compared with the Ox (牛丑) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_寅": {
+      "animal": "tiger",
+      "periodAnimal": "tiger",
+      "relations": [
+        "同支"
+      ],
+      "statement": "With today's day branch, Tiger (虎寅) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_卯": {
+      "animal": "tiger",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Tiger (虎寅) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_辰": {
+      "animal": "tiger",
+      "periodAnimal": "dragon",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Tiger (虎寅) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_巳": {
+      "animal": "tiger",
+      "periodAnimal": "snake",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Tiger (虎寅) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes today's choices and interactions. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_午": {
+      "animal": "tiger",
+      "periodAnimal": "horse",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Tiger (虎寅) is compared with the Horse (马午) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_未": {
+      "animal": "tiger",
+      "periodAnimal": "goat",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Tiger (虎寅) is compared with the Goat (羊未) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_申": {
+      "animal": "tiger",
+      "periodAnimal": "monkey",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "With today's day branch, Tiger (虎寅) is compared with the Monkey (猴申) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_酉": {
+      "animal": "tiger",
+      "periodAnimal": "rooster",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Tiger (虎寅) is compared with the Rooster (鸡酉) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_戌": {
+      "animal": "tiger",
+      "periodAnimal": "dog",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Tiger (虎寅) is compared with the Dog (狗戌) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "寅_亥": {
+      "animal": "tiger",
+      "periodAnimal": "pig",
+      "relations": [
+        "六合",
+        "相破"
+      ],
+      "statement": "With today's day branch, Tiger (虎寅) is compared with the Pig (猪亥) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 相破; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_子": {
+      "animal": "rabbit",
+      "periodAnimal": "rat",
+      "relations": [
+        "相刑"
+      ],
+      "statement": "On this calendar day, Rabbit (兔卯) is compared with the Rat (鼠子) pillar. The primary listed relationship is 相刑, traditionally understood as a traditional punishment relationship associated with constraints or complicated pressures. This period's reading emphasizes today's choices and interactions. Favor proportionate responses and avoid treating symbolism as a forecast. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_丑": {
+      "animal": "rabbit",
+      "periodAnimal": "ox",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Rabbit (兔卯) is compared with the Ox (牛丑) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_寅": {
+      "animal": "rabbit",
+      "periodAnimal": "tiger",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Rabbit (兔卯) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_卯": {
+      "animal": "rabbit",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "同支"
+      ],
+      "statement": "On this calendar day, Rabbit (兔卯) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_辰": {
+      "animal": "rabbit",
+      "periodAnimal": "dragon",
+      "relations": [
+        "六害",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Rabbit (兔卯) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes everyday tasks and attention to detail. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_巳": {
+      "animal": "rabbit",
+      "periodAnimal": "snake",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Rabbit (兔卯) is compared with the Snake (蛇巳) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_午": {
+      "animal": "rabbit",
+      "periodAnimal": "horse",
+      "relations": [
+        "相破"
+      ],
+      "statement": "On this calendar day, Rabbit (兔卯) is compared with the Horse (马午) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_未": {
+      "animal": "rabbit",
+      "periodAnimal": "goat",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Rabbit (兔卯) is compared with the Goat (羊未) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_申": {
+      "animal": "rabbit",
+      "periodAnimal": "monkey",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Rabbit (兔卯) is compared with the Monkey (猴申) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_酉": {
+      "animal": "rabbit",
+      "periodAnimal": "rooster",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "On this calendar day, Rabbit (兔卯) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_戌": {
+      "animal": "rabbit",
+      "periodAnimal": "dog",
+      "relations": [
+        "六合"
+      ],
+      "statement": "With today's day branch, Rabbit (兔卯) is compared with the Dog (狗戌) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. This period's reading emphasizes everyday tasks and attention to detail. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "卯_亥": {
+      "animal": "rabbit",
+      "periodAnimal": "pig",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Rabbit (兔卯) is compared with the Pig (猪亥) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_子": {
+      "animal": "dragon",
+      "periodAnimal": "rat",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Dragon (龙辰) is compared with the Rat (鼠子) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_丑": {
+      "animal": "dragon",
+      "periodAnimal": "ox",
+      "relations": [
+        "相破"
+      ],
+      "statement": "For today's short-term reading, Dragon (龙辰) is compared with the Ox (牛丑) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_寅": {
+      "animal": "dragon",
+      "periodAnimal": "tiger",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Dragon (龙辰) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_卯": {
+      "animal": "dragon",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "六害",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Dragon (龙辰) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes immediate cooperation and adaptability. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_辰": {
+      "animal": "dragon",
+      "periodAnimal": "dragon",
+      "relations": [
+        "同支",
+        "相刑"
+      ],
+      "statement": "For today's short-term reading, Dragon (龙辰) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. Other applicable labels are 相刑; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_巳": {
+      "animal": "dragon",
+      "periodAnimal": "snake",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Dragon (龙辰) is compared with the Snake (蛇巳) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_午": {
+      "animal": "dragon",
+      "periodAnimal": "horse",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Dragon (龙辰) is compared with the Horse (马午) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_未": {
+      "animal": "dragon",
+      "periodAnimal": "goat",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Dragon (龙辰) is compared with the Goat (羊未) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes today's choices and interactions. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_申": {
+      "animal": "dragon",
+      "periodAnimal": "monkey",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Dragon (龙辰) is compared with the Monkey (猴申) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_酉": {
+      "animal": "dragon",
+      "periodAnimal": "rooster",
+      "relations": [
+        "六合"
+      ],
+      "statement": "With today's day branch, Dragon (龙辰) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. This period's reading emphasizes immediate cooperation and adaptability. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_戌": {
+      "animal": "dragon",
+      "periodAnimal": "dog",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "For today's short-term reading, Dragon (龙辰) is compared with the Dog (狗戌) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "辰_亥": {
+      "animal": "dragon",
+      "periodAnimal": "pig",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Dragon (龙辰) is compared with the Pig (猪亥) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_子": {
+      "animal": "snake",
+      "periodAnimal": "rat",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Snake (蛇巳) is compared with the Rat (鼠子) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_丑": {
+      "animal": "snake",
+      "periodAnimal": "ox",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Snake (蛇巳) is compared with the Ox (牛丑) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_寅": {
+      "animal": "snake",
+      "periodAnimal": "tiger",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Snake (蛇巳) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes today's choices and interactions. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_卯": {
+      "animal": "snake",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Snake (蛇巳) is compared with the Rabbit (兔卯) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_辰": {
+      "animal": "snake",
+      "periodAnimal": "dragon",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Snake (蛇巳) is compared with the Dragon (龙辰) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_巳": {
+      "animal": "snake",
+      "periodAnimal": "snake",
+      "relations": [
+        "同支"
+      ],
+      "statement": "With today's day branch, Snake (蛇巳) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_午": {
+      "animal": "snake",
+      "periodAnimal": "horse",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Snake (蛇巳) is compared with the Horse (马午) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_未": {
+      "animal": "snake",
+      "periodAnimal": "goat",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Snake (蛇巳) is compared with the Goat (羊未) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_申": {
+      "animal": "snake",
+      "periodAnimal": "monkey",
+      "relations": [
+        "六合",
+        "相破"
+      ],
+      "statement": "With today's day branch, Snake (蛇巳) is compared with the Monkey (猴申) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 相破; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_酉": {
+      "animal": "snake",
+      "periodAnimal": "rooster",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Snake (蛇巳) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_戌": {
+      "animal": "snake",
+      "periodAnimal": "dog",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Snake (蛇巳) is compared with the Dog (狗戌) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "巳_亥": {
+      "animal": "snake",
+      "periodAnimal": "pig",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "With today's day branch, Snake (蛇巳) is compared with the Pig (猪亥) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_子": {
+      "animal": "horse",
+      "periodAnimal": "rat",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "On this calendar day, Horse (马午) is compared with the Rat (鼠子) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_丑": {
+      "animal": "horse",
+      "periodAnimal": "ox",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Horse (马午) is compared with the Ox (牛丑) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes everyday tasks and attention to detail. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_寅": {
+      "animal": "horse",
+      "periodAnimal": "tiger",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Horse (马午) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_卯": {
+      "animal": "horse",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "相破"
+      ],
+      "statement": "On this calendar day, Horse (马午) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_辰": {
+      "animal": "horse",
+      "periodAnimal": "dragon",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Horse (马午) is compared with the Dragon (龙辰) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_巳": {
+      "animal": "horse",
+      "periodAnimal": "snake",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Horse (马午) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_午": {
+      "animal": "horse",
+      "periodAnimal": "horse",
+      "relations": [
+        "同支",
+        "相刑"
+      ],
+      "statement": "On this calendar day, Horse (马午) is compared with the Horse (马午) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. Other applicable labels are 相刑; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_未": {
+      "animal": "horse",
+      "periodAnimal": "goat",
+      "relations": [
+        "六合",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Horse (马午) is compared with the Goat (羊未) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes everyday tasks and attention to detail. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_申": {
+      "animal": "horse",
+      "periodAnimal": "monkey",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Horse (马午) is compared with the Monkey (猴申) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_酉": {
+      "animal": "horse",
+      "periodAnimal": "rooster",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Horse (马午) is compared with the Rooster (鸡酉) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes today's choices and interactions. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_戌": {
+      "animal": "horse",
+      "periodAnimal": "dog",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Horse (马午) is compared with the Dog (狗戌) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "午_亥": {
+      "animal": "horse",
+      "periodAnimal": "pig",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Horse (马午) is compared with the Pig (猪亥) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_子": {
+      "animal": "goat",
+      "periodAnimal": "rat",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Goat (羊未) is compared with the Rat (鼠子) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes immediate cooperation and adaptability. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_丑": {
+      "animal": "goat",
+      "periodAnimal": "ox",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "For today's short-term reading, Goat (羊未) is compared with the Ox (牛丑) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_寅": {
+      "animal": "goat",
+      "periodAnimal": "tiger",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Goat (羊未) is compared with the Tiger (虎寅) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_卯": {
+      "animal": "goat",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Goat (羊未) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_辰": {
+      "animal": "goat",
+      "periodAnimal": "dragon",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Goat (羊未) is compared with the Dragon (龙辰) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes today's choices and interactions. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_巳": {
+      "animal": "goat",
+      "periodAnimal": "snake",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Goat (羊未) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_午": {
+      "animal": "goat",
+      "periodAnimal": "horse",
+      "relations": [
+        "六合",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Goat (羊未) is compared with the Horse (马午) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes immediate cooperation and adaptability. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_未": {
+      "animal": "goat",
+      "periodAnimal": "goat",
+      "relations": [
+        "同支"
+      ],
+      "statement": "For today's short-term reading, Goat (羊未) is compared with the Goat (羊未) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_申": {
+      "animal": "goat",
+      "periodAnimal": "monkey",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Goat (羊未) is compared with the Monkey (猴申) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_酉": {
+      "animal": "goat",
+      "periodAnimal": "rooster",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Goat (羊未) is compared with the Rooster (鸡酉) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_戌": {
+      "animal": "goat",
+      "periodAnimal": "dog",
+      "relations": [
+        "相破"
+      ],
+      "statement": "For today's short-term reading, Goat (羊未) is compared with the Dog (狗戌) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "未_亥": {
+      "animal": "goat",
+      "periodAnimal": "pig",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Goat (羊未) is compared with the Pig (猪亥) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_子": {
+      "animal": "monkey",
+      "periodAnimal": "rat",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Monkey (猴申) is compared with the Rat (鼠子) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_丑": {
+      "animal": "monkey",
+      "periodAnimal": "ox",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Monkey (猴申) is compared with the Ox (牛丑) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_寅": {
+      "animal": "monkey",
+      "periodAnimal": "tiger",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "With today's day branch, Monkey (猴申) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_卯": {
+      "animal": "monkey",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Monkey (猴申) is compared with the Rabbit (兔卯) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_辰": {
+      "animal": "monkey",
+      "periodAnimal": "dragon",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Monkey (猴申) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_巳": {
+      "animal": "monkey",
+      "periodAnimal": "snake",
+      "relations": [
+        "六合",
+        "相破"
+      ],
+      "statement": "With today's day branch, Monkey (猴申) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 相破; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_午": {
+      "animal": "monkey",
+      "periodAnimal": "horse",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Monkey (猴申) is compared with the Horse (马午) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_未": {
+      "animal": "monkey",
+      "periodAnimal": "goat",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Monkey (猴申) is compared with the Goat (羊未) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_申": {
+      "animal": "monkey",
+      "periodAnimal": "monkey",
+      "relations": [
+        "同支"
+      ],
+      "statement": "With today's day branch, Monkey (猴申) is compared with the Monkey (猴申) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_酉": {
+      "animal": "monkey",
+      "periodAnimal": "rooster",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Monkey (猴申) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_戌": {
+      "animal": "monkey",
+      "periodAnimal": "dog",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Monkey (猴申) is compared with the Dog (狗戌) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "申_亥": {
+      "animal": "monkey",
+      "periodAnimal": "pig",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Monkey (猴申) is compared with the Pig (猪亥) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes today's choices and interactions. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_子": {
+      "animal": "rooster",
+      "periodAnimal": "rat",
+      "relations": [
+        "相破"
+      ],
+      "statement": "On this calendar day, Rooster (鸡酉) is compared with the Rat (鼠子) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_丑": {
+      "animal": "rooster",
+      "periodAnimal": "ox",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Rooster (鸡酉) is compared with the Ox (牛丑) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_寅": {
+      "animal": "rooster",
+      "periodAnimal": "tiger",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Rooster (鸡酉) is compared with the Tiger (虎寅) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_卯": {
+      "animal": "rooster",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "On this calendar day, Rooster (鸡酉) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_辰": {
+      "animal": "rooster",
+      "periodAnimal": "dragon",
+      "relations": [
+        "六合"
+      ],
+      "statement": "With today's day branch, Rooster (鸡酉) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. This period's reading emphasizes everyday tasks and attention to detail. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_巳": {
+      "animal": "rooster",
+      "periodAnimal": "snake",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Rooster (鸡酉) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_午": {
+      "animal": "rooster",
+      "periodAnimal": "horse",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Rooster (鸡酉) is compared with the Horse (马午) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes today's choices and interactions. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_未": {
+      "animal": "rooster",
+      "periodAnimal": "goat",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Rooster (鸡酉) is compared with the Goat (羊未) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_申": {
+      "animal": "rooster",
+      "periodAnimal": "monkey",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Rooster (鸡酉) is compared with the Monkey (猴申) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_酉": {
+      "animal": "rooster",
+      "periodAnimal": "rooster",
+      "relations": [
+        "同支",
+        "相刑"
+      ],
+      "statement": "On this calendar day, Rooster (鸡酉) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. Other applicable labels are 相刑; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_戌": {
+      "animal": "rooster",
+      "periodAnimal": "dog",
+      "relations": [
+        "六害",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Rooster (鸡酉) is compared with the Dog (狗戌) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes everyday tasks and attention to detail. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "酉_亥": {
+      "animal": "rooster",
+      "periodAnimal": "pig",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Rooster (鸡酉) is compared with the Pig (猪亥) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_子": {
+      "animal": "dog",
+      "periodAnimal": "rat",
+      "relations": [
+        "常规"
+      ],
+      "statement": "With today's day branch, Dog (狗戌) is compared with the Rat (鼠子) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_丑": {
+      "animal": "dog",
+      "periodAnimal": "ox",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Dog (狗戌) is compared with the Ox (牛丑) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes today's choices and interactions. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_寅": {
+      "animal": "dog",
+      "periodAnimal": "tiger",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Dog (狗戌) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_卯": {
+      "animal": "dog",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "六合"
+      ],
+      "statement": "With today's day branch, Dog (狗戌) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. This period's reading emphasizes immediate cooperation and adaptability. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_辰": {
+      "animal": "dog",
+      "periodAnimal": "dragon",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "For today's short-term reading, Dog (狗戌) is compared with the Dragon (龙辰) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_巳": {
+      "animal": "dog",
+      "periodAnimal": "snake",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Dog (狗戌) is compared with the Snake (蛇巳) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_午": {
+      "animal": "dog",
+      "periodAnimal": "horse",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "With today's day branch, Dog (狗戌) is compared with the Horse (马午) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_未": {
+      "animal": "dog",
+      "periodAnimal": "goat",
+      "relations": [
+        "相破"
+      ],
+      "statement": "For today's short-term reading, Dog (狗戌) is compared with the Goat (羊未) pillar. The primary listed relationship is 相破, traditionally understood as a traditional break relationship, sometimes associated with interruption or repair. This period's reading emphasizes today's choices and interactions. Review assumptions and leave flexibility for revisions. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_申": {
+      "animal": "dog",
+      "periodAnimal": "monkey",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Dog (狗戌) is compared with the Monkey (猴申) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_酉": {
+      "animal": "dog",
+      "periodAnimal": "rooster",
+      "relations": [
+        "六害",
+        "三会组"
+      ],
+      "statement": "With today's day branch, Dog (狗戌) is compared with the Rooster (鸡酉) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. Other applicable labels are 三会组; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes immediate cooperation and adaptability. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_戌": {
+      "animal": "dog",
+      "periodAnimal": "dog",
+      "relations": [
+        "同支"
+      ],
+      "statement": "For today's short-term reading, Dog (狗戌) is compared with the Dog (狗戌) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "戌_亥": {
+      "animal": "dog",
+      "periodAnimal": "pig",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Dog (狗戌) is compared with the Pig (猪亥) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_子": {
+      "animal": "pig",
+      "periodAnimal": "rat",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "For today's short-term reading, Pig (猪亥) is compared with the Rat (鼠子) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes everyday tasks and attention to detail. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_丑": {
+      "animal": "pig",
+      "periodAnimal": "ox",
+      "relations": [
+        "三会组"
+      ],
+      "statement": "On this calendar day, Pig (猪亥) is compared with the Ox (牛丑) pillar. The primary listed relationship is 三会组, traditionally understood as membership in the same seasonal-meeting group, without forming a complete seasonal formation. This period's reading emphasizes immediate cooperation and adaptability. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_寅": {
+      "animal": "pig",
+      "periodAnimal": "tiger",
+      "relations": [
+        "六合",
+        "相破"
+      ],
+      "statement": "With today's day branch, Pig (猪亥) is compared with the Tiger (虎寅) pillar. The primary listed relationship is 六合, traditionally understood as a traditional pairing associated with connection and cooperation. Other applicable labels are 相破; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Consider where an agreement or common purpose could help. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_卯": {
+      "animal": "pig",
+      "periodAnimal": "rabbit",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "For today's short-term reading, Pig (猪亥) is compared with the Rabbit (兔卯) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes everyday tasks and attention to detail. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_辰": {
+      "animal": "pig",
+      "periodAnimal": "dragon",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Pig (猪亥) is compared with the Dragon (龙辰) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_巳": {
+      "animal": "pig",
+      "periodAnimal": "snake",
+      "relations": [
+        "六冲"
+      ],
+      "statement": "With today's day branch, Pig (猪亥) is compared with the Snake (蛇巳) pillar. The primary listed relationship is 六冲, traditionally understood as a traditional opposing pair often read as movement or differing priorities. This period's reading emphasizes today's choices and interactions. Give competing needs enough room rather than assuming the clash predicts trouble. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_午": {
+      "animal": "pig",
+      "periodAnimal": "horse",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Pig (猪亥) is compared with the Horse (马午) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_未": {
+      "animal": "pig",
+      "periodAnimal": "goat",
+      "relations": [
+        "三合组"
+      ],
+      "statement": "On this calendar day, Pig (猪亥) is compared with the Goat (羊未) pillar. The primary listed relationship is 三合组, traditionally understood as membership in the same three-harmony elemental group, without forming a complete three-branch combination. This period's reading emphasizes immediate cooperation and adaptability. Look for a shared direction while remembering that group membership is not a full formation. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_申": {
+      "animal": "pig",
+      "periodAnimal": "monkey",
+      "relations": [
+        "六害"
+      ],
+      "statement": "With today's day branch, Pig (猪亥) is compared with the Monkey (猴申) pillar. The primary listed relationship is 六害, traditionally understood as a traditional relationship associated with subtle friction or misunderstanding. This period's reading emphasizes today's choices and interactions. Check expectations and communicate clearly. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_酉": {
+      "animal": "pig",
+      "periodAnimal": "rooster",
+      "relations": [
+        "常规"
+      ],
+      "statement": "For today's short-term reading, Pig (猪亥) is compared with the Rooster (鸡酉) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes everyday tasks and attention to detail. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_戌": {
+      "animal": "pig",
+      "periodAnimal": "dog",
+      "relations": [
+        "常规"
+      ],
+      "statement": "On this calendar day, Pig (猪亥) is compared with the Dog (狗戌) pillar. No featured direct pair occurs in the configured relationship tables. This period's reading emphasizes immediate cooperation and adaptability. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. This is traditional symbolic interpretation, not a forecast of actual events."
+    },
+    "亥_亥": {
+      "animal": "pig",
+      "periodAnimal": "pig",
+      "relations": [
+        "同支",
+        "相刑"
+      ],
+      "statement": "With today's day branch, Pig (猪亥) is compared with the Pig (猪亥) pillar. The primary listed relationship is 同支, traditionally understood as the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. Other applicable labels are 相刑; they should not be mistaken for independent guaranteed outcomes. This period's reading emphasizes today's choices and interactions. Use the familiar theme for reflection, without assigning automatic good or bad luck. This is traditional symbolic interpretation, not a forecast of actual events."
+    }
   }
 }
