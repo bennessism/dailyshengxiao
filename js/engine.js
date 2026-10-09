@@ -27,5 +27,6 @@ export function calendarFor(date){
 }
 export function buildReading(period,branch,animal,rules,library){
   const keys=detectRelationships(branch,animal.branch,rules);
-  return {keys,paragraphs:keys.map(k=>library.interpretations[k]?.statement||"").filter(Boolean)};
+  const entry=library.pairings?.[animal.branch+"_"+branch];
+  return {keys,paragraphs:entry?[entry.statement]:keys.map(k=>library.interpretations[k]?.statement||"").filter(Boolean)};
 }
