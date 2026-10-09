@@ -5,11 +5,12 @@ const data=Object.fromEntries(await Promise.all(paths.map(async k=>{
   const res=await fetch("./data/"+k+".json");if(!res.ok)throw new Error(k+" data HTTP "+res.status);return [k,await res.json()];
 })));
 const periods=["yearly","monthly","daily"];
+const pillarKey={yearly:"year",monthly:"month",daily:"day"};
 let active="daily",chosen="rat",calendar=null;
 const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function render(){
  const animal=data.animals.find(a=>a.id===chosen);
- const value=calendar[active], branch=value[1], periodData=data[active];
+ const value=calendar[pillarKey[active]], branch=value[1], periodData=data[active];
  const pair=data.animals.find(a=>a.branch===branch);
  const info=buildReading(active,branch,animal,data.relationships,periodData);
  $("title").textContent=animal.han+" · "+animal.name;
@@ -23,7 +24,7 @@ function init(){
  calendar=calendarFor(new Date());
  const day=new Date().toLocaleDateString(undefined,{weekday:"long",year:"numeric",month:"long",day:"numeric"});
  $("today").textContent=day;
- $("pillars").innerHTML=[["yearly","年柱"],["monthly","月柱"],["daily","日柱"]].map(([key,label])=>'<div class="pillar"><small>'+label+'</small><strong>'+calendar[key]+'</strong></div>').join("");
+ $("pillars").innerHTML=[["yearly","年柱"],["monthly","月柱"],["daily","日柱"]].map(([key,label])=>'<div class="pillar"><small>'+label+'</small><strong>'+calendar[pillarKey[key]]+'</strong></div>').join("");
  $("animal-grid").innerHTML=data.animals.map(a=>'<button class="animal" data-animal="'+a.id+'" aria-pressed="false"><span class="han">'+a.han+'</span><span>'+a.name+'</span></button>').join("");
  $("knowledge").innerHTML=data.knowledge.map(k=>'<details><summary><span>'+k.name+' · '+k.en+'</span><span class="plus">+</span></summary><p>'+escapeHTML(k.detail)+'</p></details>').join("");
  document.querySelectorAll("[data-animal]").forEach(b=>b.addEventListener("click",()=>{chosen=b.dataset.animal;render()}));
