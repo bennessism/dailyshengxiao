@@ -1,0 +1,805 @@
+{
+  "stems": [
+    {
+      "han": "甲",
+      "yinYang": "Yang",
+      "element": "Wood",
+      "meaning": "initiative, growth and outward development"
+    },
+    {
+      "han": "乙",
+      "yinYang": "Yin",
+      "element": "Wood",
+      "meaning": "adaptation, cultivation and gradual growth"
+    },
+    {
+      "han": "丙",
+      "yinYang": "Yang",
+      "element": "Fire",
+      "meaning": "visibility, warmth and outward expression"
+    },
+    {
+      "han": "丁",
+      "yinYang": "Yin",
+      "element": "Fire",
+      "meaning": "focused illumination, refinement and attentiveness"
+    },
+    {
+      "han": "戊",
+      "yinYang": "Yang",
+      "element": "Earth",
+      "meaning": "structure, steadiness and broad support"
+    },
+    {
+      "han": "己",
+      "yinYang": "Yin",
+      "element": "Earth",
+      "meaning": "cultivation, nourishment and measured support"
+    },
+    {
+      "han": "庚",
+      "yinYang": "Yang",
+      "element": "Metal",
+      "meaning": "decisiveness, shaping and direct action"
+    },
+    {
+      "han": "辛",
+      "yinYang": "Yin",
+      "element": "Metal",
+      "meaning": "precision, refinement and careful judgment"
+    },
+    {
+      "han": "壬",
+      "yinYang": "Yang",
+      "element": "Water",
+      "meaning": "movement, exchange and expansive flow"
+    },
+    {
+      "han": "癸",
+      "yinYang": "Yin",
+      "element": "Water",
+      "meaning": "subtle movement, receptivity and accumulation"
+    }
+  ],
+  "branches": [
+    {
+      "han": "子",
+      "animal": "Rat",
+      "element": "Water"
+    },
+    {
+      "han": "丑",
+      "animal": "Ox",
+      "element": "Earth"
+    },
+    {
+      "han": "寅",
+      "animal": "Tiger",
+      "element": "Wood"
+    },
+    {
+      "han": "卯",
+      "animal": "Rabbit",
+      "element": "Wood"
+    },
+    {
+      "han": "辰",
+      "animal": "Dragon",
+      "element": "Earth"
+    },
+    {
+      "han": "巳",
+      "animal": "Snake",
+      "element": "Fire"
+    },
+    {
+      "han": "午",
+      "animal": "Horse",
+      "element": "Fire"
+    },
+    {
+      "han": "未",
+      "animal": "Goat",
+      "element": "Earth"
+    },
+    {
+      "han": "申",
+      "animal": "Monkey",
+      "element": "Metal"
+    },
+    {
+      "han": "酉",
+      "animal": "Rooster",
+      "element": "Metal"
+    },
+    {
+      "han": "戌",
+      "animal": "Dog",
+      "element": "Earth"
+    },
+    {
+      "han": "亥",
+      "animal": "Pig",
+      "element": "Water"
+    }
+  ],
+  "cycle": [
+    {
+      "id": 1,
+      "ganZhi": "甲子",
+      "stem": "甲",
+      "branch": "子",
+      "animal": "Rat",
+      "stemElement": "Wood",
+      "branchElement": "Water",
+      "yinYang": "Yang",
+      "description": "甲 is Yang Wood (阳木), conventionally associated with initiative, growth and outward development. 子 corresponds to Rat and its conventional branch element Water. Together, 甲子 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 2,
+      "ganZhi": "乙丑",
+      "stem": "乙",
+      "branch": "丑",
+      "animal": "Ox",
+      "stemElement": "Wood",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "乙 is Yin Wood (阴木), conventionally associated with adaptation, cultivation and gradual growth. 丑 corresponds to Ox and its conventional branch element Earth. Together, 乙丑 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 3,
+      "ganZhi": "丙寅",
+      "stem": "丙",
+      "branch": "寅",
+      "animal": "Tiger",
+      "stemElement": "Fire",
+      "branchElement": "Wood",
+      "yinYang": "Yang",
+      "description": "丙 is Yang Fire (阳火), conventionally associated with visibility, warmth and outward expression. 寅 corresponds to Tiger and its conventional branch element Wood. Together, 丙寅 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 4,
+      "ganZhi": "丁卯",
+      "stem": "丁",
+      "branch": "卯",
+      "animal": "Rabbit",
+      "stemElement": "Fire",
+      "branchElement": "Wood",
+      "yinYang": "Yin",
+      "description": "丁 is Yin Fire (阴火), conventionally associated with focused illumination, refinement and attentiveness. 卯 corresponds to Rabbit and its conventional branch element Wood. Together, 丁卯 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 5,
+      "ganZhi": "戊辰",
+      "stem": "戊",
+      "branch": "辰",
+      "animal": "Dragon",
+      "stemElement": "Earth",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "戊 is Yang Earth (阳土), conventionally associated with structure, steadiness and broad support. 辰 corresponds to Dragon and its conventional branch element Earth. Together, 戊辰 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 6,
+      "ganZhi": "己巳",
+      "stem": "己",
+      "branch": "巳",
+      "animal": "Snake",
+      "stemElement": "Earth",
+      "branchElement": "Fire",
+      "yinYang": "Yin",
+      "description": "己 is Yin Earth (阴土), conventionally associated with cultivation, nourishment and measured support. 巳 corresponds to Snake and its conventional branch element Fire. Together, 己巳 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 7,
+      "ganZhi": "庚午",
+      "stem": "庚",
+      "branch": "午",
+      "animal": "Horse",
+      "stemElement": "Metal",
+      "branchElement": "Fire",
+      "yinYang": "Yang",
+      "description": "庚 is Yang Metal (阳金), conventionally associated with decisiveness, shaping and direct action. 午 corresponds to Horse and its conventional branch element Fire. Together, 庚午 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 8,
+      "ganZhi": "辛未",
+      "stem": "辛",
+      "branch": "未",
+      "animal": "Goat",
+      "stemElement": "Metal",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "辛 is Yin Metal (阴金), conventionally associated with precision, refinement and careful judgment. 未 corresponds to Goat and its conventional branch element Earth. Together, 辛未 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 9,
+      "ganZhi": "壬申",
+      "stem": "壬",
+      "branch": "申",
+      "animal": "Monkey",
+      "stemElement": "Water",
+      "branchElement": "Metal",
+      "yinYang": "Yang",
+      "description": "壬 is Yang Water (阳水), conventionally associated with movement, exchange and expansive flow. 申 corresponds to Monkey and its conventional branch element Metal. Together, 壬申 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 10,
+      "ganZhi": "癸酉",
+      "stem": "癸",
+      "branch": "酉",
+      "animal": "Rooster",
+      "stemElement": "Water",
+      "branchElement": "Metal",
+      "yinYang": "Yin",
+      "description": "癸 is Yin Water (阴水), conventionally associated with subtle movement, receptivity and accumulation. 酉 corresponds to Rooster and its conventional branch element Metal. Together, 癸酉 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 11,
+      "ganZhi": "甲戌",
+      "stem": "甲",
+      "branch": "戌",
+      "animal": "Dog",
+      "stemElement": "Wood",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "甲 is Yang Wood (阳木), conventionally associated with initiative, growth and outward development. 戌 corresponds to Dog and its conventional branch element Earth. Together, 甲戌 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 12,
+      "ganZhi": "乙亥",
+      "stem": "乙",
+      "branch": "亥",
+      "animal": "Pig",
+      "stemElement": "Wood",
+      "branchElement": "Water",
+      "yinYang": "Yin",
+      "description": "乙 is Yin Wood (阴木), conventionally associated with adaptation, cultivation and gradual growth. 亥 corresponds to Pig and its conventional branch element Water. Together, 乙亥 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 13,
+      "ganZhi": "丙子",
+      "stem": "丙",
+      "branch": "子",
+      "animal": "Rat",
+      "stemElement": "Fire",
+      "branchElement": "Water",
+      "yinYang": "Yang",
+      "description": "丙 is Yang Fire (阳火), conventionally associated with visibility, warmth and outward expression. 子 corresponds to Rat and its conventional branch element Water. Together, 丙子 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 14,
+      "ganZhi": "丁丑",
+      "stem": "丁",
+      "branch": "丑",
+      "animal": "Ox",
+      "stemElement": "Fire",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "丁 is Yin Fire (阴火), conventionally associated with focused illumination, refinement and attentiveness. 丑 corresponds to Ox and its conventional branch element Earth. Together, 丁丑 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 15,
+      "ganZhi": "戊寅",
+      "stem": "戊",
+      "branch": "寅",
+      "animal": "Tiger",
+      "stemElement": "Earth",
+      "branchElement": "Wood",
+      "yinYang": "Yang",
+      "description": "戊 is Yang Earth (阳土), conventionally associated with structure, steadiness and broad support. 寅 corresponds to Tiger and its conventional branch element Wood. Together, 戊寅 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 16,
+      "ganZhi": "己卯",
+      "stem": "己",
+      "branch": "卯",
+      "animal": "Rabbit",
+      "stemElement": "Earth",
+      "branchElement": "Wood",
+      "yinYang": "Yin",
+      "description": "己 is Yin Earth (阴土), conventionally associated with cultivation, nourishment and measured support. 卯 corresponds to Rabbit and its conventional branch element Wood. Together, 己卯 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 17,
+      "ganZhi": "庚辰",
+      "stem": "庚",
+      "branch": "辰",
+      "animal": "Dragon",
+      "stemElement": "Metal",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "庚 is Yang Metal (阳金), conventionally associated with decisiveness, shaping and direct action. 辰 corresponds to Dragon and its conventional branch element Earth. Together, 庚辰 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 18,
+      "ganZhi": "辛巳",
+      "stem": "辛",
+      "branch": "巳",
+      "animal": "Snake",
+      "stemElement": "Metal",
+      "branchElement": "Fire",
+      "yinYang": "Yin",
+      "description": "辛 is Yin Metal (阴金), conventionally associated with precision, refinement and careful judgment. 巳 corresponds to Snake and its conventional branch element Fire. Together, 辛巳 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 19,
+      "ganZhi": "壬午",
+      "stem": "壬",
+      "branch": "午",
+      "animal": "Horse",
+      "stemElement": "Water",
+      "branchElement": "Fire",
+      "yinYang": "Yang",
+      "description": "壬 is Yang Water (阳水), conventionally associated with movement, exchange and expansive flow. 午 corresponds to Horse and its conventional branch element Fire. Together, 壬午 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 20,
+      "ganZhi": "癸未",
+      "stem": "癸",
+      "branch": "未",
+      "animal": "Goat",
+      "stemElement": "Water",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "癸 is Yin Water (阴水), conventionally associated with subtle movement, receptivity and accumulation. 未 corresponds to Goat and its conventional branch element Earth. Together, 癸未 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 21,
+      "ganZhi": "甲申",
+      "stem": "甲",
+      "branch": "申",
+      "animal": "Monkey",
+      "stemElement": "Wood",
+      "branchElement": "Metal",
+      "yinYang": "Yang",
+      "description": "甲 is Yang Wood (阳木), conventionally associated with initiative, growth and outward development. 申 corresponds to Monkey and its conventional branch element Metal. Together, 甲申 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 22,
+      "ganZhi": "乙酉",
+      "stem": "乙",
+      "branch": "酉",
+      "animal": "Rooster",
+      "stemElement": "Wood",
+      "branchElement": "Metal",
+      "yinYang": "Yin",
+      "description": "乙 is Yin Wood (阴木), conventionally associated with adaptation, cultivation and gradual growth. 酉 corresponds to Rooster and its conventional branch element Metal. Together, 乙酉 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 23,
+      "ganZhi": "丙戌",
+      "stem": "丙",
+      "branch": "戌",
+      "animal": "Dog",
+      "stemElement": "Fire",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "丙 is Yang Fire (阳火), conventionally associated with visibility, warmth and outward expression. 戌 corresponds to Dog and its conventional branch element Earth. Together, 丙戌 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 24,
+      "ganZhi": "丁亥",
+      "stem": "丁",
+      "branch": "亥",
+      "animal": "Pig",
+      "stemElement": "Fire",
+      "branchElement": "Water",
+      "yinYang": "Yin",
+      "description": "丁 is Yin Fire (阴火), conventionally associated with focused illumination, refinement and attentiveness. 亥 corresponds to Pig and its conventional branch element Water. Together, 丁亥 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 25,
+      "ganZhi": "戊子",
+      "stem": "戊",
+      "branch": "子",
+      "animal": "Rat",
+      "stemElement": "Earth",
+      "branchElement": "Water",
+      "yinYang": "Yang",
+      "description": "戊 is Yang Earth (阳土), conventionally associated with structure, steadiness and broad support. 子 corresponds to Rat and its conventional branch element Water. Together, 戊子 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 26,
+      "ganZhi": "己丑",
+      "stem": "己",
+      "branch": "丑",
+      "animal": "Ox",
+      "stemElement": "Earth",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "己 is Yin Earth (阴土), conventionally associated with cultivation, nourishment and measured support. 丑 corresponds to Ox and its conventional branch element Earth. Together, 己丑 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 27,
+      "ganZhi": "庚寅",
+      "stem": "庚",
+      "branch": "寅",
+      "animal": "Tiger",
+      "stemElement": "Metal",
+      "branchElement": "Wood",
+      "yinYang": "Yang",
+      "description": "庚 is Yang Metal (阳金), conventionally associated with decisiveness, shaping and direct action. 寅 corresponds to Tiger and its conventional branch element Wood. Together, 庚寅 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 28,
+      "ganZhi": "辛卯",
+      "stem": "辛",
+      "branch": "卯",
+      "animal": "Rabbit",
+      "stemElement": "Metal",
+      "branchElement": "Wood",
+      "yinYang": "Yin",
+      "description": "辛 is Yin Metal (阴金), conventionally associated with precision, refinement and careful judgment. 卯 corresponds to Rabbit and its conventional branch element Wood. Together, 辛卯 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 29,
+      "ganZhi": "壬辰",
+      "stem": "壬",
+      "branch": "辰",
+      "animal": "Dragon",
+      "stemElement": "Water",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "壬 is Yang Water (阳水), conventionally associated with movement, exchange and expansive flow. 辰 corresponds to Dragon and its conventional branch element Earth. Together, 壬辰 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 30,
+      "ganZhi": "癸巳",
+      "stem": "癸",
+      "branch": "巳",
+      "animal": "Snake",
+      "stemElement": "Water",
+      "branchElement": "Fire",
+      "yinYang": "Yin",
+      "description": "癸 is Yin Water (阴水), conventionally associated with subtle movement, receptivity and accumulation. 巳 corresponds to Snake and its conventional branch element Fire. Together, 癸巳 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 31,
+      "ganZhi": "甲午",
+      "stem": "甲",
+      "branch": "午",
+      "animal": "Horse",
+      "stemElement": "Wood",
+      "branchElement": "Fire",
+      "yinYang": "Yang",
+      "description": "甲 is Yang Wood (阳木), conventionally associated with initiative, growth and outward development. 午 corresponds to Horse and its conventional branch element Fire. Together, 甲午 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 32,
+      "ganZhi": "乙未",
+      "stem": "乙",
+      "branch": "未",
+      "animal": "Goat",
+      "stemElement": "Wood",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "乙 is Yin Wood (阴木), conventionally associated with adaptation, cultivation and gradual growth. 未 corresponds to Goat and its conventional branch element Earth. Together, 乙未 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 33,
+      "ganZhi": "丙申",
+      "stem": "丙",
+      "branch": "申",
+      "animal": "Monkey",
+      "stemElement": "Fire",
+      "branchElement": "Metal",
+      "yinYang": "Yang",
+      "description": "丙 is Yang Fire (阳火), conventionally associated with visibility, warmth and outward expression. 申 corresponds to Monkey and its conventional branch element Metal. Together, 丙申 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 34,
+      "ganZhi": "丁酉",
+      "stem": "丁",
+      "branch": "酉",
+      "animal": "Rooster",
+      "stemElement": "Fire",
+      "branchElement": "Metal",
+      "yinYang": "Yin",
+      "description": "丁 is Yin Fire (阴火), conventionally associated with focused illumination, refinement and attentiveness. 酉 corresponds to Rooster and its conventional branch element Metal. Together, 丁酉 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 35,
+      "ganZhi": "戊戌",
+      "stem": "戊",
+      "branch": "戌",
+      "animal": "Dog",
+      "stemElement": "Earth",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "戊 is Yang Earth (阳土), conventionally associated with structure, steadiness and broad support. 戌 corresponds to Dog and its conventional branch element Earth. Together, 戊戌 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 36,
+      "ganZhi": "己亥",
+      "stem": "己",
+      "branch": "亥",
+      "animal": "Pig",
+      "stemElement": "Earth",
+      "branchElement": "Water",
+      "yinYang": "Yin",
+      "description": "己 is Yin Earth (阴土), conventionally associated with cultivation, nourishment and measured support. 亥 corresponds to Pig and its conventional branch element Water. Together, 己亥 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 37,
+      "ganZhi": "庚子",
+      "stem": "庚",
+      "branch": "子",
+      "animal": "Rat",
+      "stemElement": "Metal",
+      "branchElement": "Water",
+      "yinYang": "Yang",
+      "description": "庚 is Yang Metal (阳金), conventionally associated with decisiveness, shaping and direct action. 子 corresponds to Rat and its conventional branch element Water. Together, 庚子 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 38,
+      "ganZhi": "辛丑",
+      "stem": "辛",
+      "branch": "丑",
+      "animal": "Ox",
+      "stemElement": "Metal",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "辛 is Yin Metal (阴金), conventionally associated with precision, refinement and careful judgment. 丑 corresponds to Ox and its conventional branch element Earth. Together, 辛丑 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 39,
+      "ganZhi": "壬寅",
+      "stem": "壬",
+      "branch": "寅",
+      "animal": "Tiger",
+      "stemElement": "Water",
+      "branchElement": "Wood",
+      "yinYang": "Yang",
+      "description": "壬 is Yang Water (阳水), conventionally associated with movement, exchange and expansive flow. 寅 corresponds to Tiger and its conventional branch element Wood. Together, 壬寅 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 40,
+      "ganZhi": "癸卯",
+      "stem": "癸",
+      "branch": "卯",
+      "animal": "Rabbit",
+      "stemElement": "Water",
+      "branchElement": "Wood",
+      "yinYang": "Yin",
+      "description": "癸 is Yin Water (阴水), conventionally associated with subtle movement, receptivity and accumulation. 卯 corresponds to Rabbit and its conventional branch element Wood. Together, 癸卯 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 41,
+      "ganZhi": "甲辰",
+      "stem": "甲",
+      "branch": "辰",
+      "animal": "Dragon",
+      "stemElement": "Wood",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "甲 is Yang Wood (阳木), conventionally associated with initiative, growth and outward development. 辰 corresponds to Dragon and its conventional branch element Earth. Together, 甲辰 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 42,
+      "ganZhi": "乙巳",
+      "stem": "乙",
+      "branch": "巳",
+      "animal": "Snake",
+      "stemElement": "Wood",
+      "branchElement": "Fire",
+      "yinYang": "Yin",
+      "description": "乙 is Yin Wood (阴木), conventionally associated with adaptation, cultivation and gradual growth. 巳 corresponds to Snake and its conventional branch element Fire. Together, 乙巳 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 43,
+      "ganZhi": "丙午",
+      "stem": "丙",
+      "branch": "午",
+      "animal": "Horse",
+      "stemElement": "Fire",
+      "branchElement": "Fire",
+      "yinYang": "Yang",
+      "description": "丙 is Yang Fire (阳火), conventionally associated with visibility, warmth and outward expression. 午 corresponds to Horse and its conventional branch element Fire. Together, 丙午 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 44,
+      "ganZhi": "丁未",
+      "stem": "丁",
+      "branch": "未",
+      "animal": "Goat",
+      "stemElement": "Fire",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "丁 is Yin Fire (阴火), conventionally associated with focused illumination, refinement and attentiveness. 未 corresponds to Goat and its conventional branch element Earth. Together, 丁未 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 45,
+      "ganZhi": "戊申",
+      "stem": "戊",
+      "branch": "申",
+      "animal": "Monkey",
+      "stemElement": "Earth",
+      "branchElement": "Metal",
+      "yinYang": "Yang",
+      "description": "戊 is Yang Earth (阳土), conventionally associated with structure, steadiness and broad support. 申 corresponds to Monkey and its conventional branch element Metal. Together, 戊申 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 46,
+      "ganZhi": "己酉",
+      "stem": "己",
+      "branch": "酉",
+      "animal": "Rooster",
+      "stemElement": "Earth",
+      "branchElement": "Metal",
+      "yinYang": "Yin",
+      "description": "己 is Yin Earth (阴土), conventionally associated with cultivation, nourishment and measured support. 酉 corresponds to Rooster and its conventional branch element Metal. Together, 己酉 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 47,
+      "ganZhi": "庚戌",
+      "stem": "庚",
+      "branch": "戌",
+      "animal": "Dog",
+      "stemElement": "Metal",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "庚 is Yang Metal (阳金), conventionally associated with decisiveness, shaping and direct action. 戌 corresponds to Dog and its conventional branch element Earth. Together, 庚戌 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 48,
+      "ganZhi": "辛亥",
+      "stem": "辛",
+      "branch": "亥",
+      "animal": "Pig",
+      "stemElement": "Metal",
+      "branchElement": "Water",
+      "yinYang": "Yin",
+      "description": "辛 is Yin Metal (阴金), conventionally associated with precision, refinement and careful judgment. 亥 corresponds to Pig and its conventional branch element Water. Together, 辛亥 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 49,
+      "ganZhi": "壬子",
+      "stem": "壬",
+      "branch": "子",
+      "animal": "Rat",
+      "stemElement": "Water",
+      "branchElement": "Water",
+      "yinYang": "Yang",
+      "description": "壬 is Yang Water (阳水), conventionally associated with movement, exchange and expansive flow. 子 corresponds to Rat and its conventional branch element Water. Together, 壬子 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 50,
+      "ganZhi": "癸丑",
+      "stem": "癸",
+      "branch": "丑",
+      "animal": "Ox",
+      "stemElement": "Water",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "癸 is Yin Water (阴水), conventionally associated with subtle movement, receptivity and accumulation. 丑 corresponds to Ox and its conventional branch element Earth. Together, 癸丑 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 51,
+      "ganZhi": "甲寅",
+      "stem": "甲",
+      "branch": "寅",
+      "animal": "Tiger",
+      "stemElement": "Wood",
+      "branchElement": "Wood",
+      "yinYang": "Yang",
+      "description": "甲 is Yang Wood (阳木), conventionally associated with initiative, growth and outward development. 寅 corresponds to Tiger and its conventional branch element Wood. Together, 甲寅 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 52,
+      "ganZhi": "乙卯",
+      "stem": "乙",
+      "branch": "卯",
+      "animal": "Rabbit",
+      "stemElement": "Wood",
+      "branchElement": "Wood",
+      "yinYang": "Yin",
+      "description": "乙 is Yin Wood (阴木), conventionally associated with adaptation, cultivation and gradual growth. 卯 corresponds to Rabbit and its conventional branch element Wood. Together, 乙卯 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 53,
+      "ganZhi": "丙辰",
+      "stem": "丙",
+      "branch": "辰",
+      "animal": "Dragon",
+      "stemElement": "Fire",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "丙 is Yang Fire (阳火), conventionally associated with visibility, warmth and outward expression. 辰 corresponds to Dragon and its conventional branch element Earth. Together, 丙辰 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 54,
+      "ganZhi": "丁巳",
+      "stem": "丁",
+      "branch": "巳",
+      "animal": "Snake",
+      "stemElement": "Fire",
+      "branchElement": "Fire",
+      "yinYang": "Yin",
+      "description": "丁 is Yin Fire (阴火), conventionally associated with focused illumination, refinement and attentiveness. 巳 corresponds to Snake and its conventional branch element Fire. Together, 丁巳 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 55,
+      "ganZhi": "戊午",
+      "stem": "戊",
+      "branch": "午",
+      "animal": "Horse",
+      "stemElement": "Earth",
+      "branchElement": "Fire",
+      "yinYang": "Yang",
+      "description": "戊 is Yang Earth (阳土), conventionally associated with structure, steadiness and broad support. 午 corresponds to Horse and its conventional branch element Fire. Together, 戊午 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 56,
+      "ganZhi": "己未",
+      "stem": "己",
+      "branch": "未",
+      "animal": "Goat",
+      "stemElement": "Earth",
+      "branchElement": "Earth",
+      "yinYang": "Yin",
+      "description": "己 is Yin Earth (阴土), conventionally associated with cultivation, nourishment and measured support. 未 corresponds to Goat and its conventional branch element Earth. Together, 己未 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 57,
+      "ganZhi": "庚申",
+      "stem": "庚",
+      "branch": "申",
+      "animal": "Monkey",
+      "stemElement": "Metal",
+      "branchElement": "Metal",
+      "yinYang": "Yang",
+      "description": "庚 is Yang Metal (阳金), conventionally associated with decisiveness, shaping and direct action. 申 corresponds to Monkey and its conventional branch element Metal. Together, 庚申 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 58,
+      "ganZhi": "辛酉",
+      "stem": "辛",
+      "branch": "酉",
+      "animal": "Rooster",
+      "stemElement": "Metal",
+      "branchElement": "Metal",
+      "yinYang": "Yin",
+      "description": "辛 is Yin Metal (阴金), conventionally associated with precision, refinement and careful judgment. 酉 corresponds to Rooster and its conventional branch element Metal. Together, 辛酉 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 59,
+      "ganZhi": "壬戌",
+      "stem": "壬",
+      "branch": "戌",
+      "animal": "Dog",
+      "stemElement": "Water",
+      "branchElement": "Earth",
+      "yinYang": "Yang",
+      "description": "壬 is Yang Water (阳水), conventionally associated with movement, exchange and expansive flow. 戌 corresponds to Dog and its conventional branch element Earth. Together, 壬戌 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    },
+    {
+      "id": 60,
+      "ganZhi": "癸亥",
+      "stem": "癸",
+      "branch": "亥",
+      "animal": "Pig",
+      "stemElement": "Water",
+      "branchElement": "Water",
+      "yinYang": "Yin",
+      "description": "癸 is Yin Water (阴水), conventionally associated with subtle movement, receptivity and accumulation. 亥 corresponds to Pig and its conventional branch element Water. Together, 癸亥 identifies one position in the sixty-part 干支 cycle. The stem quality and branch association are separate layers; their combination is not a guaranteed outcome."
+    }
+  ],
+  "elements": {
+    "generates": {
+      "Wood": "Fire",
+      "Fire": "Earth",
+      "Earth": "Metal",
+      "Metal": "Water",
+      "Water": "Wood"
+    },
+    "controls": {
+      "Wood": "Earth",
+      "Earth": "Water",
+      "Water": "Fire",
+      "Fire": "Metal",
+      "Metal": "Wood"
+    }
+  },
+  "note": "GanZhi cycle uses paired heavenly stems and earthly branches; both change each period under the calculated calendar."
+}
