@@ -61,3 +61,36 @@ h2{font-size:clamp(1.5rem,4vw,2.2rem);line-height:1.3;color:#ffd1c9;margin:0 0 1
 .selector-panel .tabs button:hover{box-shadow:0 0 17px rgba(228,76,66,.23)}
 .selector-panel .tabs button.active{box-shadow:0 0 21px rgba(231,73,66,.33),inset 0 1px 0 rgba(255,195,132,.14)}
 @media(prefers-reduced-motion:reduce){.particles::before,.animal-wheel .animal,.animal-wheel .animal .han{animation:none!important;transition:none!important}}
+
+
+/* Frameless wheel lettering: light radiates from the characters, not a button box. */
+.animal-wheel .animal,
+.animal-wheel .animal:hover,
+.animal-wheel .animal:focus-visible,
+.animal-wheel .animal.active{
+  background:transparent;
+  border-color:transparent;
+  box-shadow:none;
+}
+.animal-wheel .animal:hover,
+.animal-wheel .animal:focus-visible{transform:translate(-50%,-50%) scale(1.17)}
+.animal-wheel .animal.active{transform:translate(-50%,-50%) scale(1.16);animation:none}
+.animal-wheel .animal .han{
+  transition:color .22s ease,text-shadow .22s ease,filter .22s ease;
+}
+.animal-wheel .animal:hover .han,
+.animal-wheel .animal:focus-visible .han{
+  color:#ffe2ce;
+  text-shadow:0 0 9px rgba(255,153,124,.9),0 0 22px rgba(240,72,64,.78),0 0 34px rgba(218,52,48,.45);
+  filter:drop-shadow(0 0 8px rgba(255,134,103,.5));
+}
+.animal-wheel .animal.active .han{
+  color:#ffe7d2;
+  animation:shengxiaoTextGlow 1.9s ease-in-out infinite;
+}
+.animal-wheel .animal.active .animal-name{color:#ffcfba;text-shadow:0 0 10px rgba(235,96,75,.5)}
+@keyframes shengxiaoTextGlow{
+  0%,100%{text-shadow:0 0 8px rgba(255,142,117,.7),0 0 19px rgba(231,72,63,.55);filter:drop-shadow(0 0 4px rgba(248,102,82,.4))}
+  50%{text-shadow:0 0 13px rgba(255,185,145,1),0 0 27px rgba(243,92,72,.85),0 0 39px rgba(206,49,45,.55);filter:drop-shadow(0 0 11px rgba(255,119,92,.7))}
+}
+@media(prefers-reduced-motion:reduce){.animal-wheel .animal.active .han{animation:none!important}}
