@@ -44,7 +44,7 @@ export function ganzhiContext(pillar,animal,library,rules){
  else if(generates[other]===current)relation=other+" generates "+current+" (animal's branch element generates stem)";
  else if(controls[current]===other)relation=current+" controls "+other+" (stem controls animal's branch element)";
  else if(controls[other]===current)relation=other+" controls "+current+" (animal's branch element controls stem)";
- return {entry,relation,text:entry.description+" Relative to "+animal.name+" ("+animal.branch+"), whose conventional branch element is "+other+", the Five Element comparison is "+relation+". This comparison is a symbolic layer beside the fixed Earthly Branch relationship, not a personal elemental balance."};
+ return {entry,relation,text:entry.description+" Relative to "+animal.name+" ("+animal.branch+"), whose conventional branch element is "+other+", the Five Element comparison is "+relation+". "};
 }
 export function majorRelationships(periodBranch,animals,rules){
  const priority=["六合","六冲","三合组","三会组","六害","相刑","相破"];
