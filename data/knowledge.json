@@ -1,0 +1,58 @@
+[
+  {
+    "id": "liu-he",
+    "name": "六合",
+    "en": "Six Harmonies",
+    "summary": "Six established one-to-one pairings.",
+    "detail": "六合 describes six paired Earthly Branch relationships. Traditionally it can suggest connection or cooperation, but it does not guarantee that a particular event will go well. Other relationships, context and complete charts can change the interpretation."
+  },
+  {
+    "id": "san-he",
+    "name": "三合",
+    "en": "Three Harmonies",
+    "summary": "Four elemental groups of three branches.",
+    "detail": "三合 groups branches into Water (申子辰), Wood (亥卯未), Fire (寅午戌), and Metal (巳酉丑). Two branches can belong to the same group, but this site labels that only as a shared group, not a complete 三合局."
+  },
+  {
+    "id": "liu-chong",
+    "name": "六冲",
+    "en": "Six Clashes",
+    "summary": "Six pairs of opposing branches.",
+    "detail": "六冲 pairs are 子午、丑未、寅申、卯酉、辰戌、巳亥. Traditional interpretations often emphasize movement, tension or adjustment; a clash alone is not proof of misfortune."
+  },
+  {
+    "id": "liu-hai",
+    "name": "六害",
+    "en": "Six Harms",
+    "summary": "A separate set of disruptive branch pairings.",
+    "detail": "六害 relationships are traditionally associated with friction or lack of ease. They can coexist with another relationship classification, so the engine preserves all applicable labels."
+  },
+  {
+    "id": "xiang-xing",
+    "name": "相刑",
+    "en": "Punishments",
+    "summary": "Self, paired and multi-branch punishment conventions.",
+    "detail": "相刑 includes the 子卯 pair, self-punishment for 辰午酉亥, and multi-branch patterns such as 寅巳申 and 丑未戌. Two members of a three-branch group are not automatically presented as the complete punishment formation."
+  },
+  {
+    "id": "xiang-po",
+    "name": "相破",
+    "en": "Breaks",
+    "summary": "Six traditional disruptive pairings.",
+    "detail": "相破 may be read as interruption or a need for repair. It is a distinct relationship from 六冲 and 六害; relationships may overlap."
+  },
+  {
+    "id": "san-hui",
+    "name": "三会",
+    "en": "Seasonal Meetings",
+    "summary": "Four seasonal branch trios.",
+    "detail": "三会 groups 寅卯辰 for Wood, 巳午未 for Fire, 申酉戌 for Metal, and 亥子丑 for Water. Sharing a seasonal group with another branch is not the same as a complete meeting of all three branches."
+  },
+  {
+    "id": "gan-zhi",
+    "name": "干支与节气",
+    "en": "Stems, Branches & Solar Terms",
+    "summary": "The calendar foundation for year, month and day.",
+    "detail": "The year pillar changes at 立春, the month pillar follows the solar-term 节 boundaries, and the day pillar follows the chosen midnight-based local calendar convention. Popular birth-year animal conventions may instead switch at Lunar New Year. Calculations depend on the selected calendar time zone."
+  }
+]
