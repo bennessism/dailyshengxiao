@@ -108,3 +108,8 @@ h2{font-size:clamp(1.5rem,4vw,2.2rem);line-height:1.3;color:#ffd1c9;margin:0 0 1
 .major-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:9px}
 .major-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 12px;background:#331819;border:1px solid #754340;border-radius:11px}
 .major-item strong{color:#ffd1ae}.major-item span{color:#e6b1ab}
+
+
+.comparison-heading{margin:15px 0 7px;color:#ffcfba;font-size:1.02rem}
+.comparison-description{margin:0 0 18px!important;padding:11px 13px;border-left:3px solid #db695b;background:rgba(102,35,37,.35);border-radius:0 9px 9px 0}
+.major-item{min-width:0;flex-wrap:wrap}.major-item span{overflow-wrap:anywhere}
