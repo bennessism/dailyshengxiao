@@ -1,0 +1,54 @@
+{
+  "period": "yearly",
+  "title": "Yearly 年运",
+  "introduction": "This year's branch sets a broad traditional background, not a prediction of specific events.",
+  "context": "longer-term patterns, commitments and sustained changes",
+  "guidance": "Review priorities over the course of the year rather than expecting a particular incident.",
+  "interpretations": {
+    "六合": {
+      "meaning": "a traditional pairing associated with connection and cooperation",
+      "reflection": "Consider where an agreement or common purpose could help.",
+      "statement": "In the annual reading, this relationship represents a traditional pairing associated with connection and cooperation. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Consider where an agreement or common purpose could help. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "六冲": {
+      "meaning": "a traditional opposing pair often read as movement or differing priorities",
+      "reflection": "Give competing needs enough room rather than assuming the clash predicts trouble.",
+      "statement": "In the annual reading, this relationship represents a traditional opposing pair often read as movement or differing priorities. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Give competing needs enough room rather than assuming the clash predicts trouble. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "六害": {
+      "meaning": "a traditional relationship associated with subtle friction or misunderstanding",
+      "reflection": "Check expectations and communicate clearly.",
+      "statement": "In the annual reading, this relationship represents a traditional relationship associated with subtle friction or misunderstanding. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Check expectations and communicate clearly. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "相破": {
+      "meaning": "a traditional break relationship, sometimes associated with interruption or repair",
+      "reflection": "Review assumptions and leave flexibility for revisions.",
+      "statement": "In the annual reading, this relationship represents a traditional break relationship, sometimes associated with interruption or repair. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Review assumptions and leave flexibility for revisions. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "相刑": {
+      "meaning": "a traditional punishment relationship associated with constraints or complicated pressures",
+      "reflection": "Favor proportionate responses and avoid treating symbolism as a forecast.",
+      "statement": "In the annual reading, this relationship represents a traditional punishment relationship associated with constraints or complicated pressures. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Favor proportionate responses and avoid treating symbolism as a forecast. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "三合组": {
+      "meaning": "membership in the same three-harmony elemental group, without forming a complete three-branch combination",
+      "reflection": "Look for a shared direction while remembering that group membership is not a full formation.",
+      "statement": "In the annual reading, this relationship represents membership in the same three-harmony elemental group, without forming a complete three-branch combination. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Look for a shared direction while remembering that group membership is not a full formation. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "三会组": {
+      "meaning": "membership in the same seasonal-meeting group, without forming a complete seasonal formation",
+      "reflection": "Notice the seasonal element as a contextual symbol, not a guaranteed outcome.",
+      "statement": "In the annual reading, this relationship represents membership in the same seasonal-meeting group, without forming a complete seasonal formation. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "同支": {
+      "meaning": "the same Earthly Branch, amplifying the shared animal symbolism in traditional readings",
+      "reflection": "Use the familiar theme for reflection, without assigning automatic good or bad luck.",
+      "statement": "In the annual reading, this relationship represents the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. Use the familiar theme for reflection, without assigning automatic good or bad luck. Review priorities over the course of the year rather than expecting a particular incident."
+    },
+    "常规": {
+      "meaning": "no highlighted direct pair relationship under the selected tables",
+      "reflection": "The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event.",
+      "statement": "In the annual reading, this relationship represents no highlighted direct pair relationship under the selected tables. Its relevance is traditionally discussed in terms of longer-term patterns, commitments and sustained changes. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. Review priorities over the course of the year rather than expecting a particular incident."
+    }
+  }
+}
