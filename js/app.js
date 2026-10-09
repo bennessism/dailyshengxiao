@@ -18,13 +18,9 @@ function render(){
  $("summary").textContent=periodData.introduction;
  $("period-caption").textContent=periodData.title+" · "+value+" · "+pair.han+" "+pair.name;
  $("ganzhi-info").innerHTML='<h3>'+escapeHTML(context.entry.ganZhi)+' · '+escapeHTML(context.entry.yinYang+' '+context.entry.stemElement+' '+context.entry.animal)+'</h3><p>'+escapeHTML(context.text)+'</p>';
- const selectedName=animal.han+animal.branch+" · "+animal.name;
  const periodName=pair.han+pair.branch+" · "+pair.name;
- $("relationship-comparison").textContent="Selected: "+selectedName+" vs "+periodName;
- $("selected-relationship").textContent=info.keys.includes("常规")
-   ?"No featured direct relationship between "+animal.branch+" and "+branch+" in the configured tables."
-   :"Calculated relationships: "+info.keys.join(" · ")+".";
- $("period-relationship-heading").textContent="All relationships for "+periodName;
+ const periodLabel={yearly:"Year 年柱",monthly:"Month 月柱",daily:"Day 日柱"}[active];
+ $("period-relationship-heading").textContent=periodLabel+" · "+value+" · "+periodName+" — relationships with the twelve animals";
  $("major-list").innerHTML=majorRelationships(branch,data.animals,data.relationships).map(x=>'<div class="major-item"><strong>'+escapeHTML(x.id)+'</strong><span>'+escapeHTML(pair.branch+' '+pair.name+' ↔ '+x.animal.branch+' '+x.animal.name)+'</span></div>').join("");
  $("reading").innerHTML='<div class="relationship-tags">'+info.keys.map(k=>'<span class="tag">'+escapeHTML(k)+'</span>').join("")+'</div>'+info.paragraphs.map(p=>'<p>'+escapeHTML(p)+'</p>').join("")+'<p class="context"><strong>Calendar fact:</strong> The '+escapeHTML(active)+' pillar is '+escapeHTML(value)+'. '+escapeHTML(animal.name)+' corresponds to '+escapeHTML(animal.branch)+'. Relationship labels are derived from the traditional Earthly Branch tables.</p>';
  document.querySelectorAll("[data-period]").forEach(b=>{b.classList.toggle("active",b.dataset.period===active);b.setAttribute("aria-pressed",String(b.dataset.period===active))});
