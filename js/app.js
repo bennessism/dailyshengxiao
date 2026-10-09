@@ -16,7 +16,7 @@ function render(){
  $("title").textContent=animal.han+" · "+animal.name;
  $("summary").textContent=periodData.introduction;
  $("period-caption").textContent=periodData.title+" · "+value+" · "+pair.han+" "+pair.name;
- $("reading").innerHTML='<div class="relationship-tags">'+info.keys.map(k=>'<span class="tag">'+escapeHTML(k)+'</span>').join("")+'</div>'+info.paragraphs.map(p=>'<p>'+escapeHTML(p)+'</p>').join("")+'<p class="context"><strong>Calendar fact:</strong> The '+escapeHTML(active)+' pillar is '+escapeHTML(value)+'. '+escapeHTML(animal.name)+' corresponds to '+escapeHTML(animal.branch)+'. The above relationships follow the configured traditional branch tables, while their meanings are cultural interpretations rather than verified predictions.</p>';
+ $("reading").innerHTML='<div class="relationship-tags">'+info.keys.map(k=>'<span class="tag">'+escapeHTML(k)+'</span>').join("")+'</div>'+info.paragraphs.map(p=>'<p>'+escapeHTML(p)+'</p>').join("")+'<p class="context"><strong>Calendar fact:</strong> The '+escapeHTML(active)+' pillar is '+escapeHTML(value)+'. '+escapeHTML(animal.name)+' corresponds to '+escapeHTML(animal.branch)+'. Relationship labels are derived from the traditional Earthly Branch tables.</p>';
  document.querySelectorAll("[data-period]").forEach(b=>{b.classList.toggle("active",b.dataset.period===active);b.setAttribute("aria-pressed",String(b.dataset.period===active))});
  document.querySelectorAll("[data-animal]").forEach(b=>{b.classList.toggle("active",b.dataset.animal===chosen);b.setAttribute("aria-pressed",String(b.dataset.animal===chosen))});
 }
