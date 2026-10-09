@@ -1,0 +1,257 @@
+{
+  "sourceNote": "Traditional Earthly Branch conventions; relationships can overlap. A shared three-harmony or seasonal-meeting group is not a complete three-branch formation.",
+  "sixHarmony": [
+    [
+      "子",
+      "丑"
+    ],
+    [
+      "寅",
+      "亥"
+    ],
+    [
+      "卯",
+      "戌"
+    ],
+    [
+      "辰",
+      "酉"
+    ],
+    [
+      "巳",
+      "申"
+    ],
+    [
+      "午",
+      "未"
+    ]
+  ],
+  "sixClash": [
+    [
+      "子",
+      "午"
+    ],
+    [
+      "丑",
+      "未"
+    ],
+    [
+      "寅",
+      "申"
+    ],
+    [
+      "卯",
+      "酉"
+    ],
+    [
+      "辰",
+      "戌"
+    ],
+    [
+      "巳",
+      "亥"
+    ]
+  ],
+  "sixHarm": [
+    [
+      "子",
+      "未"
+    ],
+    [
+      "丑",
+      "午"
+    ],
+    [
+      "寅",
+      "巳"
+    ],
+    [
+      "卯",
+      "辰"
+    ],
+    [
+      "申",
+      "亥"
+    ],
+    [
+      "酉",
+      "戌"
+    ]
+  ],
+  "sixBreak": [
+    [
+      "子",
+      "酉"
+    ],
+    [
+      "丑",
+      "辰"
+    ],
+    [
+      "寅",
+      "亥"
+    ],
+    [
+      "卯",
+      "午"
+    ],
+    [
+      "巳",
+      "申"
+    ],
+    [
+      "未",
+      "戌"
+    ]
+  ],
+  "threeHarmony": [
+    {
+      "members": [
+        "申",
+        "子",
+        "辰"
+      ],
+      "element": "Water"
+    },
+    {
+      "members": [
+        "亥",
+        "卯",
+        "未"
+      ],
+      "element": "Wood"
+    },
+    {
+      "members": [
+        "寅",
+        "午",
+        "戌"
+      ],
+      "element": "Fire"
+    },
+    {
+      "members": [
+        "巳",
+        "酉",
+        "丑"
+      ],
+      "element": "Metal"
+    }
+  ],
+  "seasonalMeeting": [
+    {
+      "members": [
+        "寅",
+        "卯",
+        "辰"
+      ],
+      "element": "Wood"
+    },
+    {
+      "members": [
+        "巳",
+        "午",
+        "未"
+      ],
+      "element": "Fire"
+    },
+    {
+      "members": [
+        "申",
+        "酉",
+        "戌"
+      ],
+      "element": "Metal"
+    },
+    {
+      "members": [
+        "亥",
+        "子",
+        "丑"
+      ],
+      "element": "Water"
+    }
+  ],
+  "punishments": [
+    {
+      "members": [
+        "寅",
+        "巳",
+        "申"
+      ],
+      "name": "无恩之刑",
+      "kind": "three-branch"
+    },
+    {
+      "members": [
+        "丑",
+        "未",
+        "戌"
+      ],
+      "name": "无礼之刑",
+      "kind": "three-branch"
+    },
+    {
+      "members": [
+        "子",
+        "卯"
+      ],
+      "name": "无礼之刑",
+      "kind": "pair"
+    },
+    {
+      "members": [
+        "辰"
+      ],
+      "name": "辰辰自刑",
+      "kind": "self"
+    },
+    {
+      "members": [
+        "午"
+      ],
+      "name": "午午自刑",
+      "kind": "self"
+    },
+    {
+      "members": [
+        "酉"
+      ],
+      "name": "酉酉自刑",
+      "kind": "self"
+    },
+    {
+      "members": [
+        "亥"
+      ],
+      "name": "亥亥自刑",
+      "kind": "self"
+    }
+  ],
+  "branchElements": {
+    "子": "Water",
+    "丑": "Earth",
+    "寅": "Wood",
+    "卯": "Wood",
+    "辰": "Earth",
+    "巳": "Fire",
+    "午": "Fire",
+    "未": "Earth",
+    "申": "Metal",
+    "酉": "Metal",
+    "戌": "Earth",
+    "亥": "Water"
+  },
+  "stemElements": {
+    "甲": "Wood",
+    "乙": "Wood",
+    "丙": "Fire",
+    "丁": "Fire",
+    "戊": "Earth",
+    "己": "Earth",
+    "庚": "Metal",
+    "辛": "Metal",
+    "壬": "Water",
+    "癸": "Water"
+  }
+}
