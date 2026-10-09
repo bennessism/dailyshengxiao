@@ -1,0 +1,54 @@
+{
+  "period": "daily",
+  "title": "Daily 日运",
+  "introduction": "The day branch gives a short-term traditional relationship indicator.",
+  "context": "today's interactions, decisions and flexibility",
+  "guidance": "Use the day's theme as a prompt for reflection, not a guarantee of outcomes.",
+  "interpretations": {
+    "六合": {
+      "meaning": "a traditional pairing associated with connection and cooperation",
+      "reflection": "Consider where an agreement or common purpose could help.",
+      "statement": "In the daily reading, this relationship represents a traditional pairing associated with connection and cooperation. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Consider where an agreement or common purpose could help. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "六冲": {
+      "meaning": "a traditional opposing pair often read as movement or differing priorities",
+      "reflection": "Give competing needs enough room rather than assuming the clash predicts trouble.",
+      "statement": "In the daily reading, this relationship represents a traditional opposing pair often read as movement or differing priorities. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Give competing needs enough room rather than assuming the clash predicts trouble. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "六害": {
+      "meaning": "a traditional relationship associated with subtle friction or misunderstanding",
+      "reflection": "Check expectations and communicate clearly.",
+      "statement": "In the daily reading, this relationship represents a traditional relationship associated with subtle friction or misunderstanding. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Check expectations and communicate clearly. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "相破": {
+      "meaning": "a traditional break relationship, sometimes associated with interruption or repair",
+      "reflection": "Review assumptions and leave flexibility for revisions.",
+      "statement": "In the daily reading, this relationship represents a traditional break relationship, sometimes associated with interruption or repair. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Review assumptions and leave flexibility for revisions. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "相刑": {
+      "meaning": "a traditional punishment relationship associated with constraints or complicated pressures",
+      "reflection": "Favor proportionate responses and avoid treating symbolism as a forecast.",
+      "statement": "In the daily reading, this relationship represents a traditional punishment relationship associated with constraints or complicated pressures. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Favor proportionate responses and avoid treating symbolism as a forecast. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "三合组": {
+      "meaning": "membership in the same three-harmony elemental group, without forming a complete three-branch combination",
+      "reflection": "Look for a shared direction while remembering that group membership is not a full formation.",
+      "statement": "In the daily reading, this relationship represents membership in the same three-harmony elemental group, without forming a complete three-branch combination. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Look for a shared direction while remembering that group membership is not a full formation. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "三会组": {
+      "meaning": "membership in the same seasonal-meeting group, without forming a complete seasonal formation",
+      "reflection": "Notice the seasonal element as a contextual symbol, not a guaranteed outcome.",
+      "statement": "In the daily reading, this relationship represents membership in the same seasonal-meeting group, without forming a complete seasonal formation. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Notice the seasonal element as a contextual symbol, not a guaranteed outcome. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "同支": {
+      "meaning": "the same Earthly Branch, amplifying the shared animal symbolism in traditional readings",
+      "reflection": "Use the familiar theme for reflection, without assigning automatic good or bad luck.",
+      "statement": "In the daily reading, this relationship represents the same Earthly Branch, amplifying the shared animal symbolism in traditional readings. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. Use the familiar theme for reflection, without assigning automatic good or bad luck. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    },
+    "常规": {
+      "meaning": "no highlighted direct pair relationship under the selected tables",
+      "reflection": "The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event.",
+      "statement": "In the daily reading, this relationship represents no highlighted direct pair relationship under the selected tables. Its relevance is traditionally discussed in terms of today's interactions, decisions and flexibility. The lack of a featured pairing is neutral, not an absence of meaning or a fabricated event. Use the day's theme as a prompt for reflection, not a guarantee of outcomes."
+    }
+  }
+}
