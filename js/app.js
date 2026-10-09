@@ -25,7 +25,7 @@ function init(){
  const day=new Date().toLocaleDateString(undefined,{weekday:"long",year:"numeric",month:"long",day:"numeric"});
  $("today").textContent=day;
  $("pillars").innerHTML=[["yearly","年柱"],["monthly","月柱"],["daily","日柱"]].map(([key,label])=>'<div class="pillar"><small>'+label+'</small><strong>'+calendar[pillarKey[key]]+'</strong></div>').join("");
- $("animal-grid").innerHTML=data.animals.map(a=>'<button class="animal" data-animal="'+a.id+'" aria-pressed="false"><span class="han">'+a.han+'</span><span>'+a.name+'</span></button>').join("");
+ $("animal-grid").innerHTML=data.animals.map((a,i)=>{const angle=(i*30-90)*Math.PI/180;const x=Math.cos(angle).toFixed(5),y=Math.sin(angle).toFixed(5);return '<button class="animal" style="--x:'+x+';--y:'+y+'" data-animal="'+a.id+'" aria-pressed="false" aria-label="'+a.name+' '+a.han+'"><span class="han">'+a.han+'</span><span class="animal-name">'+a.name+'</span></button>'}).join("");
  $("knowledge").innerHTML=data.knowledge.map(k=>'<details><summary><span>'+k.name+' · '+k.en+'</span><span class="plus">+</span></summary><p>'+escapeHTML(k.detail)+'</p></details>').join("");
  document.querySelectorAll("[data-animal]").forEach(b=>b.addEventListener("click",()=>{chosen=b.dataset.animal;render()}));
  document.querySelectorAll("[data-period]").forEach(b=>b.addEventListener("click",()=>{active=b.dataset.period;render()}));
