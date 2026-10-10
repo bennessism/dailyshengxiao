@@ -1,0 +1,43 @@
+{
+  "id": "sanhui",
+  "name": "三会",
+  "en": "Seasonal Meetings",
+  "kind": "seasonalMeeting",
+  "meaning": "Seasonal trios 寅卯辰 Wood, 巳午未 Fire, 申酉戌 Metal, 亥子丑 Water.",
+  "caution": "Two members share seasonal alignment, but only all three make a complete seasonal meeting.",
+  "reference": "Traditional Earthly Branch relationship convention. Interpretive guidance is symbolic, not a guaranteed forecast.",
+  "rules": [
+    {
+      "members": [
+        "寅",
+        "卯",
+        "辰"
+      ],
+      "element": "Wood"
+    },
+    {
+      "members": [
+        "巳",
+        "午",
+        "未"
+      ],
+      "element": "Fire"
+    },
+    {
+      "members": [
+        "申",
+        "酉",
+        "戌"
+      ],
+      "element": "Metal"
+    },
+    {
+      "members": [
+        "亥",
+        "子",
+        "丑"
+      ],
+      "element": "Water"
+    }
+  ]
+}
