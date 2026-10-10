@@ -30,7 +30,26 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Rat's responding quickly to changing information; balance keep a dependable pace and hear other views with notice what matters before responding.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Ox meets Rat through 六合 and 三会组. In animal-character terms, protecting routines and working through commitments meets responding quickly to changing information; the practical tension is that resisting a necessary change of course can become more noticeable alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Ox's Earth restrains Rat's Water; directing the situation may require care."
+      },
+      "dailyGuidance": "For Ox on a Rat day, find a point of agreement. Keep a dependable pace and hear other views while taking account of notice what matters before responding.",
+      "monthlyGuidance": "For Ox through a Rat month, develop cooperation without taking goodwill for granted. Leave room in a fixed plan for adjustment as Rat's tendency toward responding quickly to changing information shapes the pace.",
+      "yearlyGuidance": "For Ox in a Rat year, invest in reliable partnerships. Keep protecting routines and working through commitments constructive while making room for responding quickly to changing information.",
+      "overlappingRelationships": [
+        {
+          "type": "三会组",
+          "qualification": "However, 三会组 also applies to Ox–Rat; this additional classification must be interpreted alongside 六合, not discarded."
+        }
+      ],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "ox": {
       "branch": "丑",
@@ -45,7 +64,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Ox's protecting routines and working through commitments; balance keep a dependable pace and hear other views with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Ox meets Ox through 同支. In animal-character terms, protecting routines and working through commitments meets protecting routines and working through commitments; the practical tension is that resisting a necessary change of course can become more noticeable alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Ox on a Ox day, watch for a familiar habit repeated. Keep a dependable pace and hear other views while taking account of keep a dependable pace and hear other views.",
+      "monthlyGuidance": "For Ox through a Ox month, refine familiar routines without doubling down on mistakes. Leave room in a fixed plan for adjustment as Ox's tendency toward protecting routines and working through commitments shapes the pace.",
+      "yearlyGuidance": "For Ox in a Ox year, strengthen useful habits and reconsider outdated ones. Keep protecting routines and working through commitments constructive while making room for protecting routines and working through commitments.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "tiger": {
       "branch": "寅",
@@ -60,7 +93,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Tiger's taking initiative when a direction is clear; balance keep a dependable pace and hear other views with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "Ox and Tiger have no listed special branch pairing. In animal-character terms, protecting routines and working through commitments meets taking initiative when a direction is clear; the practical tension is that resisting a necessary change of course can become more noticeable alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Tiger's Wood restrains Ox's Earth; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Ox on a Tiger day, work with the actual elemental direction rather than assuming a clash. Keep a dependable pace and hear other views while taking account of choose battles and direct initiative carefully.",
+      "monthlyGuidance": "For Ox through a Tiger month, use elemental and seasonal contrasts to adjust expectations. Leave room in a fixed plan for adjustment as Tiger's tendency toward taking initiative when a direction is clear shapes the pace.",
+      "yearlyGuidance": "For Ox in a Tiger year, plan around the real elemental interaction, not an invented special relationship. Keep protecting routines and working through commitments constructive while making room for taking initiative when a direction is clear.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rabbit": {
       "branch": "卯",
@@ -75,7 +122,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Rabbit's keeping discussions measured and relationships settled; balance keep a dependable pace and hear other views with speak clearly without losing tact.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Ox and Rabbit have no listed special branch pairing. In animal-character terms, protecting routines and working through commitments meets keeping discussions measured and relationships settled; the practical tension is that resisting a necessary change of course can become more noticeable alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Rabbit's Wood restrains Ox's Earth; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Ox on a Rabbit day, work with the actual elemental direction rather than assuming a clash. Keep a dependable pace and hear other views while taking account of speak clearly without losing tact.",
+      "monthlyGuidance": "For Ox through a Rabbit month, use elemental and seasonal contrasts to adjust expectations. Leave room in a fixed plan for adjustment as Rabbit's tendency toward keeping discussions measured and relationships settled shapes the pace.",
+      "yearlyGuidance": "For Ox in a Rabbit year, plan around the real elemental interaction, not an invented special relationship. Keep protecting routines and working through commitments constructive while making room for keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dragon": {
       "branch": "辰",
@@ -90,7 +151,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Dragon's bringing different interests into a larger plan; balance keep a dependable pace and hear other views with test big ideas against practical limits.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "Ox meets Dragon through 相破. In animal-character terms, protecting routines and working through commitments meets bringing different interests into a larger plan; the practical tension is that resisting a necessary change of course can become more noticeable alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Ox on a Dragon day, check a fragile arrangement before relying on it. Keep a dependable pace and hear other views while taking account of test big ideas against practical limits.",
+      "monthlyGuidance": "For Ox through a Dragon month, revisit agreements and repair interrupted cooperation. Leave room in a fixed plan for adjustment as Dragon's tendency toward bringing different interests into a larger plan shapes the pace.",
+      "yearlyGuidance": "For Ox in a Dragon year, rebuild weak foundations and allow revisions to commitments. Keep protecting routines and working through commitments constructive while making room for bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "snake": {
       "branch": "巳",
@@ -105,7 +180,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Snake's watching patterns before making a move; balance keep a dependable pace and hear other views with verify intentions rather than guessing.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Ox meets Snake through 三合组. In animal-character terms, protecting routines and working through commitments meets watching patterns before making a move; the practical tension is that resisting a necessary change of course can become more noticeable alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Snake's Fire nourishes Ox's Earth; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Ox on a Snake day, look for a shared direction. Keep a dependable pace and hear other views while taking account of verify intentions rather than guessing.",
+      "monthlyGuidance": "For Ox through a Snake month, cultivate compatible strengths without assuming a complete formation. Leave room in a fixed plan for adjustment as Snake's tendency toward watching patterns before making a move shapes the pace.",
+      "yearlyGuidance": "For Ox in a Snake year, support a consistent direction over time. Keep protecting routines and working through commitments constructive while making room for watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "horse": {
       "branch": "午",
@@ -120,7 +209,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Horse's building momentum and taking timely action; balance keep a dependable pace and hear other views with pause before acting on urgency.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "Ox meets Horse through 六害. In animal-character terms, protecting routines and working through commitments meets building momentum and taking timely action; the practical tension is that resisting a necessary change of course can become more noticeable alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Horse's Fire nourishes Ox's Earth; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Ox on a Horse day, clarify intentions before frustration grows. Keep a dependable pace and hear other views while taking account of pause before acting on urgency.",
+      "monthlyGuidance": "For Ox through a Horse month, name responsibilities and resolve recurring misunderstandings. Leave room in a fixed plan for adjustment as Horse's tendency toward building momentum and taking timely action shapes the pace.",
+      "yearlyGuidance": "For Ox in a Horse year, protect trust with clear boundaries and expectations. Keep protecting routines and working through commitments constructive while making room for building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "goat": {
       "branch": "未",
@@ -141,7 +244,26 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Goat's maintaining care and cooperation; balance keep a dependable pace and hear other views with state needs and responsibilities openly.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "Ox meets Goat through 六冲 and 刑组关联. In animal-character terms, protecting routines and working through commitments meets maintaining care and cooperation; the practical tension is that resisting a necessary change of course can become more noticeable alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Ox on a Goat day, wait before reacting to a conflicting pace. Keep a dependable pace and hear other views while taking account of state needs and responsibilities openly.",
+      "monthlyGuidance": "For Ox through a Goat month, allow plans to change without turning each difference into a fight. Leave room in a fixed plan for adjustment as Goat's tendency toward maintaining care and cooperation shapes the pace.",
+      "yearlyGuidance": "For Ox in a Goat year, prepare options and avoid locking important decisions into one approach. Keep protecting routines and working through commitments constructive while making room for maintaining care and cooperation.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Ox–Goat; this additional classification must be interpreted alongside 六冲, not discarded."
+        }
+      ],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "monkey": {
       "branch": "申",
@@ -156,7 +278,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Monkey's finding alternate approaches when plans shift; balance keep a dependable pace and hear other views with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Ox and Monkey have no listed special branch pairing. In animal-character terms, protecting routines and working through commitments meets finding alternate approaches when plans shift; the practical tension is that resisting a necessary change of course can become more noticeable alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Ox's Earth nourishes Monkey's Metal; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Ox on a Monkey day, work with the actual elemental direction rather than assuming a clash. Keep a dependable pace and hear other views while taking account of explain changes and confirm shared expectations.",
+      "monthlyGuidance": "For Ox through a Monkey month, use elemental and seasonal contrasts to adjust expectations. Leave room in a fixed plan for adjustment as Monkey's tendency toward finding alternate approaches when plans shift shapes the pace.",
+      "yearlyGuidance": "For Ox in a Monkey year, plan around the real elemental interaction, not an invented special relationship. Keep protecting routines and working through commitments constructive while making room for finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rooster": {
       "branch": "酉",
@@ -171,7 +307,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Rooster's noticing detail and maintaining standards; balance keep a dependable pace and hear other views with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "Ox meets Rooster through 三合组. In animal-character terms, protecting routines and working through commitments meets noticing detail and maintaining standards; the practical tension is that resisting a necessary change of course can become more noticeable alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Ox's Earth nourishes Rooster's Metal; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Ox on a Rooster day, look for a shared direction. Keep a dependable pace and hear other views while taking account of offer constructive rather than sharp feedback.",
+      "monthlyGuidance": "For Ox through a Rooster month, cultivate compatible strengths without assuming a complete formation. Leave room in a fixed plan for adjustment as Rooster's tendency toward noticing detail and maintaining standards shapes the pace.",
+      "yearlyGuidance": "For Ox in a Rooster year, support a consistent direction over time. Keep protecting routines and working through commitments constructive while making room for noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dog": {
       "branch": "戌",
@@ -186,7 +336,26 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Dog's protecting trust, fairness and established obligations; balance keep a dependable pace and hear other views with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Ox meets Dog through 刑组关联. In animal-character terms, protecting routines and working through commitments meets protecting trust, fairness and established obligations; the practical tension is that resisting a necessary change of course can become more noticeable alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Ox on a Dog day, work with the actual elemental direction rather than assuming a clash. Keep a dependable pace and hear other views while taking account of separate genuine concerns from assumptions.",
+      "monthlyGuidance": "For Ox through a Dog month, use elemental and seasonal contrasts to adjust expectations. Leave room in a fixed plan for adjustment as Dog's tendency toward protecting trust, fairness and established obligations shapes the pace.",
+      "yearlyGuidance": "For Ox in a Dog year, plan around the real elemental interaction, not an invented special relationship. Keep protecting routines and working through commitments constructive while making room for protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Ox–Dog; this additional classification must be interpreted alongside 常规, not discarded."
+        }
+      ],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "pig": {
       "branch": "亥",
@@ -201,7 +370,21 @@
         }
       ],
       "specificFocus": "Ox's protecting routines and working through commitments meets Pig's bringing goodwill and openness into relationships; balance keep a dependable pace and hear other views with check details while remaining approachable.",
-      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Ox should watch for resisting a necessary change of course, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "steady, methodical and persistent",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "Ox meets Pig through 三会组. In animal-character terms, protecting routines and working through commitments meets bringing goodwill and openness into relationships; the practical tension is that resisting a necessary change of course can become more noticeable alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Ox's Earth restrains Pig's Water; directing the situation may require care."
+      },
+      "dailyGuidance": "For Ox on a Pig day, notice common seasonal rhythm. Keep a dependable pace and hear other views while taking account of check details while remaining approachable.",
+      "monthlyGuidance": "For Ox through a Pig month, organize activity around a shared seasonal pattern. Leave room in a fixed plan for adjustment as Pig's tendency toward bringing goodwill and openness into relationships shapes the pace.",
+      "yearlyGuidance": "For Ox in a Pig year, maintain realistic routines in the longer seasonal cycle. Keep protecting routines and working through commitments constructive while making room for bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     }
   }
 }
