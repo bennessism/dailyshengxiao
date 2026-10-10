@@ -68,5 +68,10 @@ export function composeReading(period,selected,calendar,animals,rules,profiles){
  if(period==="daily")paragraphs.push(`In the wider context, ${contextWords.join(", while ")}. The day may be easier or harder than the broader period depending on these different branch relationships.`);
  else if(period==="monthly")paragraphs.push(`The broader year matters too: ${contextWords[0]}. The current day adds a shorter note: ${contextWords[1]}. The month can therefore offer a different direction from the surrounding year.`);
  else paragraphs.push(`Within that annual theme, ${contextWords[0]}, while ${contextWords[1]}. The annual relationship remains the longer-running theme even when a particular month or day differs.`);
+ const present=new Set([selected.branch,calendar.year[1],calendar.month[1],calendar.day[1]]);
+ for(const [kind,groups] of [["三合",rules.threeHarmony],["三会",rules.seasonalMeeting]]){
+  const full=groups.find(group=>group.members.includes(selected.branch)&&group.members.every(branch=>present.has(branch)));
+  if(full)paragraphs.push(`Across the selected animal and the recorded year, month and day, all three branches of the ${full.element} ${kind} group (${full.members.join("·")}) are present. This is a complete three-branch grouping in this limited comparison, unlike merely sharing two members; a full birth-chart assessment would require further context.`);
+ }
  return {keys,headline,paragraphs};
 }
