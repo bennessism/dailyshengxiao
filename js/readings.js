@@ -42,15 +42,16 @@ export function composeReading(period,selected,calendar,animals,rules,profiles,g
  const real=keys.filter(k=>k!=="常规"&&k!=="刑组关联");
  const chosen=PRIMARY.find(k=>real.includes(k)),secondary=real.filter(k=>k!==chosen);
  const p=PERIOD[period];
- const introductory=`${other.name} (${b}) is the ${p.label} branch, associated here with ${profiles[other.id].traditionalTraits}; ${selected.name} (${selected.branch}) is traditionally described as ${profile.traditionalTraits}.`;
- let headline,first;
- if(chosen){
-  const effect=EFFECTS[chosen];
-  headline=`${selected.name} · ${other.name}: ${NAMES[chosen]}`;
-  first=`${selected.name} and ${other.name} form ${chosen}, which traditionally ${effect[0]}. For ${selected.name}, the practical emphasis ${p.label} is to ${effect[period==="daily"?2:period==="monthly"?3:4].charAt(0).toLowerCase()+effect[period==="daily"?2:period==="monthly"?3:4].slice(1)}. ${pair.counterpartCaution}`;
- }else{
-  headline=`${selected.name} · ${other.name}: Elements and character`;
-  first=`No listed direct harmony, clash, harm, break or other special pair applies between ${selected.name} and ${other.name}. ${elementText(selected,other)} For ${selected.name}, ${p.label} calls for ${period==='yearly'?profile.longTermAdvice:profile.immediateAdvice}. ${pair.counterpartCaution}`;
+ const introductory=`${other.name} (${b}) represents ${pair.partnerTraits}, while ${selected.name} (${selected.branch}) is associated with ${pair.animalTraits}.`;
+ const headline=`${selected.name} · ${other.name}: ${chosen?NAMES[chosen]:"Elemental interaction"}`;
+ const periodGuidance=pair[period+"Guidance"];
+ const relationshipExplanation=pair.relationshipInterpretation;
+ const elementExplanation=pair.fiveElements.meaning;
+ if(!periodGuidance||!relationshipExplanation||!elementExplanation)throw new Error("Missing pair-specific reading fields: "+selected.id+" / "+other.id);
+ const paragraphs=[introductory,relationshipExplanation,periodGuidance,elementExplanation];
+ for(const k of secondary){
+   const extra=pair.overlappingRelationships?.find(e=>e.type===k);
+   if(extra)paragraphs.push(extra.qualification);
  }
  const pillar=calendar[position];
  const stemBranch=ganzhi.cycle.find(item=>item.ganZhi===pillar);
@@ -58,9 +59,7 @@ export function composeReading(period,selected,calendar,animals,rules,profiles,g
  const stemLayer=stemBranch.layer;
  const stemName=stemLayer.stemElement+" "+other.name;
  const stemSentence=`This is a ${stemName} period (${pillar}): its ${stemLayer.stemElement} Heavenly Stem adds ${stemLayer.stemMeaning} to ${other.name}'s underlying ${stemLayer.branchElement} branch. ${stemLayer.elementExplanation} For this ${period==="daily"?"day":period==="monthly"?"month":"year"}, a useful stem-level theme is to ${stemLayer.periodGuidance[period]}.`;
- const paragraphs=[introductory,first];
  paragraphs.push(stemSentence);
- for(const k of secondary)paragraphs.push(overlapText(k,p,selected,other,period,rules,animals));
  if(sharedPunishment)paragraphs.push(overlapText("刑组关联",p,selected,other,period,rules,animals));
  if(chosen && !secondary.length && period!=="daily")paragraphs.push(elementText(selected,other));
  // Each reading also acknowledges the actual background branches, without treating them as a second independent prediction.
