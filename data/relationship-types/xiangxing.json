@@ -1,0 +1,65 @@
+{
+  "id": "xiangxing",
+  "name": "相刑",
+  "en": "Punishments",
+  "kind": "punishments",
+  "meaning": "Paired, self and three-branch punishment conventions associated with pressure, constraints and consequences.",
+  "caution": "Distinguish paired and self-punishment from incomplete three-branch patterns.",
+  "reference": "Traditional Earthly Branch relationship convention. Interpretive guidance is symbolic, not a guaranteed forecast.",
+  "rules": [
+    {
+      "members": [
+        "寅",
+        "巳",
+        "申"
+      ],
+      "name": "无恩之刑",
+      "kind": "three-branch"
+    },
+    {
+      "members": [
+        "丑",
+        "未",
+        "戌"
+      ],
+      "name": "无礼之刑",
+      "kind": "three-branch"
+    },
+    {
+      "members": [
+        "子",
+        "卯"
+      ],
+      "name": "无礼之刑",
+      "kind": "pair"
+    },
+    {
+      "members": [
+        "辰"
+      ],
+      "name": "辰辰自刑",
+      "kind": "self"
+    },
+    {
+      "members": [
+        "午"
+      ],
+      "name": "午午自刑",
+      "kind": "self"
+    },
+    {
+      "members": [
+        "酉"
+      ],
+      "name": "酉酉自刑",
+      "kind": "self"
+    },
+    {
+      "members": [
+        "亥"
+      ],
+      "name": "亥亥自刑",
+      "kind": "self"
+    }
+  ]
+}
