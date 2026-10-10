@@ -1,0 +1,35 @@
+{
+  "id": "liuchong",
+  "name": "六冲",
+  "en": "Six Clashes",
+  "kind": "sixClash",
+  "meaning": "Six direct oppositions traditionally linked to movement, differing directions and the need to adapt.",
+  "caution": "Give caution and adjustment an appropriate time scale without predicting that conflict or loss must occur.",
+  "reference": "Traditional Earthly Branch relationship convention. Interpretive guidance is symbolic, not a guaranteed forecast.",
+  "rules": [
+    [
+      "子",
+      "午"
+    ],
+    [
+      "丑",
+      "未"
+    ],
+    [
+      "寅",
+      "申"
+    ],
+    [
+      "卯",
+      "酉"
+    ],
+    [
+      "辰",
+      "戌"
+    ],
+    [
+      "巳",
+      "亥"
+    ]
+  ]
+}
