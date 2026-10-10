@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#150707"><meta name="description" content="Daily Sheng Xiao: yearly, monthly and daily Chinese zodiac readings grounded in traditional calendar calculations."><title>Daily Sheng Xiao · 每日生肖</title><link rel="icon" href="./favicon-32x32.png"><link rel="apple-touch-icon" href="./apple-touch-icon.png"><link rel="stylesheet" href="./css/style.css"></head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#150707"><meta name="description" content="Daily Sheng Xiao: yearly, monthly and daily Chinese zodiac readings grounded in traditional calendar calculations."><title>Daily Sheng Xiao · 每日生肖</title><link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./favicon-32x32.png"><link rel="apple-touch-icon" href="./apple-touch-icon.png"><link rel="stylesheet" href="./css/style.css"></head>
 <body>
 <div class="ambient ambient-one" aria-hidden="true"></div><div class="ambient ambient-two" aria-hidden="true"></div><div class="particles p1" aria-hidden="true"></div><div class="particles p2" aria-hidden="true"></div>
 <header class="hero"><div class="wrap"><p class="eyebrow">bennessism</p><h1>Daily Sheng Xiao <span>每日生肖</span></h1><p class="tagline">Traditional calendar · 12 animals · Yearly, monthly & daily readings</p></div></header>
@@ -12,4 +12,5 @@
 </main><footer class="wrap footer">Daily Sheng Xiao · Traditional calendar knowledge and entertainment · <a href="./LICENSES.md">License &amp; Source</a></footer>
 <script src="./vendor/lunar.js" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/lunar-javascript@1.7.7/lunar.js';"></script>
 <script>if(typeof Solar==="undefined"){document.write('<script src="https://cdn.jsdelivr.net/npm/lunar-javascript@1.7.7/lunar.js"><\/script>')}</script>
-<script type="module" src="./js/app.js"></script></body></html>
+<script type="module" src="./js/app.js"></script>
+<script>if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js',{updateViaCache:'none'}).then(reg=>reg.update()).catch(console.error));}</script></body></html>
