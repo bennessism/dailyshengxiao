@@ -32,7 +32,7 @@ function overlapText(label,p,animal,other,period,rules,animals){
  const formation=group?` They share the ${group.element} group (${groupNames(group,animals)}), but two branches alone do not complete the formation.`:"";
  return `However, ${animal.name} and ${other.name} also have ${label} (${NAMES[label]}), which ${e[0]}. ${e[period==="daily"?2:period==="monthly"?3:4]}.${formation}`;
 }
-export function composeReading(period,selected,calendar,animals,rules,profiles){
+export function composeReading(period,selected,calendar,animals,rules,profiles,ganzhi){
  const position={daily:"day",monthly:"month",yearly:"year"}[period];
  const b=calendar[position][1],other=animals.find(a=>a.branch===b),profile=profiles[selected.id],pair=profile.counterparts[other.id];
  const actual=detectRelationships(selected.branch,b,rules);
@@ -52,7 +52,14 @@ export function composeReading(period,selected,calendar,animals,rules,profiles){
   headline=`${selected.name} · ${other.name}: Elements and character`;
   first=`No listed direct harmony, clash, harm, break or other special pair applies between ${selected.name} and ${other.name}. ${elementText(selected,other)} For ${selected.name}, ${p.label} calls for ${period==='yearly'?profile.longTermAdvice:profile.immediateAdvice}. ${pair.counterpartCaution}`;
  }
+ const pillar=calendar[position];
+ const stemBranch=ganzhi.cycle.find(item=>item.ganZhi===pillar);
+ if(!stemBranch?.layer)throw new Error("Missing 60-cycle stem-branch context for "+pillar);
+ const stemLayer=stemBranch.layer;
+ const stemName=stemLayer.stemElement+" "+other.name;
+ const stemSentence=`This is a ${stemName} period (${pillar}): its ${stemLayer.stemElement} Heavenly Stem adds ${stemLayer.stemMeaning} to ${other.name}'s underlying ${stemLayer.branchElement} branch. ${stemLayer.elementExplanation} For this ${period==="daily"?"day":period==="monthly"?"month":"year"}, a useful stem-level theme is to ${stemLayer.periodGuidance[period]}.`;
  const paragraphs=[introductory,first];
+ paragraphs.push(stemSentence);
  for(const k of secondary)paragraphs.push(overlapText(k,p,selected,other,period,rules,animals));
  if(sharedPunishment)paragraphs.push(overlapText("刑组关联",p,selected,other,period,rules,animals));
  if(chosen && !secondary.length && period!=="daily")paragraphs.push(elementText(selected,other));
