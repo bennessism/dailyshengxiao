@@ -1,9 +1,11 @@
-import {calendarFor,buildReading,ganzhiContext,majorRelationships} from "./engine.js";
+import {calendarFor,ganzhiContext,majorRelationships} from "./engine.js";
+import {composeReading} from "./readings.js";
 const $=id=>document.getElementById(id);
 const paths=["animals","relationships","knowledge","ganzhi","yearly","monthly","daily"];
 const data=Object.fromEntries(await Promise.all(paths.map(async k=>{
   const res=await fetch("./data/"+k+".json");if(!res.ok)throw new Error(k+" data HTTP "+res.status);return [k,await res.json()];
 })));
+const profiles=Object.fromEntries(await Promise.all(data.animals.map(async animal=>{const response=await fetch("./data/animal-readings/"+animal.id+".json",{cache:"no-store"});if(!response.ok)throw new Error("Animal reading data unavailable: "+animal.id);return [animal.id,await response.json()]})));
 const periods=["yearly","monthly","daily"];
 const pillarKey={yearly:"year",monthly:"month",daily:"day"};
 let active="daily",chosen="rat",calendar=null;
@@ -12,7 +14,7 @@ function render(){
  const animal=data.animals.find(a=>a.id===chosen);
  const value=calendar[pillarKey[active]], branch=value[1], periodData=data[active];
  const pair=data.animals.find(a=>a.branch===branch);
- const info=buildReading(active,branch,animal,data.relationships,periodData);
+ const info=composeReading(active,animal,calendar,data.animals,data.relationships,profiles);
  const context=ganzhiContext(value,animal,data.ganzhi,data.relationships);
  $("title").textContent=animal.han+" · "+animal.name;
  $("summary").textContent=periodData.introduction;
@@ -22,7 +24,7 @@ function render(){
  const periodLabel={yearly:"Year 年柱",monthly:"Month 月柱",daily:"Day 日柱"}[active];
  $("period-relationship-heading").textContent=periodLabel+" · "+value+" · "+periodName+" — relationships with the twelve animals";
  $("major-list").innerHTML=majorRelationships(branch,data.animals,data.relationships).map(x=>'<div class="major-item"><strong>'+escapeHTML(x.id)+'</strong><span>'+escapeHTML(pair.branch+' '+pair.name+' ↔ '+x.animal.branch+' '+x.animal.name)+'</span></div>').join("");
- $("reading").innerHTML='<div class="relationship-tags">'+info.keys.map(k=>'<span class="tag">'+escapeHTML(k)+'</span>').join("")+'</div>'+info.paragraphs.map(p=>'<p>'+escapeHTML(p)+'</p>').join("")+'<p class="context"><strong>Calendar fact:</strong> The '+escapeHTML(active)+' pillar is '+escapeHTML(value)+'. '+escapeHTML(animal.name)+' corresponds to '+escapeHTML(animal.branch)+'. Relationship labels are derived from the traditional Earthly Branch tables.</p>';
+ $("reading").innerHTML='<h3>'+escapeHTML(info.headline)+'</h3><div class="relationship-tags">'+info.keys.map(k=>'<span class="tag">'+escapeHTML(k)+'</span>').join("")+'</div>'+info.paragraphs.map(p=>'<p>'+escapeHTML(p)+'</p>').join("");
  document.querySelectorAll("[data-period]").forEach(b=>{b.classList.toggle("active",b.dataset.period===active);b.setAttribute("aria-pressed",String(b.dataset.period===active))});
  document.querySelectorAll("[data-animal]").forEach(b=>{b.classList.toggle("active",b.dataset.animal===chosen);b.setAttribute("aria-pressed",String(b.dataset.animal===chosen))});
 }
