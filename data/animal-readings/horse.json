@@ -1,0 +1,201 @@
+{
+  "id": "horse",
+  "name": "Horse",
+  "han": "马",
+  "branch": "午",
+  "element": "Fire",
+  "traditionalTraits": "energetic, mobile and independent",
+  "strength": "building momentum and taking timely action",
+  "shadow": "moving faster than circumstances allow",
+  "immediateAdvice": "pause before acting on urgency",
+  "longTermAdvice": "channel energy into a realistic sequence",
+  "note": "Animal traits are conventional zodiac character symbolism; named Earthly Branch relationships are verified separately against data/relationships.json.",
+  "counterparts": {
+    "rat": {
+      "branch": "子",
+      "relationships": [
+        "六冲"
+      ],
+      "interaction": [
+        {
+          "type": "六冲",
+          "theme": "different directions and an urge to change course",
+          "guidance": "Give decisions room to settle before reacting"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Rat's responding quickly to changing information; balance pause before acting on urgency with notice what matters before responding.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+    },
+    "ox": {
+      "branch": "丑",
+      "relationships": [
+        "六害"
+      ],
+      "interaction": [
+        {
+          "type": "六害",
+          "theme": "indirect friction and crossed expectations",
+          "guidance": "Clarify assumptions before they become grievances"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Ox's protecting routines and working through commitments; balance pause before acting on urgency with keep a dependable pace and hear other views.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+    },
+    "tiger": {
+      "branch": "寅",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Tiger's taking initiative when a direction is clear; balance pause before acting on urgency with choose battles and direct initiative carefully.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+    },
+    "rabbit": {
+      "branch": "卯",
+      "relationships": [
+        "相破"
+      ],
+      "interaction": [
+        {
+          "type": "相破",
+          "theme": "interruptions even where intentions seem cooperative",
+          "guidance": "Check details and leave room to repair plans"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Rabbit's keeping discussions measured and relationships settled; balance pause before acting on urgency with speak clearly without losing tact.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+    },
+    "dragon": {
+      "branch": "辰",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Dragon's bringing different interests into a larger plan; balance pause before acting on urgency with test big ideas against practical limits.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+    },
+    "snake": {
+      "branch": "巳",
+      "relationships": [
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Snake's watching patterns before making a move; balance pause before acting on urgency with verify intentions rather than guessing.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+    },
+    "horse": {
+      "branch": "午",
+      "relationships": [
+        "同支"
+      ],
+      "interaction": [
+        {
+          "type": "同支",
+          "theme": "repetition of familiar qualities and habits",
+          "guidance": "Use familiarity constructively rather than assuming automatic luck"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Horse's building momentum and taking timely action; balance pause before acting on urgency with pause before acting on urgency.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+    },
+    "goat": {
+      "branch": "未",
+      "relationships": [
+        "六合",
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "六合",
+          "theme": "coordination and finding common ground",
+          "guidance": "Build an agreement around a shared purpose"
+        },
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Goat's maintaining care and cooperation; balance pause before acting on urgency with state needs and responsibilities openly.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+    },
+    "monkey": {
+      "branch": "申",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Monkey's finding alternate approaches when plans shift; balance pause before acting on urgency with explain changes and confirm shared expectations.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+    },
+    "rooster": {
+      "branch": "酉",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Rooster's noticing detail and maintaining standards; balance pause before acting on urgency with offer constructive rather than sharp feedback.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+    },
+    "dog": {
+      "branch": "戌",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Dog's protecting trust, fairness and established obligations; balance pause before acting on urgency with separate genuine concerns from assumptions.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+    },
+    "pig": {
+      "branch": "亥",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Horse's building momentum and taking timely action meets Pig's bringing goodwill and openness into relationships; balance pause before acting on urgency with check details while remaining approachable.",
+      "counterpartCaution": "Horse should watch for moving faster than circumstances allow, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+    }
+  }
+}
