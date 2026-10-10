@@ -1,0 +1,201 @@
+{
+  "id": "rat",
+  "name": "Rat",
+  "han": "鼠",
+  "branch": "子",
+  "element": "Water",
+  "traditionalTraits": "alert, adaptable and resourceful",
+  "strength": "responding quickly to changing information",
+  "shadow": "scattered attention or excessive calculation",
+  "immediateAdvice": "notice what matters before responding",
+  "longTermAdvice": "organize options without overthinking",
+  "note": "Animal traits are conventional zodiac character symbolism; named Earthly Branch relationships are verified separately against data/relationships.json.",
+  "counterparts": {
+    "rat": {
+      "branch": "子",
+      "relationships": [
+        "同支"
+      ],
+      "interaction": [
+        {
+          "type": "同支",
+          "theme": "repetition of familiar qualities and habits",
+          "guidance": "Use familiarity constructively rather than assuming automatic luck"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Rat's responding quickly to changing information; balance notice what matters before responding with notice what matters before responding.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+    },
+    "ox": {
+      "branch": "丑",
+      "relationships": [
+        "六合",
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "六合",
+          "theme": "coordination and finding common ground",
+          "guidance": "Build an agreement around a shared purpose"
+        },
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Ox's protecting routines and working through commitments; balance notice what matters before responding with keep a dependable pace and hear other views.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+    },
+    "tiger": {
+      "branch": "寅",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Tiger's taking initiative when a direction is clear; balance notice what matters before responding with choose battles and direct initiative carefully.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+    },
+    "rabbit": {
+      "branch": "卯",
+      "relationships": [
+        "相刑"
+      ],
+      "interaction": [
+        {
+          "type": "相刑",
+          "theme": "pressure, rules and consequences",
+          "guidance": "Respond proportionately rather than forcing an outcome"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Rabbit's keeping discussions measured and relationships settled; balance notice what matters before responding with speak clearly without losing tact.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+    },
+    "dragon": {
+      "branch": "辰",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Dragon's bringing different interests into a larger plan; balance notice what matters before responding with test big ideas against practical limits.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+    },
+    "snake": {
+      "branch": "巳",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Snake's watching patterns before making a move; balance notice what matters before responding with verify intentions rather than guessing.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+    },
+    "horse": {
+      "branch": "午",
+      "relationships": [
+        "六冲"
+      ],
+      "interaction": [
+        {
+          "type": "六冲",
+          "theme": "different directions and an urge to change course",
+          "guidance": "Give decisions room to settle before reacting"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Horse's building momentum and taking timely action; balance notice what matters before responding with pause before acting on urgency.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+    },
+    "goat": {
+      "branch": "未",
+      "relationships": [
+        "六害"
+      ],
+      "interaction": [
+        {
+          "type": "六害",
+          "theme": "indirect friction and crossed expectations",
+          "guidance": "Clarify assumptions before they become grievances"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Goat's maintaining care and cooperation; balance notice what matters before responding with state needs and responsibilities openly.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+    },
+    "monkey": {
+      "branch": "申",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Monkey's finding alternate approaches when plans shift; balance notice what matters before responding with explain changes and confirm shared expectations.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+    },
+    "rooster": {
+      "branch": "酉",
+      "relationships": [
+        "相破"
+      ],
+      "interaction": [
+        {
+          "type": "相破",
+          "theme": "interruptions even where intentions seem cooperative",
+          "guidance": "Check details and leave room to repair plans"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Rooster's noticing detail and maintaining standards; balance notice what matters before responding with offer constructive rather than sharp feedback.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+    },
+    "dog": {
+      "branch": "戌",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Dog's protecting trust, fairness and established obligations; balance notice what matters before responding with separate genuine concerns from assumptions.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+    },
+    "pig": {
+      "branch": "亥",
+      "relationships": [
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rat's responding quickly to changing information meets Pig's bringing goodwill and openness into relationships; balance notice what matters before responding with check details while remaining approachable.",
+      "counterpartCaution": "Rat should watch for scattered attention or excessive calculation, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+    }
+  }
+}
