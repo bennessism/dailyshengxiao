@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Rat's responding quickly to changing information; balance test big ideas against practical limits with notice what matters before responding.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Dragon meets Rat through 三合组. In animal-character terms, bringing different interests into a larger plan meets responding quickly to changing information; the practical tension is that overcommitting before details are settled can become more noticeable alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Dragon's Earth restrains Rat's Water; directing the situation may require care."
+      },
+      "dailyGuidance": "For Dragon on a Rat day, look for a shared direction. Test big ideas against practical limits while taking account of notice what matters before responding.",
+      "monthlyGuidance": "For Dragon through a Rat month, cultivate compatible strengths without assuming a complete formation. Set priorities before widening commitments as Rat's tendency toward responding quickly to changing information shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Rat year, support a consistent direction over time. Keep bringing different interests into a larger plan constructive while making room for responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "ox": {
       "branch": "丑",
@@ -39,7 +53,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Ox's protecting routines and working through commitments; balance test big ideas against practical limits with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Dragon meets Ox through 相破. In animal-character terms, bringing different interests into a larger plan meets protecting routines and working through commitments; the practical tension is that overcommitting before details are settled can become more noticeable alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Dragon on a Ox day, check a fragile arrangement before relying on it. Test big ideas against practical limits while taking account of keep a dependable pace and hear other views.",
+      "monthlyGuidance": "For Dragon through a Ox month, revisit agreements and repair interrupted cooperation. Set priorities before widening commitments as Ox's tendency toward protecting routines and working through commitments shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Ox year, rebuild weak foundations and allow revisions to commitments. Keep bringing different interests into a larger plan constructive while making room for protecting routines and working through commitments.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "tiger": {
       "branch": "寅",
@@ -54,7 +82,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Tiger's taking initiative when a direction is clear; balance test big ideas against practical limits with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "Dragon meets Tiger through 三会组. In animal-character terms, bringing different interests into a larger plan meets taking initiative when a direction is clear; the practical tension is that overcommitting before details are settled can become more noticeable alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Tiger's Wood restrains Dragon's Earth; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Dragon on a Tiger day, notice common seasonal rhythm. Test big ideas against practical limits while taking account of choose battles and direct initiative carefully.",
+      "monthlyGuidance": "For Dragon through a Tiger month, organize activity around a shared seasonal pattern. Set priorities before widening commitments as Tiger's tendency toward taking initiative when a direction is clear shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Tiger year, maintain realistic routines in the longer seasonal cycle. Keep bringing different interests into a larger plan constructive while making room for taking initiative when a direction is clear.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rabbit": {
       "branch": "卯",
@@ -75,7 +117,26 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Rabbit's keeping discussions measured and relationships settled; balance test big ideas against practical limits with speak clearly without losing tact.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Dragon meets Rabbit through 六害 and 三会组. In animal-character terms, bringing different interests into a larger plan meets keeping discussions measured and relationships settled; the practical tension is that overcommitting before details are settled can become more noticeable alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Rabbit's Wood restrains Dragon's Earth; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Dragon on a Rabbit day, clarify intentions before frustration grows. Test big ideas against practical limits while taking account of speak clearly without losing tact.",
+      "monthlyGuidance": "For Dragon through a Rabbit month, name responsibilities and resolve recurring misunderstandings. Set priorities before widening commitments as Rabbit's tendency toward keeping discussions measured and relationships settled shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Rabbit year, protect trust with clear boundaries and expectations. Keep bringing different interests into a larger plan constructive while making room for keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [
+        {
+          "type": "三会组",
+          "qualification": "However, 三会组 also applies to Dragon–Rabbit; this additional classification must be interpreted alongside 六害, not discarded."
+        }
+      ],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dragon": {
       "branch": "辰",
@@ -90,7 +151,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Dragon's bringing different interests into a larger plan; balance test big ideas against practical limits with test big ideas against practical limits.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "Dragon meets Dragon through 同支. In animal-character terms, bringing different interests into a larger plan meets bringing different interests into a larger plan; the practical tension is that overcommitting before details are settled can become more noticeable alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Dragon on a Dragon day, watch for a familiar habit repeated. Test big ideas against practical limits while taking account of test big ideas against practical limits.",
+      "monthlyGuidance": "For Dragon through a Dragon month, refine familiar routines without doubling down on mistakes. Set priorities before widening commitments as Dragon's tendency toward bringing different interests into a larger plan shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Dragon year, strengthen useful habits and reconsider outdated ones. Keep bringing different interests into a larger plan constructive while making room for bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "snake": {
       "branch": "巳",
@@ -105,7 +180,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Snake's watching patterns before making a move; balance test big ideas against practical limits with verify intentions rather than guessing.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Dragon and Snake have no listed special branch pairing. In animal-character terms, bringing different interests into a larger plan meets watching patterns before making a move; the practical tension is that overcommitting before details are settled can become more noticeable alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Snake's Fire nourishes Dragon's Earth; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Dragon on a Snake day, work with the actual elemental direction rather than assuming a clash. Test big ideas against practical limits while taking account of verify intentions rather than guessing.",
+      "monthlyGuidance": "For Dragon through a Snake month, use elemental and seasonal contrasts to adjust expectations. Set priorities before widening commitments as Snake's tendency toward watching patterns before making a move shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Snake year, plan around the real elemental interaction, not an invented special relationship. Keep bringing different interests into a larger plan constructive while making room for watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "horse": {
       "branch": "午",
@@ -120,7 +209,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Horse's building momentum and taking timely action; balance test big ideas against practical limits with pause before acting on urgency.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "Dragon and Horse have no listed special branch pairing. In animal-character terms, bringing different interests into a larger plan meets building momentum and taking timely action; the practical tension is that overcommitting before details are settled can become more noticeable alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Horse's Fire nourishes Dragon's Earth; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Dragon on a Horse day, work with the actual elemental direction rather than assuming a clash. Test big ideas against practical limits while taking account of pause before acting on urgency.",
+      "monthlyGuidance": "For Dragon through a Horse month, use elemental and seasonal contrasts to adjust expectations. Set priorities before widening commitments as Horse's tendency toward building momentum and taking timely action shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Horse year, plan around the real elemental interaction, not an invented special relationship. Keep bringing different interests into a larger plan constructive while making room for building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "goat": {
       "branch": "未",
@@ -135,7 +238,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Goat's maintaining care and cooperation; balance test big ideas against practical limits with state needs and responsibilities openly.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "Dragon and Goat have no listed special branch pairing. In animal-character terms, bringing different interests into a larger plan meets maintaining care and cooperation; the practical tension is that overcommitting before details are settled can become more noticeable alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Dragon on a Goat day, work with the actual elemental direction rather than assuming a clash. Test big ideas against practical limits while taking account of state needs and responsibilities openly.",
+      "monthlyGuidance": "For Dragon through a Goat month, use elemental and seasonal contrasts to adjust expectations. Set priorities before widening commitments as Goat's tendency toward maintaining care and cooperation shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Goat year, plan around the real elemental interaction, not an invented special relationship. Keep bringing different interests into a larger plan constructive while making room for maintaining care and cooperation.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "monkey": {
       "branch": "申",
@@ -150,7 +267,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Monkey's finding alternate approaches when plans shift; balance test big ideas against practical limits with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Dragon meets Monkey through 三合组. In animal-character terms, bringing different interests into a larger plan meets finding alternate approaches when plans shift; the practical tension is that overcommitting before details are settled can become more noticeable alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Dragon's Earth nourishes Monkey's Metal; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Dragon on a Monkey day, look for a shared direction. Test big ideas against practical limits while taking account of explain changes and confirm shared expectations.",
+      "monthlyGuidance": "For Dragon through a Monkey month, cultivate compatible strengths without assuming a complete formation. Set priorities before widening commitments as Monkey's tendency toward finding alternate approaches when plans shift shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Monkey year, support a consistent direction over time. Keep bringing different interests into a larger plan constructive while making room for finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rooster": {
       "branch": "酉",
@@ -165,7 +296,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Rooster's noticing detail and maintaining standards; balance test big ideas against practical limits with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "Dragon meets Rooster through 六合. In animal-character terms, bringing different interests into a larger plan meets noticing detail and maintaining standards; the practical tension is that overcommitting before details are settled can become more noticeable alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Dragon's Earth nourishes Rooster's Metal; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Dragon on a Rooster day, find a point of agreement. Test big ideas against practical limits while taking account of offer constructive rather than sharp feedback.",
+      "monthlyGuidance": "For Dragon through a Rooster month, develop cooperation without taking goodwill for granted. Set priorities before widening commitments as Rooster's tendency toward noticing detail and maintaining standards shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Rooster year, invest in reliable partnerships. Keep bringing different interests into a larger plan constructive while making room for noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dog": {
       "branch": "戌",
@@ -180,7 +325,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Dog's protecting trust, fairness and established obligations; balance test big ideas against practical limits with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Dragon meets Dog through 六冲. In animal-character terms, bringing different interests into a larger plan meets protecting trust, fairness and established obligations; the practical tension is that overcommitting before details are settled can become more noticeable alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Both carry Earth, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Dragon on a Dog day, wait before reacting to a conflicting pace. Test big ideas against practical limits while taking account of separate genuine concerns from assumptions.",
+      "monthlyGuidance": "For Dragon through a Dog month, allow plans to change without turning each difference into a fight. Set priorities before widening commitments as Dog's tendency toward protecting trust, fairness and established obligations shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Dog year, prepare options and avoid locking important decisions into one approach. Keep bringing different interests into a larger plan constructive while making room for protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "pig": {
       "branch": "亥",
@@ -195,7 +354,21 @@
         }
       ],
       "specificFocus": "Dragon's bringing different interests into a larger plan meets Pig's bringing goodwill and openness into relationships; balance test big ideas against practical limits with check details while remaining approachable.",
-      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Dragon should watch for overcommitting before details are settled, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "ambitious, expansive and organizing",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "Dragon and Pig have no listed special branch pairing. In animal-character terms, bringing different interests into a larger plan meets bringing goodwill and openness into relationships; the practical tension is that overcommitting before details are settled can become more noticeable alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Dragon's Earth restrains Pig's Water; directing the situation may require care."
+      },
+      "dailyGuidance": "For Dragon on a Pig day, work with the actual elemental direction rather than assuming a clash. Test big ideas against practical limits while taking account of check details while remaining approachable.",
+      "monthlyGuidance": "For Dragon through a Pig month, use elemental and seasonal contrasts to adjust expectations. Set priorities before widening commitments as Pig's tendency toward bringing goodwill and openness into relationships shapes the pace.",
+      "yearlyGuidance": "For Dragon in a Pig year, plan around the real elemental interaction, not an invented special relationship. Keep bringing different interests into a larger plan constructive while making room for bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     }
   }
 }
