@@ -1,0 +1,35 @@
+{
+  "id": "liuhai",
+  "name": "六害",
+  "en": "Six Harms",
+  "kind": "sixHarm",
+  "meaning": "Six pairings traditionally associated with impediments, hidden friction or crossed expectations, distinct from direct 六冲 opposition.",
+  "caution": "Explain where misunderstanding or interference could arise for the particular animals.",
+  "reference": "Traditional Earthly Branch relationship convention. Interpretive guidance is symbolic, not a guaranteed forecast.",
+  "rules": [
+    [
+      "子",
+      "未"
+    ],
+    [
+      "丑",
+      "午"
+    ],
+    [
+      "寅",
+      "巳"
+    ],
+    [
+      "卯",
+      "辰"
+    ],
+    [
+      "申",
+      "亥"
+    ],
+    [
+      "酉",
+      "戌"
+    ]
+  ]
+}
