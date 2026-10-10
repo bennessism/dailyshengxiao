@@ -1,0 +1,43 @@
+{
+  "id": "sanhe",
+  "name": "三合",
+  "en": "Three Harmonies",
+  "kind": "threeHarmony",
+  "meaning": "Three-branch elemental affinity: 申子辰 Water, 亥卯未 Wood, 寅午戌 Fire, 巳酉丑 Metal.",
+  "caution": "Two members share a 三合 group, but do not by themselves form a complete 三合局.",
+  "reference": "Traditional Earthly Branch relationship convention. Interpretive guidance is symbolic, not a guaranteed forecast.",
+  "rules": [
+    {
+      "members": [
+        "申",
+        "子",
+        "辰"
+      ],
+      "element": "Water"
+    },
+    {
+      "members": [
+        "亥",
+        "卯",
+        "未"
+      ],
+      "element": "Wood"
+    },
+    {
+      "members": [
+        "寅",
+        "午",
+        "戌"
+      ],
+      "element": "Fire"
+    },
+    {
+      "members": [
+        "巳",
+        "酉",
+        "丑"
+      ],
+      "element": "Metal"
+    }
+  ]
+}
