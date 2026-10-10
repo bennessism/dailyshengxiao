@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Rat's responding quickly to changing information; balance check details while remaining approachable with notice what matters before responding.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Pig and Rat meet through 三会组. Pig's bringing goodwill and openness into relationships meets Rat's responding quickly to changing information; a point of caution is trusting informal expectations too readily alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Water",
+        "direction": "same element",
+        "meaning": "Pig and Rat share Water without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Rat day, use common rhythm. For Pig, check details while remaining approachable while recognizing Rat's responding quickly to changing information.",
+      "monthlyGuidance": "Through a Rat month, organize priorities around seasonal context. For Pig, protect generosity with clear agreements while adjusting to Rat's responding quickly to changing information.",
+      "yearlyGuidance": "In a Rat year, maintain a consistent direction. For Pig, sustain bringing goodwill and openness into relationships without overlooking responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "ox": {
       "branch": "丑",
@@ -39,7 +53,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Ox's protecting routines and working through commitments; balance check details while remaining approachable with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Pig and Ox meet through 三会组. Pig's bringing goodwill and openness into relationships meets Ox's protecting routines and working through commitments; a point of caution is trusting informal expectations too readily alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Earth",
+        "direction": "partner controls selected",
+        "meaning": "Ox's Earth controls Pig's Water."
+      },
+      "dailyGuidance": "On a Ox day, use common rhythm. For Pig, check details while remaining approachable while recognizing Ox's protecting routines and working through commitments.",
+      "monthlyGuidance": "Through a Ox month, organize priorities around seasonal context. For Pig, protect generosity with clear agreements while adjusting to Ox's protecting routines and working through commitments.",
+      "yearlyGuidance": "In a Ox year, maintain a consistent direction. For Pig, sustain bringing goodwill and openness into relationships without overlooking protecting routines and working through commitments.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "tiger": {
       "branch": "寅",
@@ -60,7 +88,26 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Tiger's taking initiative when a direction is clear; balance check details while remaining approachable with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "Pig and Tiger meet through 六合 and 相破. Pig's bringing goodwill and openness into relationships meets Tiger's taking initiative when a direction is clear; a point of caution is trusting informal expectations too readily alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Wood",
+        "direction": "selected generates partner",
+        "meaning": "Pig's Water generates Tiger's Wood."
+      },
+      "dailyGuidance": "On a Tiger day, seek agreement. For Pig, check details while remaining approachable while recognizing Tiger's taking initiative when a direction is clear.",
+      "monthlyGuidance": "Through a Tiger month, develop steady trust. For Pig, protect generosity with clear agreements while adjusting to Tiger's taking initiative when a direction is clear.",
+      "yearlyGuidance": "In a Tiger year, invest in supportive partnerships. For Pig, sustain bringing goodwill and openness into relationships without overlooking taking initiative when a direction is clear.",
+      "overlappingRelationships": [
+        {
+          "type": "相破",
+          "qualification": "However, 相破 also applies to Pig–Tiger; it must be interpreted alongside 六合."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rabbit": {
       "branch": "卯",
@@ -75,7 +122,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Rabbit's keeping discussions measured and relationships settled; balance check details while remaining approachable with speak clearly without losing tact.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Pig and Rabbit meet through 三合组. Pig's bringing goodwill and openness into relationships meets Rabbit's keeping discussions measured and relationships settled; a point of caution is trusting informal expectations too readily alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Wood",
+        "direction": "selected generates partner",
+        "meaning": "Pig's Water generates Rabbit's Wood."
+      },
+      "dailyGuidance": "On a Rabbit day, notice common purpose. For Pig, check details while remaining approachable while recognizing Rabbit's keeping discussions measured and relationships settled.",
+      "monthlyGuidance": "Through a Rabbit month, coordinate shared strengths. For Pig, protect generosity with clear agreements while adjusting to Rabbit's keeping discussions measured and relationships settled.",
+      "yearlyGuidance": "In a Rabbit year, cultivate a durable common direction. For Pig, sustain bringing goodwill and openness into relationships without overlooking keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dragon": {
       "branch": "辰",
@@ -90,7 +151,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Dragon's bringing different interests into a larger plan; balance check details while remaining approachable with test big ideas against practical limits.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "No named branch pairing is listed. Pig's bringing goodwill and openness into relationships meets Dragon's bringing different interests into a larger plan; a point of caution is trusting informal expectations too readily alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Earth",
+        "direction": "partner controls selected",
+        "meaning": "Dragon's Earth controls Pig's Water."
+      },
+      "dailyGuidance": "On a Dragon day, follow actual elemental symbolism. For Pig, check details while remaining approachable while recognizing Dragon's bringing different interests into a larger plan.",
+      "monthlyGuidance": "Through a Dragon month, adjust expectations to genuine differences. For Pig, protect generosity with clear agreements while adjusting to Dragon's bringing different interests into a larger plan.",
+      "yearlyGuidance": "In a Dragon year, keep longer plans flexible. For Pig, sustain bringing goodwill and openness into relationships without overlooking bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "snake": {
       "branch": "巳",
@@ -105,7 +180,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Snake's watching patterns before making a move; balance check details while remaining approachable with verify intentions rather than guessing.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Pig and Snake meet through 六冲. Pig's bringing goodwill and openness into relationships meets Snake's watching patterns before making a move; a point of caution is trusting informal expectations too readily alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Fire",
+        "direction": "selected controls partner",
+        "meaning": "Pig's Water controls Snake's Fire."
+      },
+      "dailyGuidance": "On a Snake day, slow down before reacting. For Pig, check details while remaining approachable while recognizing Snake's watching patterns before making a move.",
+      "monthlyGuidance": "Through a Snake month, adapt plans with patience. For Pig, protect generosity with clear agreements while adjusting to Snake's watching patterns before making a move.",
+      "yearlyGuidance": "In a Snake year, prepare for changing priorities. For Pig, sustain bringing goodwill and openness into relationships without overlooking watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "horse": {
       "branch": "午",
@@ -120,7 +209,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Horse's building momentum and taking timely action; balance check details while remaining approachable with pause before acting on urgency.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "No named branch pairing is listed. Pig's bringing goodwill and openness into relationships meets Horse's building momentum and taking timely action; a point of caution is trusting informal expectations too readily alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Fire",
+        "direction": "selected controls partner",
+        "meaning": "Pig's Water controls Horse's Fire."
+      },
+      "dailyGuidance": "On a Horse day, follow actual elemental symbolism. For Pig, check details while remaining approachable while recognizing Horse's building momentum and taking timely action.",
+      "monthlyGuidance": "Through a Horse month, adjust expectations to genuine differences. For Pig, protect generosity with clear agreements while adjusting to Horse's building momentum and taking timely action.",
+      "yearlyGuidance": "In a Horse year, keep longer plans flexible. For Pig, sustain bringing goodwill and openness into relationships without overlooking building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "goat": {
       "branch": "未",
@@ -135,7 +238,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Goat's maintaining care and cooperation; balance check details while remaining approachable with state needs and responsibilities openly.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "Pig and Goat meet through 三合组. Pig's bringing goodwill and openness into relationships meets Goat's maintaining care and cooperation; a point of caution is trusting informal expectations too readily alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Earth",
+        "direction": "partner controls selected",
+        "meaning": "Goat's Earth controls Pig's Water."
+      },
+      "dailyGuidance": "On a Goat day, notice common purpose. For Pig, check details while remaining approachable while recognizing Goat's maintaining care and cooperation.",
+      "monthlyGuidance": "Through a Goat month, coordinate shared strengths. For Pig, protect generosity with clear agreements while adjusting to Goat's maintaining care and cooperation.",
+      "yearlyGuidance": "In a Goat year, cultivate a durable common direction. For Pig, sustain bringing goodwill and openness into relationships without overlooking maintaining care and cooperation.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "monkey": {
       "branch": "申",
@@ -150,7 +267,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Monkey's finding alternate approaches when plans shift; balance check details while remaining approachable with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Pig and Monkey meet through 六害. Pig's bringing goodwill and openness into relationships meets Monkey's finding alternate approaches when plans shift; a point of caution is trusting informal expectations too readily alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Metal",
+        "direction": "partner generates selected",
+        "meaning": "Monkey's Metal generates Pig's Water."
+      },
+      "dailyGuidance": "On a Monkey day, check unclear expectations. For Pig, check details while remaining approachable while recognizing Monkey's finding alternate approaches when plans shift.",
+      "monthlyGuidance": "Through a Monkey month, resolve recurring misunderstandings. For Pig, protect generosity with clear agreements while adjusting to Monkey's finding alternate approaches when plans shift.",
+      "yearlyGuidance": "In a Monkey year, strengthen boundaries and trust. For Pig, sustain bringing goodwill and openness into relationships without overlooking finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rooster": {
       "branch": "酉",
@@ -165,7 +296,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Rooster's noticing detail and maintaining standards; balance check details while remaining approachable with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "No named branch pairing is listed. Pig's bringing goodwill and openness into relationships meets Rooster's noticing detail and maintaining standards; a point of caution is trusting informal expectations too readily alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Metal",
+        "direction": "partner generates selected",
+        "meaning": "Rooster's Metal generates Pig's Water."
+      },
+      "dailyGuidance": "On a Rooster day, follow actual elemental symbolism. For Pig, check details while remaining approachable while recognizing Rooster's noticing detail and maintaining standards.",
+      "monthlyGuidance": "Through a Rooster month, adjust expectations to genuine differences. For Pig, protect generosity with clear agreements while adjusting to Rooster's noticing detail and maintaining standards.",
+      "yearlyGuidance": "In a Rooster year, keep longer plans flexible. For Pig, sustain bringing goodwill and openness into relationships without overlooking noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dog": {
       "branch": "戌",
@@ -180,7 +325,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Dog's protecting trust, fairness and established obligations; balance check details while remaining approachable with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "No named branch pairing is listed. Pig's bringing goodwill and openness into relationships meets Dog's protecting trust, fairness and established obligations; a point of caution is trusting informal expectations too readily alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Earth",
+        "direction": "partner controls selected",
+        "meaning": "Dog's Earth controls Pig's Water."
+      },
+      "dailyGuidance": "On a Dog day, follow actual elemental symbolism. For Pig, check details while remaining approachable while recognizing Dog's protecting trust, fairness and established obligations.",
+      "monthlyGuidance": "Through a Dog month, adjust expectations to genuine differences. For Pig, protect generosity with clear agreements while adjusting to Dog's protecting trust, fairness and established obligations.",
+      "yearlyGuidance": "In a Dog year, keep longer plans flexible. For Pig, sustain bringing goodwill and openness into relationships without overlooking protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "pig": {
       "branch": "亥",
@@ -195,7 +354,21 @@
         }
       ],
       "specificFocus": "Pig's bringing goodwill and openness into relationships meets Pig's bringing goodwill and openness into relationships; balance check details while remaining approachable with check details while remaining approachable.",
-      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "sincere, generous and accommodating",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "Pig and Pig meet through 同支. Pig's bringing goodwill and openness into relationships meets Pig's bringing goodwill and openness into relationships; a point of caution is trusting informal expectations too readily alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Water",
+        "partner": "Water",
+        "direction": "same element",
+        "meaning": "Pig and Pig share Water without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Pig day, notice repeated habits. For Pig, check details while remaining approachable while recognizing Pig's bringing goodwill and openness into relationships.",
+      "monthlyGuidance": "Through a Pig month, refine familiar routines. For Pig, protect generosity with clear agreements while adjusting to Pig's bringing goodwill and openness into relationships.",
+      "yearlyGuidance": "In a Pig year, strengthen good habits without repeating mistakes. For Pig, sustain bringing goodwill and openness into relationships without overlooking bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     }
   }
 }
