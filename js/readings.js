@@ -47,10 +47,10 @@ export function composeReading(period,selected,calendar,animals,rules,profiles){
  if(chosen){
   const effect=EFFECTS[chosen];
   headline=`${selected.name} · ${other.name}: ${NAMES[chosen]}`;
-  first=`${selected.name} and ${other.name} form ${chosen}, which traditionally ${effect[0]}. For ${selected.name}, the practical emphasis ${p.label} is to ${effect[period==="daily"?2:period==="monthly"?3:4].charAt(0).toLowerCase()+effect[period==="daily"?2:period==="monthly"?3:4].slice(1)}. ${selected.name}'s tendency toward ${profile.strength} meets ${other.name}'s ${profiles[other.id].strength}.`;
+  first=`${selected.name} and ${other.name} form ${chosen}, which traditionally ${effect[0]}. For ${selected.name}, the practical emphasis ${p.label} is to ${effect[period==="daily"?2:period==="monthly"?3:4].charAt(0).toLowerCase()+effect[period==="daily"?2:period==="monthly"?3:4].slice(1)}. ${pair.counterpartCaution}`;
  }else{
   headline=`${selected.name} · ${other.name}: Elements and character`;
-  first=`No listed direct harmony, clash, harm, break or other special pair applies between ${selected.name} and ${other.name}. ${elementText(selected,other)} For ${selected.name}, ${p.label} favors ${profile.immediateAdvice}; notice how ${other.name}'s ${profiles[other.id].strength} may shape the situation.`;
+  first=`No listed direct harmony, clash, harm, break or other special pair applies between ${selected.name} and ${other.name}. ${elementText(selected,other)} For ${selected.name}, ${p.label} calls for ${period==='yearly'?profile.longTermAdvice:profile.immediateAdvice}. ${pair.counterpartCaution}`;
  }
  const paragraphs=[introductory,first];
  for(const k of secondary)paragraphs.push(overlapText(k,p,selected,other,period,rules,animals));
@@ -65,8 +65,8 @@ export function composeReading(period,selected,calendar,animals,rules,profiles){
   return {k,x,main,tail};
  });
  const contextWords=context.map(c=>`the ${c.k}'s ${c.x.name} (${c.x.branch}) ${c.main?`brings ${c.main}${c.tail.length?` alongside ${c.tail.join(" and ")}`:""}`:`has no highlighted direct pairing with ${selected.name}`}`);
- if(period==="daily")paragraphs.push(`In the wider context, ${contextWords.join(", while ")}. Treat today's advice as an immediate response within those month and year themes.`);
- else if(period==="monthly")paragraphs.push(`The broader year matters too: ${contextWords[0]}. The current day adds a shorter note: ${contextWords[1]}. Read the month's guidance as something to practice over time, not merely today.`);
- else paragraphs.push(`Within that annual theme, ${contextWords[0]}, while ${contextWords[1]}. Those shorter periods can alter the immediate emphasis without cancelling the year's underlying branch relationship.`);
+ if(period==="daily")paragraphs.push(`In the wider context, ${contextWords.join(", while ")}. The day may be easier or harder than the broader period depending on these different branch relationships.`);
+ else if(period==="monthly")paragraphs.push(`The broader year matters too: ${contextWords[0]}. The current day adds a shorter note: ${contextWords[1]}. The month can therefore offer a different direction from the surrounding year.`);
+ else paragraphs.push(`Within that annual theme, ${contextWords[0]}, while ${contextWords[1]}. The annual relationship remains the longer-running theme even when a particular month or day differs.`);
  return {keys,headline,paragraphs};
 }
