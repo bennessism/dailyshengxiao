@@ -1,0 +1,201 @@
+{
+  "id": "pig",
+  "name": "Pig",
+  "han": "猪",
+  "branch": "亥",
+  "element": "Water",
+  "traditionalTraits": "sincere, generous and accommodating",
+  "strength": "bringing goodwill and openness into relationships",
+  "shadow": "trusting informal expectations too readily",
+  "immediateAdvice": "check details while remaining approachable",
+  "longTermAdvice": "protect generosity with clear agreements",
+  "note": "Animal traits are conventional zodiac character symbolism; named Earthly Branch relationships are verified separately against data/relationships.json.",
+  "counterparts": {
+    "rat": {
+      "branch": "子",
+      "relationships": [
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Rat's responding quickly to changing information; balance check details while remaining approachable with notice what matters before responding.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+    },
+    "ox": {
+      "branch": "丑",
+      "relationships": [
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Ox's protecting routines and working through commitments; balance check details while remaining approachable with keep a dependable pace and hear other views.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+    },
+    "tiger": {
+      "branch": "寅",
+      "relationships": [
+        "六合",
+        "相破"
+      ],
+      "interaction": [
+        {
+          "type": "六合",
+          "theme": "coordination and finding common ground",
+          "guidance": "Build an agreement around a shared purpose"
+        },
+        {
+          "type": "相破",
+          "theme": "interruptions even where intentions seem cooperative",
+          "guidance": "Check details and leave room to repair plans"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Tiger's taking initiative when a direction is clear; balance check details while remaining approachable with choose battles and direct initiative carefully.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+    },
+    "rabbit": {
+      "branch": "卯",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Rabbit's keeping discussions measured and relationships settled; balance check details while remaining approachable with speak clearly without losing tact.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+    },
+    "dragon": {
+      "branch": "辰",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Dragon's bringing different interests into a larger plan; balance check details while remaining approachable with test big ideas against practical limits.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+    },
+    "snake": {
+      "branch": "巳",
+      "relationships": [
+        "六冲"
+      ],
+      "interaction": [
+        {
+          "type": "六冲",
+          "theme": "different directions and an urge to change course",
+          "guidance": "Give decisions room to settle before reacting"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Snake's watching patterns before making a move; balance check details while remaining approachable with verify intentions rather than guessing.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+    },
+    "horse": {
+      "branch": "午",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Horse's building momentum and taking timely action; balance check details while remaining approachable with pause before acting on urgency.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+    },
+    "goat": {
+      "branch": "未",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Goat's maintaining care and cooperation; balance check details while remaining approachable with state needs and responsibilities openly.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+    },
+    "monkey": {
+      "branch": "申",
+      "relationships": [
+        "六害"
+      ],
+      "interaction": [
+        {
+          "type": "六害",
+          "theme": "indirect friction and crossed expectations",
+          "guidance": "Clarify assumptions before they become grievances"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Monkey's finding alternate approaches when plans shift; balance check details while remaining approachable with explain changes and confirm shared expectations.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+    },
+    "rooster": {
+      "branch": "酉",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Rooster's noticing detail and maintaining standards; balance check details while remaining approachable with offer constructive rather than sharp feedback.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+    },
+    "dog": {
+      "branch": "戌",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Dog's protecting trust, fairness and established obligations; balance check details while remaining approachable with separate genuine concerns from assumptions.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+    },
+    "pig": {
+      "branch": "亥",
+      "relationships": [
+        "同支"
+      ],
+      "interaction": [
+        {
+          "type": "同支",
+          "theme": "repetition of familiar qualities and habits",
+          "guidance": "Use familiarity constructively rather than assuming automatic luck"
+        }
+      ],
+      "specificFocus": "Pig's bringing goodwill and openness into relationships meets Pig's bringing goodwill and openness into relationships; balance check details while remaining approachable with check details while remaining approachable.",
+      "counterpartCaution": "Pig should watch for trusting informal expectations too readily, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+    }
+  }
+}
