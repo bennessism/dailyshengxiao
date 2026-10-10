@@ -1,0 +1,213 @@
+{
+  "id": "tiger",
+  "name": "Tiger",
+  "han": "虎",
+  "branch": "寅",
+  "element": "Wood",
+  "traditionalTraits": "bold, forward-moving and independent",
+  "strength": "taking initiative when a direction is clear",
+  "shadow": "turning confidence into haste or rivalry",
+  "immediateAdvice": "choose battles and direct initiative carefully",
+  "longTermAdvice": "pair boldness with follow-through",
+  "note": "Animal traits are conventional zodiac character symbolism; named Earthly Branch relationships are verified separately against data/relationships.json.",
+  "counterparts": {
+    "rat": {
+      "branch": "子",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Rat's responding quickly to changing information; balance choose battles and direct initiative carefully with notice what matters before responding.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+    },
+    "ox": {
+      "branch": "丑",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Ox's protecting routines and working through commitments; balance choose battles and direct initiative carefully with keep a dependable pace and hear other views.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+    },
+    "tiger": {
+      "branch": "寅",
+      "relationships": [
+        "同支"
+      ],
+      "interaction": [
+        {
+          "type": "同支",
+          "theme": "repetition of familiar qualities and habits",
+          "guidance": "Use familiarity constructively rather than assuming automatic luck"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Tiger's taking initiative when a direction is clear; balance choose battles and direct initiative carefully with choose battles and direct initiative carefully.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+    },
+    "rabbit": {
+      "branch": "卯",
+      "relationships": [
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Rabbit's keeping discussions measured and relationships settled; balance choose battles and direct initiative carefully with speak clearly without losing tact.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+    },
+    "dragon": {
+      "branch": "辰",
+      "relationships": [
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Dragon's bringing different interests into a larger plan; balance choose battles and direct initiative carefully with test big ideas against practical limits.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+    },
+    "snake": {
+      "branch": "巳",
+      "relationships": [
+        "六害",
+        "刑组关联"
+      ],
+      "interaction": [
+        {
+          "type": "六害",
+          "theme": "indirect friction and crossed expectations",
+          "guidance": "Clarify assumptions before they become grievances"
+        },
+        {
+          "type": "刑组关联",
+          "theme": "a possible link within a larger punishment trio",
+          "guidance": "Two members alone do not complete the three-branch punishment"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Snake's watching patterns before making a move; balance choose battles and direct initiative carefully with verify intentions rather than guessing.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+    },
+    "horse": {
+      "branch": "午",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Horse's building momentum and taking timely action; balance choose battles and direct initiative carefully with pause before acting on urgency.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+    },
+    "goat": {
+      "branch": "未",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Goat's maintaining care and cooperation; balance choose battles and direct initiative carefully with state needs and responsibilities openly.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+    },
+    "monkey": {
+      "branch": "申",
+      "relationships": [
+        "六冲",
+        "刑组关联"
+      ],
+      "interaction": [
+        {
+          "type": "六冲",
+          "theme": "different directions and an urge to change course",
+          "guidance": "Give decisions room to settle before reacting"
+        },
+        {
+          "type": "刑组关联",
+          "theme": "a possible link within a larger punishment trio",
+          "guidance": "Two members alone do not complete the three-branch punishment"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Monkey's finding alternate approaches when plans shift; balance choose battles and direct initiative carefully with explain changes and confirm shared expectations.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+    },
+    "rooster": {
+      "branch": "酉",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Rooster's noticing detail and maintaining standards; balance choose battles and direct initiative carefully with offer constructive rather than sharp feedback.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+    },
+    "dog": {
+      "branch": "戌",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Dog's protecting trust, fairness and established obligations; balance choose battles and direct initiative carefully with separate genuine concerns from assumptions.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+    },
+    "pig": {
+      "branch": "亥",
+      "relationships": [
+        "六合",
+        "相破"
+      ],
+      "interaction": [
+        {
+          "type": "六合",
+          "theme": "coordination and finding common ground",
+          "guidance": "Build an agreement around a shared purpose"
+        },
+        {
+          "type": "相破",
+          "theme": "interruptions even where intentions seem cooperative",
+          "guidance": "Check details and leave room to repair plans"
+        }
+      ],
+      "specificFocus": "Tiger's taking initiative when a direction is clear meets Pig's bringing goodwill and openness into relationships; balance choose battles and direct initiative carefully with check details while remaining approachable.",
+      "counterpartCaution": "Tiger should watch for turning confidence into haste or rivalry, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+    }
+  }
+}
