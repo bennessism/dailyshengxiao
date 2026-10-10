@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Rat's responding quickly to changing information; balance explain changes and confirm shared expectations with notice what matters before responding.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Monkey and Rat meet through 三合组. Monkey's finding alternate approaches when plans shift meets Rat's responding quickly to changing information; a point of caution is switching tactics before others can follow alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Water",
+        "direction": "selected generates partner",
+        "meaning": "Monkey's Metal generates Rat's Water."
+      },
+      "dailyGuidance": "On a Rat day, notice common purpose. For Monkey, explain changes and confirm shared expectations while recognizing Rat's responding quickly to changing information.",
+      "monthlyGuidance": "Through a Rat month, coordinate shared strengths. For Monkey, follow useful ideas through to completion while adjusting to Rat's responding quickly to changing information.",
+      "yearlyGuidance": "In a Rat year, cultivate a durable common direction. For Monkey, sustain finding alternate approaches when plans shift without overlooking responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "ox": {
       "branch": "丑",
@@ -39,7 +53,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Ox's protecting routines and working through commitments; balance explain changes and confirm shared expectations with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "No named branch pairing is listed. Monkey's finding alternate approaches when plans shift meets Ox's protecting routines and working through commitments; a point of caution is switching tactics before others can follow alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Ox's Earth generates Monkey's Metal."
+      },
+      "dailyGuidance": "On a Ox day, follow actual elemental symbolism. For Monkey, explain changes and confirm shared expectations while recognizing Ox's protecting routines and working through commitments.",
+      "monthlyGuidance": "Through a Ox month, adjust expectations to genuine differences. For Monkey, follow useful ideas through to completion while adjusting to Ox's protecting routines and working through commitments.",
+      "yearlyGuidance": "In a Ox year, keep longer plans flexible. For Monkey, sustain finding alternate approaches when plans shift without overlooking protecting routines and working through commitments.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "tiger": {
       "branch": "寅",
@@ -60,7 +88,26 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Tiger's taking initiative when a direction is clear; balance explain changes and confirm shared expectations with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "Monkey and Tiger meet through 六冲 and 刑组关联. Monkey's finding alternate approaches when plans shift meets Tiger's taking initiative when a direction is clear; a point of caution is switching tactics before others can follow alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Wood",
+        "direction": "selected controls partner",
+        "meaning": "Monkey's Metal controls Tiger's Wood."
+      },
+      "dailyGuidance": "On a Tiger day, slow down before reacting. For Monkey, explain changes and confirm shared expectations while recognizing Tiger's taking initiative when a direction is clear.",
+      "monthlyGuidance": "Through a Tiger month, adapt plans with patience. For Monkey, follow useful ideas through to completion while adjusting to Tiger's taking initiative when a direction is clear.",
+      "yearlyGuidance": "In a Tiger year, prepare for changing priorities. For Monkey, sustain finding alternate approaches when plans shift without overlooking taking initiative when a direction is clear.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Monkey–Tiger; it must be interpreted alongside 六冲."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rabbit": {
       "branch": "卯",
@@ -75,7 +122,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Rabbit's keeping discussions measured and relationships settled; balance explain changes and confirm shared expectations with speak clearly without losing tact.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "No named branch pairing is listed. Monkey's finding alternate approaches when plans shift meets Rabbit's keeping discussions measured and relationships settled; a point of caution is switching tactics before others can follow alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Wood",
+        "direction": "selected controls partner",
+        "meaning": "Monkey's Metal controls Rabbit's Wood."
+      },
+      "dailyGuidance": "On a Rabbit day, follow actual elemental symbolism. For Monkey, explain changes and confirm shared expectations while recognizing Rabbit's keeping discussions measured and relationships settled.",
+      "monthlyGuidance": "Through a Rabbit month, adjust expectations to genuine differences. For Monkey, follow useful ideas through to completion while adjusting to Rabbit's keeping discussions measured and relationships settled.",
+      "yearlyGuidance": "In a Rabbit year, keep longer plans flexible. For Monkey, sustain finding alternate approaches when plans shift without overlooking keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dragon": {
       "branch": "辰",
@@ -90,7 +151,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Dragon's bringing different interests into a larger plan; balance explain changes and confirm shared expectations with test big ideas against practical limits.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "Monkey and Dragon meet through 三合组. Monkey's finding alternate approaches when plans shift meets Dragon's bringing different interests into a larger plan; a point of caution is switching tactics before others can follow alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Dragon's Earth generates Monkey's Metal."
+      },
+      "dailyGuidance": "On a Dragon day, notice common purpose. For Monkey, explain changes and confirm shared expectations while recognizing Dragon's bringing different interests into a larger plan.",
+      "monthlyGuidance": "Through a Dragon month, coordinate shared strengths. For Monkey, follow useful ideas through to completion while adjusting to Dragon's bringing different interests into a larger plan.",
+      "yearlyGuidance": "In a Dragon year, cultivate a durable common direction. For Monkey, sustain finding alternate approaches when plans shift without overlooking bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "snake": {
       "branch": "巳",
@@ -117,7 +192,30 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Snake's watching patterns before making a move; balance explain changes and confirm shared expectations with verify intentions rather than guessing.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Monkey and Snake meet through 六合 and 相破 and 刑组关联. Monkey's finding alternate approaches when plans shift meets Snake's watching patterns before making a move; a point of caution is switching tactics before others can follow alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Fire",
+        "direction": "partner controls selected",
+        "meaning": "Snake's Fire controls Monkey's Metal."
+      },
+      "dailyGuidance": "On a Snake day, seek agreement. For Monkey, explain changes and confirm shared expectations while recognizing Snake's watching patterns before making a move.",
+      "monthlyGuidance": "Through a Snake month, develop steady trust. For Monkey, follow useful ideas through to completion while adjusting to Snake's watching patterns before making a move.",
+      "yearlyGuidance": "In a Snake year, invest in supportive partnerships. For Monkey, sustain finding alternate approaches when plans shift without overlooking watching patterns before making a move.",
+      "overlappingRelationships": [
+        {
+          "type": "相破",
+          "qualification": "However, 相破 also applies to Monkey–Snake; it must be interpreted alongside 六合."
+        },
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Monkey–Snake; it must be interpreted alongside 六合."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "horse": {
       "branch": "午",
@@ -132,7 +230,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Horse's building momentum and taking timely action; balance explain changes and confirm shared expectations with pause before acting on urgency.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "No named branch pairing is listed. Monkey's finding alternate approaches when plans shift meets Horse's building momentum and taking timely action; a point of caution is switching tactics before others can follow alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Fire",
+        "direction": "partner controls selected",
+        "meaning": "Horse's Fire controls Monkey's Metal."
+      },
+      "dailyGuidance": "On a Horse day, follow actual elemental symbolism. For Monkey, explain changes and confirm shared expectations while recognizing Horse's building momentum and taking timely action.",
+      "monthlyGuidance": "Through a Horse month, adjust expectations to genuine differences. For Monkey, follow useful ideas through to completion while adjusting to Horse's building momentum and taking timely action.",
+      "yearlyGuidance": "In a Horse year, keep longer plans flexible. For Monkey, sustain finding alternate approaches when plans shift without overlooking building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "goat": {
       "branch": "未",
@@ -147,7 +259,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Goat's maintaining care and cooperation; balance explain changes and confirm shared expectations with state needs and responsibilities openly.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "No named branch pairing is listed. Monkey's finding alternate approaches when plans shift meets Goat's maintaining care and cooperation; a point of caution is switching tactics before others can follow alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Goat's Earth generates Monkey's Metal."
+      },
+      "dailyGuidance": "On a Goat day, follow actual elemental symbolism. For Monkey, explain changes and confirm shared expectations while recognizing Goat's maintaining care and cooperation.",
+      "monthlyGuidance": "Through a Goat month, adjust expectations to genuine differences. For Monkey, follow useful ideas through to completion while adjusting to Goat's maintaining care and cooperation.",
+      "yearlyGuidance": "In a Goat year, keep longer plans flexible. For Monkey, sustain finding alternate approaches when plans shift without overlooking maintaining care and cooperation.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "monkey": {
       "branch": "申",
@@ -162,7 +288,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Monkey's finding alternate approaches when plans shift; balance explain changes and confirm shared expectations with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Monkey and Monkey meet through 同支. Monkey's finding alternate approaches when plans shift meets Monkey's finding alternate approaches when plans shift; a point of caution is switching tactics before others can follow alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Metal",
+        "direction": "same element",
+        "meaning": "Monkey and Monkey share Metal without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Monkey day, notice repeated habits. For Monkey, explain changes and confirm shared expectations while recognizing Monkey's finding alternate approaches when plans shift.",
+      "monthlyGuidance": "Through a Monkey month, refine familiar routines. For Monkey, follow useful ideas through to completion while adjusting to Monkey's finding alternate approaches when plans shift.",
+      "yearlyGuidance": "In a Monkey year, strengthen good habits without repeating mistakes. For Monkey, sustain finding alternate approaches when plans shift without overlooking finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rooster": {
       "branch": "酉",
@@ -177,7 +317,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Rooster's noticing detail and maintaining standards; balance explain changes and confirm shared expectations with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "Monkey and Rooster meet through 三会组. Monkey's finding alternate approaches when plans shift meets Rooster's noticing detail and maintaining standards; a point of caution is switching tactics before others can follow alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Metal",
+        "direction": "same element",
+        "meaning": "Monkey and Rooster share Metal without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Rooster day, use common rhythm. For Monkey, explain changes and confirm shared expectations while recognizing Rooster's noticing detail and maintaining standards.",
+      "monthlyGuidance": "Through a Rooster month, organize priorities around seasonal context. For Monkey, follow useful ideas through to completion while adjusting to Rooster's noticing detail and maintaining standards.",
+      "yearlyGuidance": "In a Rooster year, maintain a consistent direction. For Monkey, sustain finding alternate approaches when plans shift without overlooking noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dog": {
       "branch": "戌",
@@ -192,7 +346,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Dog's protecting trust, fairness and established obligations; balance explain changes and confirm shared expectations with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Monkey and Dog meet through 三会组. Monkey's finding alternate approaches when plans shift meets Dog's protecting trust, fairness and established obligations; a point of caution is switching tactics before others can follow alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Dog's Earth generates Monkey's Metal."
+      },
+      "dailyGuidance": "On a Dog day, use common rhythm. For Monkey, explain changes and confirm shared expectations while recognizing Dog's protecting trust, fairness and established obligations.",
+      "monthlyGuidance": "Through a Dog month, organize priorities around seasonal context. For Monkey, follow useful ideas through to completion while adjusting to Dog's protecting trust, fairness and established obligations.",
+      "yearlyGuidance": "In a Dog year, maintain a consistent direction. For Monkey, sustain finding alternate approaches when plans shift without overlooking protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "pig": {
       "branch": "亥",
@@ -207,7 +375,21 @@
         }
       ],
       "specificFocus": "Monkey's finding alternate approaches when plans shift meets Pig's bringing goodwill and openness into relationships; balance explain changes and confirm shared expectations with check details while remaining approachable.",
-      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Monkey should watch for switching tactics before others can follow, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "inventive, agile and quick-thinking",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "Monkey and Pig meet through 六害. Monkey's finding alternate approaches when plans shift meets Pig's bringing goodwill and openness into relationships; a point of caution is switching tactics before others can follow alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Water",
+        "direction": "selected generates partner",
+        "meaning": "Monkey's Metal generates Pig's Water."
+      },
+      "dailyGuidance": "On a Pig day, check unclear expectations. For Monkey, explain changes and confirm shared expectations while recognizing Pig's bringing goodwill and openness into relationships.",
+      "monthlyGuidance": "Through a Pig month, resolve recurring misunderstandings. For Monkey, follow useful ideas through to completion while adjusting to Pig's bringing goodwill and openness into relationships.",
+      "yearlyGuidance": "In a Pig year, strengthen boundaries and trust. For Monkey, sustain finding alternate approaches when plans shift without overlooking bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     }
   }
 }
