@@ -47,7 +47,7 @@ export function composeReading(period,selected,calendar,animals,rules,profiles){
  if(chosen){
   const effect=EFFECTS[chosen];
   headline=`${selected.name} · ${other.name}: ${NAMES[chosen]}`;
-  first=`${selected.name} and ${other.name} form ${chosen}, which traditionally ${effect[0]}. For ${selected.name}, ${p.verb.toLowerCase()}${effect[period==="daily"?2:period==="monthly"?3:4].charAt(0).toLowerCase()+effect[period==="daily"?2:period==="monthly"?3:4].slice(1)}. ${selected.name}'s tendency toward ${profile.strength} meets ${other.name}'s ${profiles[other.id].strength}.`;
+  first=`${selected.name} and ${other.name} form ${chosen}, which traditionally ${effect[0]}. For ${selected.name}, the practical emphasis ${p.label} is to ${effect[period==="daily"?2:period==="monthly"?3:4].charAt(0).toLowerCase()+effect[period==="daily"?2:period==="monthly"?3:4].slice(1)}. ${selected.name}'s tendency toward ${profile.strength} meets ${other.name}'s ${profiles[other.id].strength}.`;
  }else{
   headline=`${selected.name} · ${other.name}: Elements and character`;
   first=`No listed direct harmony, clash, harm, break or other special pair applies between ${selected.name} and ${other.name}. ${elementText(selected,other)} For ${selected.name}, ${p.label} favors ${profile.immediateAdvice}; notice how ${other.name}'s ${profiles[other.id].strength} may shape the situation.`;
