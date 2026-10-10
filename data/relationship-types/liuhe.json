@@ -1,0 +1,35 @@
+{
+  "id": "liuhe",
+  "name": "六合",
+  "en": "Six Harmonies",
+  "kind": "sixHarmony",
+  "meaning": "A named one-to-one affinity that emphasizes joining, negotiation and cooperation.",
+  "caution": "Invite cooperation, while checking for other classifications before describing the pairing as wholly favorable.",
+  "reference": "Traditional Earthly Branch relationship convention. Interpretive guidance is symbolic, not a guaranteed forecast.",
+  "rules": [
+    [
+      "子",
+      "丑"
+    ],
+    [
+      "寅",
+      "亥"
+    ],
+    [
+      "卯",
+      "戌"
+    ],
+    [
+      "辰",
+      "酉"
+    ],
+    [
+      "巳",
+      "申"
+    ],
+    [
+      "午",
+      "未"
+    ]
+  ]
+}
