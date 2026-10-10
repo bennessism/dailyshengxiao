@@ -1,0 +1,201 @@
+{
+  "id": "rooster",
+  "name": "Rooster",
+  "han": "鸡",
+  "branch": "酉",
+  "element": "Metal",
+  "traditionalTraits": "precise, organized and outspoken",
+  "strength": "noticing detail and maintaining standards",
+  "shadow": "turning corrections into needless criticism",
+  "immediateAdvice": "offer constructive rather than sharp feedback",
+  "longTermAdvice": "use standards to improve, not divide",
+  "note": "Animal traits are conventional zodiac character symbolism; named Earthly Branch relationships are verified separately against data/relationships.json.",
+  "counterparts": {
+    "rat": {
+      "branch": "子",
+      "relationships": [
+        "相破"
+      ],
+      "interaction": [
+        {
+          "type": "相破",
+          "theme": "interruptions even where intentions seem cooperative",
+          "guidance": "Check details and leave room to repair plans"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Rat's responding quickly to changing information; balance offer constructive rather than sharp feedback with notice what matters before responding.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+    },
+    "ox": {
+      "branch": "丑",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Ox's protecting routines and working through commitments; balance offer constructive rather than sharp feedback with keep a dependable pace and hear other views.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+    },
+    "tiger": {
+      "branch": "寅",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Tiger's taking initiative when a direction is clear; balance offer constructive rather than sharp feedback with choose battles and direct initiative carefully.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+    },
+    "rabbit": {
+      "branch": "卯",
+      "relationships": [
+        "六冲"
+      ],
+      "interaction": [
+        {
+          "type": "六冲",
+          "theme": "different directions and an urge to change course",
+          "guidance": "Give decisions room to settle before reacting"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Rabbit's keeping discussions measured and relationships settled; balance offer constructive rather than sharp feedback with speak clearly without losing tact.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+    },
+    "dragon": {
+      "branch": "辰",
+      "relationships": [
+        "六合"
+      ],
+      "interaction": [
+        {
+          "type": "六合",
+          "theme": "coordination and finding common ground",
+          "guidance": "Build an agreement around a shared purpose"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Dragon's bringing different interests into a larger plan; balance offer constructive rather than sharp feedback with test big ideas against practical limits.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+    },
+    "snake": {
+      "branch": "巳",
+      "relationships": [
+        "三合组"
+      ],
+      "interaction": [
+        {
+          "type": "三合组",
+          "theme": "a shared elemental affinity within a three-branch group",
+          "guidance": "Use the shared direction without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Snake's watching patterns before making a move; balance offer constructive rather than sharp feedback with verify intentions rather than guessing.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+    },
+    "horse": {
+      "branch": "午",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Horse's building momentum and taking timely action; balance offer constructive rather than sharp feedback with pause before acting on urgency.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+    },
+    "goat": {
+      "branch": "未",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Goat's maintaining care and cooperation; balance offer constructive rather than sharp feedback with state needs and responsibilities openly.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+    },
+    "monkey": {
+      "branch": "申",
+      "relationships": [
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Monkey's finding alternate approaches when plans shift; balance offer constructive rather than sharp feedback with explain changes and confirm shared expectations.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+    },
+    "rooster": {
+      "branch": "酉",
+      "relationships": [
+        "同支"
+      ],
+      "interaction": [
+        {
+          "type": "同支",
+          "theme": "repetition of familiar qualities and habits",
+          "guidance": "Use familiarity constructively rather than assuming automatic luck"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Rooster's noticing detail and maintaining standards; balance offer constructive rather than sharp feedback with offer constructive rather than sharp feedback.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+    },
+    "dog": {
+      "branch": "戌",
+      "relationships": [
+        "六害",
+        "三会组"
+      ],
+      "interaction": [
+        {
+          "type": "六害",
+          "theme": "indirect friction and crossed expectations",
+          "guidance": "Clarify assumptions before they become grievances"
+        },
+        {
+          "type": "三会组",
+          "theme": "membership in the same seasonal sequence",
+          "guidance": "Notice seasonal common ground without claiming a completed trio"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Dog's protecting trust, fairness and established obligations; balance offer constructive rather than sharp feedback with separate genuine concerns from assumptions.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+    },
+    "pig": {
+      "branch": "亥",
+      "relationships": [
+        "常规"
+      ],
+      "interaction": [
+        {
+          "type": "常规",
+          "theme": "no listed special branch pair",
+          "guidance": "Read the Five Elements and differing branch qualities without inventing a named match"
+        }
+      ],
+      "specificFocus": "Rooster's noticing detail and maintaining standards meets Pig's bringing goodwill and openness into relationships; balance offer constructive rather than sharp feedback with check details while remaining approachable.",
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+    }
+  }
+}
