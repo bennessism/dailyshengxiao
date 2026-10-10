@@ -14,7 +14,7 @@ function render(){
  const animal=data.animals.find(a=>a.id===chosen);
  const value=calendar[pillarKey[active]], branch=value[1], periodData=data[active];
  const pair=data.animals.find(a=>a.branch===branch);
- const info=composeReading(active,animal,calendar,data.animals,data.relationships,profiles);
+ const info=composeReading(active,animal,calendar,data.animals,data.relationships,profiles,data.ganzhi);
  const context=ganzhiContext(value,animal,data.ganzhi,data.relationships);
  $("title").textContent=animal.han+" · "+animal.name;
  $("summary").textContent=periodData.introduction;
