@@ -133,7 +133,20 @@
       "stemElement": "Wood",
       "branchElement": "Water",
       "yinYang": "Yang",
-      "description": "甲子 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "甲子 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "initiative, growth and outward development",
+        "stemElement": "Wood",
+        "branchElement": "Water",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Water branch generates the Wood stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 2,
@@ -144,7 +157,20 @@
       "stemElement": "Wood",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "乙丑 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "乙丑 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "adaptation, cultivation and gradual growth",
+        "stemElement": "Wood",
+        "branchElement": "Earth",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Wood stem controls the Earth branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 3,
@@ -155,7 +181,20 @@
       "stemElement": "Fire",
       "branchElement": "Wood",
       "yinYang": "Yang",
-      "description": "丙寅 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丙寅 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "visibility, warmth and outward expression",
+        "stemElement": "Fire",
+        "branchElement": "Wood",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Wood branch generates the Fire stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 4,
@@ -166,7 +205,20 @@
       "stemElement": "Fire",
       "branchElement": "Wood",
       "yinYang": "Yin",
-      "description": "丁卯 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丁卯 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "focused illumination, refinement and attentiveness",
+        "stemElement": "Fire",
+        "branchElement": "Wood",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Wood branch generates the Fire stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 5,
@@ -177,7 +229,20 @@
       "stemElement": "Earth",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "戊辰 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "戊辰 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "structure, steadiness and broad support",
+        "stemElement": "Earth",
+        "branchElement": "Earth",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Earth, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 6,
@@ -188,7 +253,20 @@
       "stemElement": "Earth",
       "branchElement": "Fire",
       "yinYang": "Yin",
-      "description": "己巳 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "己巳 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "cultivation, nourishment and measured support",
+        "stemElement": "Earth",
+        "branchElement": "Fire",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Fire branch generates the Earth stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 7,
@@ -199,7 +277,20 @@
       "stemElement": "Metal",
       "branchElement": "Fire",
       "yinYang": "Yang",
-      "description": "庚午 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "庚午 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "decisiveness, shaping and direct action",
+        "stemElement": "Metal",
+        "branchElement": "Fire",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Fire branch controls the Metal stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 8,
@@ -210,7 +301,20 @@
       "stemElement": "Metal",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "辛未 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "辛未 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "precision, refinement and careful judgment",
+        "stemElement": "Metal",
+        "branchElement": "Earth",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Earth branch generates the Metal stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 9,
@@ -221,7 +325,20 @@
       "stemElement": "Water",
       "branchElement": "Metal",
       "yinYang": "Yang",
-      "description": "壬申 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "壬申 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "movement, exchange and expansive flow",
+        "stemElement": "Water",
+        "branchElement": "Metal",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Metal branch generates the Water stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 10,
@@ -232,7 +349,20 @@
       "stemElement": "Water",
       "branchElement": "Metal",
       "yinYang": "Yin",
-      "description": "癸酉 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "癸酉 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "subtle movement, receptivity and accumulation",
+        "stemElement": "Water",
+        "branchElement": "Metal",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Metal branch generates the Water stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 11,
@@ -243,7 +373,20 @@
       "stemElement": "Wood",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "甲戌 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "甲戌 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "initiative, growth and outward development",
+        "stemElement": "Wood",
+        "branchElement": "Earth",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Wood stem controls the Earth branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 12,
@@ -254,7 +397,20 @@
       "stemElement": "Wood",
       "branchElement": "Water",
       "yinYang": "Yin",
-      "description": "乙亥 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "乙亥 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "adaptation, cultivation and gradual growth",
+        "stemElement": "Wood",
+        "branchElement": "Water",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Water branch generates the Wood stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 13,
@@ -265,7 +421,20 @@
       "stemElement": "Fire",
       "branchElement": "Water",
       "yinYang": "Yang",
-      "description": "丙子 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丙子 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "visibility, warmth and outward expression",
+        "stemElement": "Fire",
+        "branchElement": "Water",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Water branch controls the Fire stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 14,
@@ -276,7 +445,20 @@
       "stemElement": "Fire",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "丁丑 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丁丑 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "focused illumination, refinement and attentiveness",
+        "stemElement": "Fire",
+        "branchElement": "Earth",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Fire stem generates the Earth branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 15,
@@ -287,7 +469,20 @@
       "stemElement": "Earth",
       "branchElement": "Wood",
       "yinYang": "Yang",
-      "description": "戊寅 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "戊寅 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "structure, steadiness and broad support",
+        "stemElement": "Earth",
+        "branchElement": "Wood",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Wood branch controls the Earth stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 16,
@@ -298,7 +493,20 @@
       "stemElement": "Earth",
       "branchElement": "Wood",
       "yinYang": "Yin",
-      "description": "己卯 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "己卯 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "cultivation, nourishment and measured support",
+        "stemElement": "Earth",
+        "branchElement": "Wood",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Wood branch controls the Earth stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 17,
@@ -309,7 +517,20 @@
       "stemElement": "Metal",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "庚辰 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "庚辰 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "decisiveness, shaping and direct action",
+        "stemElement": "Metal",
+        "branchElement": "Earth",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Earth branch generates the Metal stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 18,
@@ -320,7 +541,20 @@
       "stemElement": "Metal",
       "branchElement": "Fire",
       "yinYang": "Yin",
-      "description": "辛巳 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "辛巳 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "precision, refinement and careful judgment",
+        "stemElement": "Metal",
+        "branchElement": "Fire",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Fire branch controls the Metal stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 19,
@@ -331,7 +565,20 @@
       "stemElement": "Water",
       "branchElement": "Fire",
       "yinYang": "Yang",
-      "description": "壬午 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "壬午 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "movement, exchange and expansive flow",
+        "stemElement": "Water",
+        "branchElement": "Fire",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Water stem controls the Fire branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 20,
@@ -342,7 +589,20 @@
       "stemElement": "Water",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "癸未 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "癸未 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "subtle movement, receptivity and accumulation",
+        "stemElement": "Water",
+        "branchElement": "Earth",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Earth branch controls the Water stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 21,
@@ -353,7 +613,20 @@
       "stemElement": "Wood",
       "branchElement": "Metal",
       "yinYang": "Yang",
-      "description": "甲申 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "甲申 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "initiative, growth and outward development",
+        "stemElement": "Wood",
+        "branchElement": "Metal",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Metal branch controls the Wood stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 22,
@@ -364,7 +637,20 @@
       "stemElement": "Wood",
       "branchElement": "Metal",
       "yinYang": "Yin",
-      "description": "乙酉 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "乙酉 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "adaptation, cultivation and gradual growth",
+        "stemElement": "Wood",
+        "branchElement": "Metal",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Metal branch controls the Wood stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 23,
@@ -375,7 +661,20 @@
       "stemElement": "Fire",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "丙戌 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丙戌 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "visibility, warmth and outward expression",
+        "stemElement": "Fire",
+        "branchElement": "Earth",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Fire stem generates the Earth branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 24,
@@ -386,7 +685,20 @@
       "stemElement": "Fire",
       "branchElement": "Water",
       "yinYang": "Yin",
-      "description": "丁亥 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丁亥 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "focused illumination, refinement and attentiveness",
+        "stemElement": "Fire",
+        "branchElement": "Water",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Water branch controls the Fire stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 25,
@@ -397,7 +709,20 @@
       "stemElement": "Earth",
       "branchElement": "Water",
       "yinYang": "Yang",
-      "description": "戊子 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "戊子 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "structure, steadiness and broad support",
+        "stemElement": "Earth",
+        "branchElement": "Water",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Earth stem controls the Water branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 26,
@@ -408,7 +733,20 @@
       "stemElement": "Earth",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "己丑 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "己丑 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "cultivation, nourishment and measured support",
+        "stemElement": "Earth",
+        "branchElement": "Earth",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Earth, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 27,
@@ -419,7 +757,20 @@
       "stemElement": "Metal",
       "branchElement": "Wood",
       "yinYang": "Yang",
-      "description": "庚寅 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "庚寅 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "decisiveness, shaping and direct action",
+        "stemElement": "Metal",
+        "branchElement": "Wood",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Metal stem controls the Wood branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 28,
@@ -430,7 +781,20 @@
       "stemElement": "Metal",
       "branchElement": "Wood",
       "yinYang": "Yin",
-      "description": "辛卯 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "辛卯 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "precision, refinement and careful judgment",
+        "stemElement": "Metal",
+        "branchElement": "Wood",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Metal stem controls the Wood branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 29,
@@ -441,7 +805,20 @@
       "stemElement": "Water",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "壬辰 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "壬辰 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "movement, exchange and expansive flow",
+        "stemElement": "Water",
+        "branchElement": "Earth",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Earth branch controls the Water stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 30,
@@ -452,7 +829,20 @@
       "stemElement": "Water",
       "branchElement": "Fire",
       "yinYang": "Yin",
-      "description": "癸巳 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "癸巳 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "subtle movement, receptivity and accumulation",
+        "stemElement": "Water",
+        "branchElement": "Fire",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Water stem controls the Fire branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 31,
@@ -463,7 +853,20 @@
       "stemElement": "Wood",
       "branchElement": "Fire",
       "yinYang": "Yang",
-      "description": "甲午 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "甲午 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "initiative, growth and outward development",
+        "stemElement": "Wood",
+        "branchElement": "Fire",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Wood stem generates the Fire branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 32,
@@ -474,7 +877,20 @@
       "stemElement": "Wood",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "乙未 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "乙未 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "adaptation, cultivation and gradual growth",
+        "stemElement": "Wood",
+        "branchElement": "Earth",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Wood stem controls the Earth branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 33,
@@ -485,7 +901,20 @@
       "stemElement": "Fire",
       "branchElement": "Metal",
       "yinYang": "Yang",
-      "description": "丙申 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丙申 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "visibility, warmth and outward expression",
+        "stemElement": "Fire",
+        "branchElement": "Metal",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Fire stem controls the Metal branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 34,
@@ -496,7 +925,20 @@
       "stemElement": "Fire",
       "branchElement": "Metal",
       "yinYang": "Yin",
-      "description": "丁酉 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丁酉 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "focused illumination, refinement and attentiveness",
+        "stemElement": "Fire",
+        "branchElement": "Metal",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Fire stem controls the Metal branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 35,
@@ -507,7 +949,20 @@
       "stemElement": "Earth",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "戊戌 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "戊戌 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "structure, steadiness and broad support",
+        "stemElement": "Earth",
+        "branchElement": "Earth",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Earth, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 36,
@@ -518,7 +973,20 @@
       "stemElement": "Earth",
       "branchElement": "Water",
       "yinYang": "Yin",
-      "description": "己亥 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "己亥 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "cultivation, nourishment and measured support",
+        "stemElement": "Earth",
+        "branchElement": "Water",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Earth stem controls the Water branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 37,
@@ -529,7 +997,20 @@
       "stemElement": "Metal",
       "branchElement": "Water",
       "yinYang": "Yang",
-      "description": "庚子 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "庚子 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "decisiveness, shaping and direct action",
+        "stemElement": "Metal",
+        "branchElement": "Water",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Metal stem generates the Water branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 38,
@@ -540,7 +1021,20 @@
       "stemElement": "Metal",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "辛丑 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "辛丑 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "precision, refinement and careful judgment",
+        "stemElement": "Metal",
+        "branchElement": "Earth",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Earth branch generates the Metal stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 39,
@@ -551,7 +1045,20 @@
       "stemElement": "Water",
       "branchElement": "Wood",
       "yinYang": "Yang",
-      "description": "壬寅 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "壬寅 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "movement, exchange and expansive flow",
+        "stemElement": "Water",
+        "branchElement": "Wood",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Water stem generates the Wood branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 40,
@@ -562,7 +1069,20 @@
       "stemElement": "Water",
       "branchElement": "Wood",
       "yinYang": "Yin",
-      "description": "癸卯 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "癸卯 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "subtle movement, receptivity and accumulation",
+        "stemElement": "Water",
+        "branchElement": "Wood",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Water stem generates the Wood branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 41,
@@ -573,7 +1093,20 @@
       "stemElement": "Wood",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "甲辰 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "甲辰 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "initiative, growth and outward development",
+        "stemElement": "Wood",
+        "branchElement": "Earth",
+        "elementRelation": "stem controls branch",
+        "elementExplanation": "The Wood stem controls the Earth branch (相克), adding a theme of regulation or restraint.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 42,
@@ -584,7 +1117,20 @@
       "stemElement": "Wood",
       "branchElement": "Fire",
       "yinYang": "Yin",
-      "description": "乙巳 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "乙巳 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "adaptation, cultivation and gradual growth",
+        "stemElement": "Wood",
+        "branchElement": "Fire",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Wood stem generates the Fire branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 43,
@@ -595,7 +1141,20 @@
       "stemElement": "Fire",
       "branchElement": "Fire",
       "yinYang": "Yang",
-      "description": "丙午 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丙午 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "visibility, warmth and outward expression",
+        "stemElement": "Fire",
+        "branchElement": "Fire",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Fire, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 44,
@@ -606,7 +1165,20 @@
       "stemElement": "Fire",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "丁未 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丁未 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "focused illumination, refinement and attentiveness",
+        "stemElement": "Fire",
+        "branchElement": "Earth",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Fire stem generates the Earth branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 45,
@@ -617,7 +1189,20 @@
       "stemElement": "Earth",
       "branchElement": "Metal",
       "yinYang": "Yang",
-      "description": "戊申 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "戊申 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "structure, steadiness and broad support",
+        "stemElement": "Earth",
+        "branchElement": "Metal",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Earth stem generates the Metal branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 46,
@@ -628,7 +1213,20 @@
       "stemElement": "Earth",
       "branchElement": "Metal",
       "yinYang": "Yin",
-      "description": "己酉 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "己酉 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "cultivation, nourishment and measured support",
+        "stemElement": "Earth",
+        "branchElement": "Metal",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Earth stem generates the Metal branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 47,
@@ -639,7 +1237,20 @@
       "stemElement": "Metal",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "庚戌 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "庚戌 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "decisiveness, shaping and direct action",
+        "stemElement": "Metal",
+        "branchElement": "Earth",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Earth branch generates the Metal stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 48,
@@ -650,7 +1261,20 @@
       "stemElement": "Metal",
       "branchElement": "Water",
       "yinYang": "Yin",
-      "description": "辛亥 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "辛亥 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "precision, refinement and careful judgment",
+        "stemElement": "Metal",
+        "branchElement": "Water",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Metal stem generates the Water branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 49,
@@ -661,7 +1285,20 @@
       "stemElement": "Water",
       "branchElement": "Water",
       "yinYang": "Yang",
-      "description": "壬子 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "壬子 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Rat branch (子, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "movement, exchange and expansive flow",
+        "stemElement": "Water",
+        "branchElement": "Water",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Water, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 50,
@@ -672,7 +1309,20 @@
       "stemElement": "Water",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "癸丑 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "癸丑 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Ox branch (丑, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "subtle movement, receptivity and accumulation",
+        "stemElement": "Water",
+        "branchElement": "Earth",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Earth branch controls the Water stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 51,
@@ -683,7 +1333,20 @@
       "stemElement": "Wood",
       "branchElement": "Wood",
       "yinYang": "Yang",
-      "description": "甲寅 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "甲寅 combines Yang Wood (甲), traditionally associated with initiative, growth and outward development, and the Tiger branch (寅, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "initiative, growth and outward development",
+        "stemElement": "Wood",
+        "branchElement": "Wood",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Wood, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 52,
@@ -694,7 +1357,20 @@
       "stemElement": "Wood",
       "branchElement": "Wood",
       "yinYang": "Yin",
-      "description": "乙卯 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "乙卯 combines Yin Wood (乙), traditionally associated with adaptation, cultivation and gradual growth, and the Rabbit branch (卯, Wood). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "adaptation, cultivation and gradual growth",
+        "stemElement": "Wood",
+        "branchElement": "Wood",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Wood, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "make space for constructive initiative",
+          "monthly": "cultivate emerging plans with patience",
+          "yearly": "build a sustainable direction for growth"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 53,
@@ -705,7 +1381,20 @@
       "stemElement": "Fire",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "丙辰 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丙辰 combines Yang Fire (丙), traditionally associated with visibility, warmth and outward expression, and the Dragon branch (辰, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "visibility, warmth and outward expression",
+        "stemElement": "Fire",
+        "branchElement": "Earth",
+        "elementRelation": "stem generates branch",
+        "elementExplanation": "The Fire stem generates the Earth branch (相生), suggesting contribution from the stem toward the branch.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 54,
@@ -716,7 +1405,20 @@
       "stemElement": "Fire",
       "branchElement": "Fire",
       "yinYang": "Yin",
-      "description": "丁巳 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "丁巳 combines Yin Fire (丁), traditionally associated with focused illumination, refinement and attentiveness, and the Snake branch (巳, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "focused illumination, refinement and attentiveness",
+        "stemElement": "Fire",
+        "branchElement": "Fire",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Fire, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "express intentions clearly without rushing",
+          "monthly": "channel energy into consistent work",
+          "yearly": "balance ambition with endurance"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 55,
@@ -727,7 +1429,20 @@
       "stemElement": "Earth",
       "branchElement": "Fire",
       "yinYang": "Yang",
-      "description": "戊午 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "戊午 combines Yang Earth (戊), traditionally associated with structure, steadiness and broad support, and the Horse branch (午, Fire). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "structure, steadiness and broad support",
+        "stemElement": "Earth",
+        "branchElement": "Fire",
+        "elementRelation": "branch generates stem",
+        "elementExplanation": "The Fire branch generates the Earth stem (相生), suggesting support flowing from the branch toward the stem.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 56,
@@ -738,7 +1453,20 @@
       "stemElement": "Earth",
       "branchElement": "Earth",
       "yinYang": "Yin",
-      "description": "己未 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "己未 combines Yin Earth (己), traditionally associated with cultivation, nourishment and measured support, and the Goat branch (未, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "cultivation, nourishment and measured support",
+        "stemElement": "Earth",
+        "branchElement": "Earth",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Earth, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "check practical details before acting",
+          "monthly": "organize obligations and protect steady progress",
+          "yearly": "strengthen foundations and reliable arrangements"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 57,
@@ -749,7 +1477,20 @@
       "stemElement": "Metal",
       "branchElement": "Metal",
       "yinYang": "Yang",
-      "description": "庚申 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "庚申 combines Yang Metal (庚), traditionally associated with decisiveness, shaping and direct action, and the Monkey branch (申, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "decisiveness, shaping and direct action",
+        "stemElement": "Metal",
+        "branchElement": "Metal",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Metal, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 58,
@@ -760,7 +1501,20 @@
       "stemElement": "Metal",
       "branchElement": "Metal",
       "yinYang": "Yin",
-      "description": "辛酉 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "辛酉 combines Yin Metal (辛), traditionally associated with precision, refinement and careful judgment, and the Rooster branch (酉, Metal). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "precision, refinement and careful judgment",
+        "stemElement": "Metal",
+        "branchElement": "Metal",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Metal, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "weigh choices carefully and communicate precisely",
+          "monthly": "review standards and improve procedures",
+          "yearly": "set priorities and maintain sound boundaries"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 59,
@@ -771,7 +1525,20 @@
       "stemElement": "Water",
       "branchElement": "Earth",
       "yinYang": "Yang",
-      "description": "壬戌 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "壬戌 combines Yang Water (壬), traditionally associated with movement, exchange and expansive flow, and the Dog branch (戌, Earth). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "movement, exchange and expansive flow",
+        "stemElement": "Water",
+        "branchElement": "Earth",
+        "elementRelation": "branch controls stem",
+        "elementExplanation": "The Earth branch controls the Water stem (相克), adding a theme of boundaries or resistance.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     },
     {
       "id": 60,
@@ -782,7 +1549,20 @@
       "stemElement": "Water",
       "branchElement": "Water",
       "yinYang": "Yin",
-      "description": "癸亥 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle."
+      "description": "癸亥 combines Yin Water (癸), traditionally associated with subtle movement, receptivity and accumulation, and the Pig branch (亥, Water). It is one of the 60 positions in the repeating 干支 cycle.",
+      "layer": {
+        "stemMeaning": "subtle movement, receptivity and accumulation",
+        "stemElement": "Water",
+        "branchElement": "Water",
+        "elementRelation": "same-element emphasis",
+        "elementExplanation": "Stem and branch both express Water, emphasizing a shared elemental quality.",
+        "periodGuidance": {
+          "daily": "listen before reacting and adapt to new information",
+          "monthly": "stay responsive while maintaining continuity",
+          "yearly": "prepare flexible plans for changing circumstances"
+        },
+        "note": "The elemental animal label follows the Heavenly Stem; it does not replace the Earthly Branch element. Nayin is a separate convention."
+      }
     }
   ],
   "elements": {
