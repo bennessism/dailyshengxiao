@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Rat's responding quickly to changing information; balance state needs and responsibilities openly with notice what matters before responding.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Goat and Rat meet through 六害. Goat's maintaining care and cooperation meets Rat's responding quickly to changing information; a point of caution is hesitating when a clear decision is needed alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Goat's Earth controls Rat's Water."
+      },
+      "dailyGuidance": "On a Rat day, check unclear expectations. For Goat, state needs and responsibilities openly while recognizing Rat's responding quickly to changing information.",
+      "monthlyGuidance": "Through a Rat month, resolve recurring misunderstandings. For Goat, balance kindness with practical limits while adjusting to Rat's responding quickly to changing information.",
+      "yearlyGuidance": "In a Rat year, strengthen boundaries and trust. For Goat, sustain maintaining care and cooperation without overlooking responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "ox": {
       "branch": "丑",
@@ -45,7 +59,26 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Ox's protecting routines and working through commitments; balance state needs and responsibilities openly with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Goat and Ox meet through 六冲 and 刑组关联. Goat's maintaining care and cooperation meets Ox's protecting routines and working through commitments; a point of caution is hesitating when a clear decision is needed alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Goat and Ox share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Ox day, slow down before reacting. For Goat, state needs and responsibilities openly while recognizing Ox's protecting routines and working through commitments.",
+      "monthlyGuidance": "Through a Ox month, adapt plans with patience. For Goat, balance kindness with practical limits while adjusting to Ox's protecting routines and working through commitments.",
+      "yearlyGuidance": "In a Ox year, prepare for changing priorities. For Goat, sustain maintaining care and cooperation without overlooking protecting routines and working through commitments.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Goat–Ox; it must be interpreted alongside 六冲."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "tiger": {
       "branch": "寅",
@@ -60,7 +93,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Tiger's taking initiative when a direction is clear; balance state needs and responsibilities openly with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "No named branch pairing is listed. Goat's maintaining care and cooperation meets Tiger's taking initiative when a direction is clear; a point of caution is hesitating when a clear decision is needed alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Tiger's Wood controls Goat's Earth."
+      },
+      "dailyGuidance": "On a Tiger day, follow actual elemental symbolism. For Goat, state needs and responsibilities openly while recognizing Tiger's taking initiative when a direction is clear.",
+      "monthlyGuidance": "Through a Tiger month, adjust expectations to genuine differences. For Goat, balance kindness with practical limits while adjusting to Tiger's taking initiative when a direction is clear.",
+      "yearlyGuidance": "In a Tiger year, keep longer plans flexible. For Goat, sustain maintaining care and cooperation without overlooking taking initiative when a direction is clear.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rabbit": {
       "branch": "卯",
@@ -75,7 +122,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Rabbit's keeping discussions measured and relationships settled; balance state needs and responsibilities openly with speak clearly without losing tact.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Goat and Rabbit meet through 三合组. Goat's maintaining care and cooperation meets Rabbit's keeping discussions measured and relationships settled; a point of caution is hesitating when a clear decision is needed alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Rabbit's Wood controls Goat's Earth."
+      },
+      "dailyGuidance": "On a Rabbit day, notice common purpose. For Goat, state needs and responsibilities openly while recognizing Rabbit's keeping discussions measured and relationships settled.",
+      "monthlyGuidance": "Through a Rabbit month, coordinate shared strengths. For Goat, balance kindness with practical limits while adjusting to Rabbit's keeping discussions measured and relationships settled.",
+      "yearlyGuidance": "In a Rabbit year, cultivate a durable common direction. For Goat, sustain maintaining care and cooperation without overlooking keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dragon": {
       "branch": "辰",
@@ -90,7 +151,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Dragon's bringing different interests into a larger plan; balance state needs and responsibilities openly with test big ideas against practical limits.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "No named branch pairing is listed. Goat's maintaining care and cooperation meets Dragon's bringing different interests into a larger plan; a point of caution is hesitating when a clear decision is needed alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Goat and Dragon share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Dragon day, follow actual elemental symbolism. For Goat, state needs and responsibilities openly while recognizing Dragon's bringing different interests into a larger plan.",
+      "monthlyGuidance": "Through a Dragon month, adjust expectations to genuine differences. For Goat, balance kindness with practical limits while adjusting to Dragon's bringing different interests into a larger plan.",
+      "yearlyGuidance": "In a Dragon year, keep longer plans flexible. For Goat, sustain maintaining care and cooperation without overlooking bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "snake": {
       "branch": "巳",
@@ -105,7 +180,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Snake's watching patterns before making a move; balance state needs and responsibilities openly with verify intentions rather than guessing.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Goat and Snake meet through 三会组. Goat's maintaining care and cooperation meets Snake's watching patterns before making a move; a point of caution is hesitating when a clear decision is needed alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Snake's Fire generates Goat's Earth."
+      },
+      "dailyGuidance": "On a Snake day, use common rhythm. For Goat, state needs and responsibilities openly while recognizing Snake's watching patterns before making a move.",
+      "monthlyGuidance": "Through a Snake month, organize priorities around seasonal context. For Goat, balance kindness with practical limits while adjusting to Snake's watching patterns before making a move.",
+      "yearlyGuidance": "In a Snake year, maintain a consistent direction. For Goat, sustain maintaining care and cooperation without overlooking watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "horse": {
       "branch": "午",
@@ -126,7 +215,26 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Horse's building momentum and taking timely action; balance state needs and responsibilities openly with pause before acting on urgency.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "Goat and Horse meet through 六合 and 三会组. Goat's maintaining care and cooperation meets Horse's building momentum and taking timely action; a point of caution is hesitating when a clear decision is needed alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Horse's Fire generates Goat's Earth."
+      },
+      "dailyGuidance": "On a Horse day, seek agreement. For Goat, state needs and responsibilities openly while recognizing Horse's building momentum and taking timely action.",
+      "monthlyGuidance": "Through a Horse month, develop steady trust. For Goat, balance kindness with practical limits while adjusting to Horse's building momentum and taking timely action.",
+      "yearlyGuidance": "In a Horse year, invest in supportive partnerships. For Goat, sustain maintaining care and cooperation without overlooking building momentum and taking timely action.",
+      "overlappingRelationships": [
+        {
+          "type": "三会组",
+          "qualification": "However, 三会组 also applies to Goat–Horse; it must be interpreted alongside 六合."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "goat": {
       "branch": "未",
@@ -141,7 +249,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Goat's maintaining care and cooperation; balance state needs and responsibilities openly with state needs and responsibilities openly.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "Goat and Goat meet through 同支. Goat's maintaining care and cooperation meets Goat's maintaining care and cooperation; a point of caution is hesitating when a clear decision is needed alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Goat and Goat share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Goat day, notice repeated habits. For Goat, state needs and responsibilities openly while recognizing Goat's maintaining care and cooperation.",
+      "monthlyGuidance": "Through a Goat month, refine familiar routines. For Goat, balance kindness with practical limits while adjusting to Goat's maintaining care and cooperation.",
+      "yearlyGuidance": "In a Goat year, strengthen good habits without repeating mistakes. For Goat, sustain maintaining care and cooperation without overlooking maintaining care and cooperation.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "monkey": {
       "branch": "申",
@@ -156,7 +278,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Monkey's finding alternate approaches when plans shift; balance state needs and responsibilities openly with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "No named branch pairing is listed. Goat's maintaining care and cooperation meets Monkey's finding alternate approaches when plans shift; a point of caution is hesitating when a clear decision is needed alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Goat's Earth generates Monkey's Metal."
+      },
+      "dailyGuidance": "On a Monkey day, follow actual elemental symbolism. For Goat, state needs and responsibilities openly while recognizing Monkey's finding alternate approaches when plans shift.",
+      "monthlyGuidance": "Through a Monkey month, adjust expectations to genuine differences. For Goat, balance kindness with practical limits while adjusting to Monkey's finding alternate approaches when plans shift.",
+      "yearlyGuidance": "In a Monkey year, keep longer plans flexible. For Goat, sustain maintaining care and cooperation without overlooking finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rooster": {
       "branch": "酉",
@@ -171,7 +307,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Rooster's noticing detail and maintaining standards; balance state needs and responsibilities openly with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "No named branch pairing is listed. Goat's maintaining care and cooperation meets Rooster's noticing detail and maintaining standards; a point of caution is hesitating when a clear decision is needed alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Goat's Earth generates Rooster's Metal."
+      },
+      "dailyGuidance": "On a Rooster day, follow actual elemental symbolism. For Goat, state needs and responsibilities openly while recognizing Rooster's noticing detail and maintaining standards.",
+      "monthlyGuidance": "Through a Rooster month, adjust expectations to genuine differences. For Goat, balance kindness with practical limits while adjusting to Rooster's noticing detail and maintaining standards.",
+      "yearlyGuidance": "In a Rooster year, keep longer plans flexible. For Goat, sustain maintaining care and cooperation without overlooking noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dog": {
       "branch": "戌",
@@ -192,7 +342,26 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Dog's protecting trust, fairness and established obligations; balance state needs and responsibilities openly with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Goat and Dog meet through 相破 and 刑组关联. Goat's maintaining care and cooperation meets Dog's protecting trust, fairness and established obligations; a point of caution is hesitating when a clear decision is needed alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Goat and Dog share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Dog day, inspect fragile arrangements. For Goat, state needs and responsibilities openly while recognizing Dog's protecting trust, fairness and established obligations.",
+      "monthlyGuidance": "Through a Dog month, repair interruptions early. For Goat, balance kindness with practical limits while adjusting to Dog's protecting trust, fairness and established obligations.",
+      "yearlyGuidance": "In a Dog year, reinforce long-term commitments. For Goat, sustain maintaining care and cooperation without overlooking protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Goat–Dog; it must be interpreted alongside 相破."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "pig": {
       "branch": "亥",
@@ -207,7 +376,21 @@
         }
       ],
       "specificFocus": "Goat's maintaining care and cooperation meets Pig's bringing goodwill and openness into relationships; balance state needs and responsibilities openly with check details while remaining approachable.",
-      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Goat should watch for hesitating when a clear decision is needed, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "patient, receptive and community-minded",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "Goat and Pig meet through 三合组. Goat's maintaining care and cooperation meets Pig's bringing goodwill and openness into relationships; a point of caution is hesitating when a clear decision is needed alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Goat's Earth controls Pig's Water."
+      },
+      "dailyGuidance": "On a Pig day, notice common purpose. For Goat, state needs and responsibilities openly while recognizing Pig's bringing goodwill and openness into relationships.",
+      "monthlyGuidance": "Through a Pig month, coordinate shared strengths. For Goat, balance kindness with practical limits while adjusting to Pig's bringing goodwill and openness into relationships.",
+      "yearlyGuidance": "In a Pig year, cultivate a durable common direction. For Goat, sustain maintaining care and cooperation without overlooking bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     }
   }
 }
