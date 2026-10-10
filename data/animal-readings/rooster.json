@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Rat's responding quickly to changing information; balance offer constructive rather than sharp feedback with notice what matters before responding.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Rooster and Rat meet through 相破. Rooster's noticing detail and maintaining standards meets Rat's responding quickly to changing information; a point of caution is turning corrections into needless criticism alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Water",
+        "direction": "selected generates partner",
+        "meaning": "Rooster's Metal generates Rat's Water."
+      },
+      "dailyGuidance": "On a Rat day, inspect fragile arrangements. For Rooster, offer constructive rather than sharp feedback while recognizing Rat's responding quickly to changing information.",
+      "monthlyGuidance": "Through a Rat month, repair interruptions early. For Rooster, use standards to improve, not divide while adjusting to Rat's responding quickly to changing information.",
+      "yearlyGuidance": "In a Rat year, reinforce long-term commitments. For Rooster, sustain noticing detail and maintaining standards without overlooking responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "ox": {
       "branch": "丑",
@@ -39,7 +53,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Ox's protecting routines and working through commitments; balance offer constructive rather than sharp feedback with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Rooster and Ox meet through 三合组. Rooster's noticing detail and maintaining standards meets Ox's protecting routines and working through commitments; a point of caution is turning corrections into needless criticism alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Ox's Earth generates Rooster's Metal."
+      },
+      "dailyGuidance": "On a Ox day, notice common purpose. For Rooster, offer constructive rather than sharp feedback while recognizing Ox's protecting routines and working through commitments.",
+      "monthlyGuidance": "Through a Ox month, coordinate shared strengths. For Rooster, use standards to improve, not divide while adjusting to Ox's protecting routines and working through commitments.",
+      "yearlyGuidance": "In a Ox year, cultivate a durable common direction. For Rooster, sustain noticing detail and maintaining standards without overlooking protecting routines and working through commitments.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "tiger": {
       "branch": "寅",
@@ -54,7 +82,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Tiger's taking initiative when a direction is clear; balance offer constructive rather than sharp feedback with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "No named branch pairing is listed. Rooster's noticing detail and maintaining standards meets Tiger's taking initiative when a direction is clear; a point of caution is turning corrections into needless criticism alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Wood",
+        "direction": "selected controls partner",
+        "meaning": "Rooster's Metal controls Tiger's Wood."
+      },
+      "dailyGuidance": "On a Tiger day, follow actual elemental symbolism. For Rooster, offer constructive rather than sharp feedback while recognizing Tiger's taking initiative when a direction is clear.",
+      "monthlyGuidance": "Through a Tiger month, adjust expectations to genuine differences. For Rooster, use standards to improve, not divide while adjusting to Tiger's taking initiative when a direction is clear.",
+      "yearlyGuidance": "In a Tiger year, keep longer plans flexible. For Rooster, sustain noticing detail and maintaining standards without overlooking taking initiative when a direction is clear.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rabbit": {
       "branch": "卯",
@@ -69,7 +111,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Rabbit's keeping discussions measured and relationships settled; balance offer constructive rather than sharp feedback with speak clearly without losing tact.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Rooster and Rabbit meet through 六冲. Rooster's noticing detail and maintaining standards meets Rabbit's keeping discussions measured and relationships settled; a point of caution is turning corrections into needless criticism alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Wood",
+        "direction": "selected controls partner",
+        "meaning": "Rooster's Metal controls Rabbit's Wood."
+      },
+      "dailyGuidance": "On a Rabbit day, slow down before reacting. For Rooster, offer constructive rather than sharp feedback while recognizing Rabbit's keeping discussions measured and relationships settled.",
+      "monthlyGuidance": "Through a Rabbit month, adapt plans with patience. For Rooster, use standards to improve, not divide while adjusting to Rabbit's keeping discussions measured and relationships settled.",
+      "yearlyGuidance": "In a Rabbit year, prepare for changing priorities. For Rooster, sustain noticing detail and maintaining standards without overlooking keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dragon": {
       "branch": "辰",
@@ -84,7 +140,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Dragon's bringing different interests into a larger plan; balance offer constructive rather than sharp feedback with test big ideas against practical limits.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "Rooster and Dragon meet through 六合. Rooster's noticing detail and maintaining standards meets Dragon's bringing different interests into a larger plan; a point of caution is turning corrections into needless criticism alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Dragon's Earth generates Rooster's Metal."
+      },
+      "dailyGuidance": "On a Dragon day, seek agreement. For Rooster, offer constructive rather than sharp feedback while recognizing Dragon's bringing different interests into a larger plan.",
+      "monthlyGuidance": "Through a Dragon month, develop steady trust. For Rooster, use standards to improve, not divide while adjusting to Dragon's bringing different interests into a larger plan.",
+      "yearlyGuidance": "In a Dragon year, invest in supportive partnerships. For Rooster, sustain noticing detail and maintaining standards without overlooking bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "snake": {
       "branch": "巳",
@@ -99,7 +169,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Snake's watching patterns before making a move; balance offer constructive rather than sharp feedback with verify intentions rather than guessing.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Rooster and Snake meet through 三合组. Rooster's noticing detail and maintaining standards meets Snake's watching patterns before making a move; a point of caution is turning corrections into needless criticism alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Fire",
+        "direction": "partner controls selected",
+        "meaning": "Snake's Fire controls Rooster's Metal."
+      },
+      "dailyGuidance": "On a Snake day, notice common purpose. For Rooster, offer constructive rather than sharp feedback while recognizing Snake's watching patterns before making a move.",
+      "monthlyGuidance": "Through a Snake month, coordinate shared strengths. For Rooster, use standards to improve, not divide while adjusting to Snake's watching patterns before making a move.",
+      "yearlyGuidance": "In a Snake year, cultivate a durable common direction. For Rooster, sustain noticing detail and maintaining standards without overlooking watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "horse": {
       "branch": "午",
@@ -114,7 +198,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Horse's building momentum and taking timely action; balance offer constructive rather than sharp feedback with pause before acting on urgency.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "No named branch pairing is listed. Rooster's noticing detail and maintaining standards meets Horse's building momentum and taking timely action; a point of caution is turning corrections into needless criticism alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Fire",
+        "direction": "partner controls selected",
+        "meaning": "Horse's Fire controls Rooster's Metal."
+      },
+      "dailyGuidance": "On a Horse day, follow actual elemental symbolism. For Rooster, offer constructive rather than sharp feedback while recognizing Horse's building momentum and taking timely action.",
+      "monthlyGuidance": "Through a Horse month, adjust expectations to genuine differences. For Rooster, use standards to improve, not divide while adjusting to Horse's building momentum and taking timely action.",
+      "yearlyGuidance": "In a Horse year, keep longer plans flexible. For Rooster, sustain noticing detail and maintaining standards without overlooking building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "goat": {
       "branch": "未",
@@ -129,7 +227,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Goat's maintaining care and cooperation; balance offer constructive rather than sharp feedback with state needs and responsibilities openly.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "No named branch pairing is listed. Rooster's noticing detail and maintaining standards meets Goat's maintaining care and cooperation; a point of caution is turning corrections into needless criticism alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Goat's Earth generates Rooster's Metal."
+      },
+      "dailyGuidance": "On a Goat day, follow actual elemental symbolism. For Rooster, offer constructive rather than sharp feedback while recognizing Goat's maintaining care and cooperation.",
+      "monthlyGuidance": "Through a Goat month, adjust expectations to genuine differences. For Rooster, use standards to improve, not divide while adjusting to Goat's maintaining care and cooperation.",
+      "yearlyGuidance": "In a Goat year, keep longer plans flexible. For Rooster, sustain noticing detail and maintaining standards without overlooking maintaining care and cooperation.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "monkey": {
       "branch": "申",
@@ -144,7 +256,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Monkey's finding alternate approaches when plans shift; balance offer constructive rather than sharp feedback with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Rooster and Monkey meet through 三会组. Rooster's noticing detail and maintaining standards meets Monkey's finding alternate approaches when plans shift; a point of caution is turning corrections into needless criticism alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Metal",
+        "direction": "same element",
+        "meaning": "Rooster and Monkey share Metal without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Monkey day, use common rhythm. For Rooster, offer constructive rather than sharp feedback while recognizing Monkey's finding alternate approaches when plans shift.",
+      "monthlyGuidance": "Through a Monkey month, organize priorities around seasonal context. For Rooster, use standards to improve, not divide while adjusting to Monkey's finding alternate approaches when plans shift.",
+      "yearlyGuidance": "In a Monkey year, maintain a consistent direction. For Rooster, sustain noticing detail and maintaining standards without overlooking finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rooster": {
       "branch": "酉",
@@ -159,7 +285,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Rooster's noticing detail and maintaining standards; balance offer constructive rather than sharp feedback with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "Rooster and Rooster meet through 同支. Rooster's noticing detail and maintaining standards meets Rooster's noticing detail and maintaining standards; a point of caution is turning corrections into needless criticism alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Metal",
+        "direction": "same element",
+        "meaning": "Rooster and Rooster share Metal without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Rooster day, notice repeated habits. For Rooster, offer constructive rather than sharp feedback while recognizing Rooster's noticing detail and maintaining standards.",
+      "monthlyGuidance": "Through a Rooster month, refine familiar routines. For Rooster, use standards to improve, not divide while adjusting to Rooster's noticing detail and maintaining standards.",
+      "yearlyGuidance": "In a Rooster year, strengthen good habits without repeating mistakes. For Rooster, sustain noticing detail and maintaining standards without overlooking noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dog": {
       "branch": "戌",
@@ -180,7 +320,26 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Dog's protecting trust, fairness and established obligations; balance offer constructive rather than sharp feedback with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Rooster and Dog meet through 六害 and 三会组. Rooster's noticing detail and maintaining standards meets Dog's protecting trust, fairness and established obligations; a point of caution is turning corrections into needless criticism alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Earth",
+        "direction": "partner generates selected",
+        "meaning": "Dog's Earth generates Rooster's Metal."
+      },
+      "dailyGuidance": "On a Dog day, check unclear expectations. For Rooster, offer constructive rather than sharp feedback while recognizing Dog's protecting trust, fairness and established obligations.",
+      "monthlyGuidance": "Through a Dog month, resolve recurring misunderstandings. For Rooster, use standards to improve, not divide while adjusting to Dog's protecting trust, fairness and established obligations.",
+      "yearlyGuidance": "In a Dog year, strengthen boundaries and trust. For Rooster, sustain noticing detail and maintaining standards without overlooking protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [
+        {
+          "type": "三会组",
+          "qualification": "However, 三会组 also applies to Rooster–Dog; it must be interpreted alongside 六害."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "pig": {
       "branch": "亥",
@@ -195,7 +354,21 @@
         }
       ],
       "specificFocus": "Rooster's noticing detail and maintaining standards meets Pig's bringing goodwill and openness into relationships; balance offer constructive rather than sharp feedback with check details while remaining approachable.",
-      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Rooster should watch for turning corrections into needless criticism, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "precise, organized and outspoken",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "No named branch pairing is listed. Rooster's noticing detail and maintaining standards meets Pig's bringing goodwill and openness into relationships; a point of caution is turning corrections into needless criticism alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Metal",
+        "partner": "Water",
+        "direction": "selected generates partner",
+        "meaning": "Rooster's Metal generates Pig's Water."
+      },
+      "dailyGuidance": "On a Pig day, follow actual elemental symbolism. For Rooster, offer constructive rather than sharp feedback while recognizing Pig's bringing goodwill and openness into relationships.",
+      "monthlyGuidance": "Through a Pig month, adjust expectations to genuine differences. For Rooster, use standards to improve, not divide while adjusting to Pig's bringing goodwill and openness into relationships.",
+      "yearlyGuidance": "In a Pig year, keep longer plans flexible. For Rooster, sustain noticing detail and maintaining standards without overlooking bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     }
   }
 }
