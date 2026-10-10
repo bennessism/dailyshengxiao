@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Rat's responding quickly to changing information; balance speak clearly without losing tact with notice what matters before responding.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Rabbit meets Rat through 相刑. In animal-character terms, keeping discussions measured and relationships settled meets responding quickly to changing information; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Water",
+        "direction": "partner generates selected",
+        "meaning": "Rat's Water nourishes Rabbit's Wood; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Rabbit on a Rat day, consider consequences before applying pressure. Speak clearly without losing tact while taking account of notice what matters before responding.",
+      "monthlyGuidance": "For Rabbit through a Rat month, address recurring obligations with proportionate responses. Set gentle but firm boundaries as Rat's tendency toward responding quickly to changing information shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Rat year, build discipline without becoming rigid or punitive. Keep keeping discussions measured and relationships settled constructive while making room for responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "ox": {
       "branch": "丑",
@@ -39,7 +53,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Ox's protecting routines and working through commitments; balance speak clearly without losing tact with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Rabbit and Ox have no listed special branch pairing. In animal-character terms, keeping discussions measured and relationships settled meets protecting routines and working through commitments; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Earth",
+        "direction": "selected controls partner",
+        "meaning": "Rabbit's Wood restrains Ox's Earth; directing the situation may require care."
+      },
+      "dailyGuidance": "For Rabbit on a Ox day, work with the actual elemental direction rather than assuming a clash. Speak clearly without losing tact while taking account of keep a dependable pace and hear other views.",
+      "monthlyGuidance": "For Rabbit through a Ox month, use elemental and seasonal contrasts to adjust expectations. Set gentle but firm boundaries as Ox's tendency toward protecting routines and working through commitments shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Ox year, plan around the real elemental interaction, not an invented special relationship. Keep keeping discussions measured and relationships settled constructive while making room for protecting routines and working through commitments.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "tiger": {
       "branch": "寅",
@@ -54,7 +82,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Tiger's taking initiative when a direction is clear; balance speak clearly without losing tact with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "Rabbit meets Tiger through 三会组. In animal-character terms, keeping discussions measured and relationships settled meets taking initiative when a direction is clear; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Wood",
+        "direction": "same element",
+        "meaning": "Both carry Wood, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Rabbit on a Tiger day, notice common seasonal rhythm. Speak clearly without losing tact while taking account of choose battles and direct initiative carefully.",
+      "monthlyGuidance": "For Rabbit through a Tiger month, organize activity around a shared seasonal pattern. Set gentle but firm boundaries as Tiger's tendency toward taking initiative when a direction is clear shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Tiger year, maintain realistic routines in the longer seasonal cycle. Keep keeping discussions measured and relationships settled constructive while making room for taking initiative when a direction is clear.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rabbit": {
       "branch": "卯",
@@ -69,7 +111,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Rabbit's keeping discussions measured and relationships settled; balance speak clearly without losing tact with speak clearly without losing tact.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Rabbit meets Rabbit through 同支. In animal-character terms, keeping discussions measured and relationships settled meets keeping discussions measured and relationships settled; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Wood",
+        "direction": "same element",
+        "meaning": "Both carry Wood, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Rabbit on a Rabbit day, watch for a familiar habit repeated. Speak clearly without losing tact while taking account of speak clearly without losing tact.",
+      "monthlyGuidance": "For Rabbit through a Rabbit month, refine familiar routines without doubling down on mistakes. Set gentle but firm boundaries as Rabbit's tendency toward keeping discussions measured and relationships settled shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Rabbit year, strengthen useful habits and reconsider outdated ones. Keep keeping discussions measured and relationships settled constructive while making room for keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dragon": {
       "branch": "辰",
@@ -90,7 +146,26 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Dragon's bringing different interests into a larger plan; balance speak clearly without losing tact with test big ideas against practical limits.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "Rabbit meets Dragon through 六害 and 三会组. In animal-character terms, keeping discussions measured and relationships settled meets bringing different interests into a larger plan; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Earth",
+        "direction": "selected controls partner",
+        "meaning": "Rabbit's Wood restrains Dragon's Earth; directing the situation may require care."
+      },
+      "dailyGuidance": "For Rabbit on a Dragon day, clarify intentions before frustration grows. Speak clearly without losing tact while taking account of test big ideas against practical limits.",
+      "monthlyGuidance": "For Rabbit through a Dragon month, name responsibilities and resolve recurring misunderstandings. Set gentle but firm boundaries as Dragon's tendency toward bringing different interests into a larger plan shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Dragon year, protect trust with clear boundaries and expectations. Keep keeping discussions measured and relationships settled constructive while making room for bringing different interests into a larger plan.",
+      "overlappingRelationships": [
+        {
+          "type": "三会组",
+          "qualification": "However, 三会组 also applies to Rabbit–Dragon; this additional classification must be interpreted alongside 六害, not discarded."
+        }
+      ],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "snake": {
       "branch": "巳",
@@ -105,7 +180,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Snake's watching patterns before making a move; balance speak clearly without losing tact with verify intentions rather than guessing.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Rabbit and Snake have no listed special branch pairing. In animal-character terms, keeping discussions measured and relationships settled meets watching patterns before making a move; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Fire",
+        "direction": "selected generates partner",
+        "meaning": "Rabbit's Wood nourishes Snake's Fire; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Rabbit on a Snake day, work with the actual elemental direction rather than assuming a clash. Speak clearly without losing tact while taking account of verify intentions rather than guessing.",
+      "monthlyGuidance": "For Rabbit through a Snake month, use elemental and seasonal contrasts to adjust expectations. Set gentle but firm boundaries as Snake's tendency toward watching patterns before making a move shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Snake year, plan around the real elemental interaction, not an invented special relationship. Keep keeping discussions measured and relationships settled constructive while making room for watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "horse": {
       "branch": "午",
@@ -120,7 +209,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Horse's building momentum and taking timely action; balance speak clearly without losing tact with pause before acting on urgency.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "Rabbit meets Horse through 相破. In animal-character terms, keeping discussions measured and relationships settled meets building momentum and taking timely action; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Fire",
+        "direction": "selected generates partner",
+        "meaning": "Rabbit's Wood nourishes Horse's Fire; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Rabbit on a Horse day, check a fragile arrangement before relying on it. Speak clearly without losing tact while taking account of pause before acting on urgency.",
+      "monthlyGuidance": "For Rabbit through a Horse month, revisit agreements and repair interrupted cooperation. Set gentle but firm boundaries as Horse's tendency toward building momentum and taking timely action shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Horse year, rebuild weak foundations and allow revisions to commitments. Keep keeping discussions measured and relationships settled constructive while making room for building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "goat": {
       "branch": "未",
@@ -135,7 +238,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Goat's maintaining care and cooperation; balance speak clearly without losing tact with state needs and responsibilities openly.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "Rabbit meets Goat through 三合组. In animal-character terms, keeping discussions measured and relationships settled meets maintaining care and cooperation; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Earth",
+        "direction": "selected controls partner",
+        "meaning": "Rabbit's Wood restrains Goat's Earth; directing the situation may require care."
+      },
+      "dailyGuidance": "For Rabbit on a Goat day, look for a shared direction. Speak clearly without losing tact while taking account of state needs and responsibilities openly.",
+      "monthlyGuidance": "For Rabbit through a Goat month, cultivate compatible strengths without assuming a complete formation. Set gentle but firm boundaries as Goat's tendency toward maintaining care and cooperation shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Goat year, support a consistent direction over time. Keep keeping discussions measured and relationships settled constructive while making room for maintaining care and cooperation.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "monkey": {
       "branch": "申",
@@ -150,7 +267,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Monkey's finding alternate approaches when plans shift; balance speak clearly without losing tact with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Rabbit and Monkey have no listed special branch pairing. In animal-character terms, keeping discussions measured and relationships settled meets finding alternate approaches when plans shift; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Metal",
+        "direction": "partner controls selected",
+        "meaning": "Monkey's Metal restrains Rabbit's Wood; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Rabbit on a Monkey day, work with the actual elemental direction rather than assuming a clash. Speak clearly without losing tact while taking account of explain changes and confirm shared expectations.",
+      "monthlyGuidance": "For Rabbit through a Monkey month, use elemental and seasonal contrasts to adjust expectations. Set gentle but firm boundaries as Monkey's tendency toward finding alternate approaches when plans shift shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Monkey year, plan around the real elemental interaction, not an invented special relationship. Keep keeping discussions measured and relationships settled constructive while making room for finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rooster": {
       "branch": "酉",
@@ -165,7 +296,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Rooster's noticing detail and maintaining standards; balance speak clearly without losing tact with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "Rabbit meets Rooster through 六冲. In animal-character terms, keeping discussions measured and relationships settled meets noticing detail and maintaining standards; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Metal",
+        "direction": "partner controls selected",
+        "meaning": "Rooster's Metal restrains Rabbit's Wood; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Rabbit on a Rooster day, wait before reacting to a conflicting pace. Speak clearly without losing tact while taking account of offer constructive rather than sharp feedback.",
+      "monthlyGuidance": "For Rabbit through a Rooster month, allow plans to change without turning each difference into a fight. Set gentle but firm boundaries as Rooster's tendency toward noticing detail and maintaining standards shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Rooster year, prepare options and avoid locking important decisions into one approach. Keep keeping discussions measured and relationships settled constructive while making room for noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dog": {
       "branch": "戌",
@@ -180,7 +325,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Dog's protecting trust, fairness and established obligations; balance speak clearly without losing tact with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Rabbit meets Dog through 六合. In animal-character terms, keeping discussions measured and relationships settled meets protecting trust, fairness and established obligations; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Earth",
+        "direction": "selected controls partner",
+        "meaning": "Rabbit's Wood restrains Dog's Earth; directing the situation may require care."
+      },
+      "dailyGuidance": "For Rabbit on a Dog day, find a point of agreement. Speak clearly without losing tact while taking account of separate genuine concerns from assumptions.",
+      "monthlyGuidance": "For Rabbit through a Dog month, develop cooperation without taking goodwill for granted. Set gentle but firm boundaries as Dog's tendency toward protecting trust, fairness and established obligations shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Dog year, invest in reliable partnerships. Keep keeping discussions measured and relationships settled constructive while making room for protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "pig": {
       "branch": "亥",
@@ -195,7 +354,21 @@
         }
       ],
       "specificFocus": "Rabbit's keeping discussions measured and relationships settled meets Pig's bringing goodwill and openness into relationships; balance speak clearly without losing tact with check details while remaining approachable.",
-      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Rabbit should watch for withdrawing too quickly from an uncomfortable issue, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "considerate, observant and tactful",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "Rabbit meets Pig through 三合组. In animal-character terms, keeping discussions measured and relationships settled meets bringing goodwill and openness into relationships; the practical tension is that withdrawing too quickly from an uncomfortable issue can become more noticeable alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Wood",
+        "partner": "Water",
+        "direction": "partner generates selected",
+        "meaning": "Pig's Water nourishes Rabbit's Wood; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Rabbit on a Pig day, look for a shared direction. Speak clearly without losing tact while taking account of check details while remaining approachable.",
+      "monthlyGuidance": "For Rabbit through a Pig month, cultivate compatible strengths without assuming a complete formation. Set gentle but firm boundaries as Pig's tendency toward bringing goodwill and openness into relationships shapes the pace.",
+      "yearlyGuidance": "For Rabbit in a Pig year, support a consistent direction over time. Keep keeping discussions measured and relationships settled constructive while making room for bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     }
   }
 }
