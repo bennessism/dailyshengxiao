@@ -1,0 +1,35 @@
+{
+  "id": "xiangpo",
+  "name": "相破",
+  "en": "Breaks",
+  "kind": "sixBreak",
+  "meaning": "Six pairings associated with interruption, broken continuity and arrangements requiring repair.",
+  "caution": "Preserve overlap with 六合 when it exists; joining and disruption may be interpreted together.",
+  "reference": "Traditional Earthly Branch relationship convention. Interpretive guidance is symbolic, not a guaranteed forecast.",
+  "rules": [
+    [
+      "子",
+      "酉"
+    ],
+    [
+      "丑",
+      "辰"
+    ],
+    [
+      "寅",
+      "亥"
+    ],
+    [
+      "卯",
+      "午"
+    ],
+    [
+      "巳",
+      "申"
+    ],
+    [
+      "未",
+      "戌"
+    ]
+  ]
+}
