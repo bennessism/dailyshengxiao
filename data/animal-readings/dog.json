@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Rat's responding quickly to changing information; balance separate genuine concerns from assumptions with notice what matters before responding.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "No named branch pairing is listed. Dog's protecting trust, fairness and established obligations meets Rat's responding quickly to changing information; a point of caution is holding a position too tightly alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Dog's Earth controls Rat's Water."
+      },
+      "dailyGuidance": "On a Rat day, follow actual elemental symbolism. For Dog, separate genuine concerns from assumptions while recognizing Rat's responding quickly to changing information.",
+      "monthlyGuidance": "Through a Rat month, adjust expectations to genuine differences. For Dog, balance duty with changing conditions while adjusting to Rat's responding quickly to changing information.",
+      "yearlyGuidance": "In a Rat year, keep longer plans flexible. For Dog, sustain protecting trust, fairness and established obligations without overlooking responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "ox": {
       "branch": "丑",
@@ -39,7 +53,26 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Ox's protecting routines and working through commitments; balance separate genuine concerns from assumptions with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Dog and Ox meet through 刑组关联. Dog's protecting trust, fairness and established obligations meets Ox's protecting routines and working through commitments; a point of caution is holding a position too tightly alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Dog and Ox share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Ox day, follow actual elemental symbolism. For Dog, separate genuine concerns from assumptions while recognizing Ox's protecting routines and working through commitments.",
+      "monthlyGuidance": "Through a Ox month, adjust expectations to genuine differences. For Dog, balance duty with changing conditions while adjusting to Ox's protecting routines and working through commitments.",
+      "yearlyGuidance": "In a Ox year, keep longer plans flexible. For Dog, sustain protecting trust, fairness and established obligations without overlooking protecting routines and working through commitments.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Dog–Ox; it must be interpreted alongside 常规."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "tiger": {
       "branch": "寅",
@@ -54,7 +87,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Tiger's taking initiative when a direction is clear; balance separate genuine concerns from assumptions with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "Dog and Tiger meet through 三合组. Dog's protecting trust, fairness and established obligations meets Tiger's taking initiative when a direction is clear; a point of caution is holding a position too tightly alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Tiger's Wood controls Dog's Earth."
+      },
+      "dailyGuidance": "On a Tiger day, notice common purpose. For Dog, separate genuine concerns from assumptions while recognizing Tiger's taking initiative when a direction is clear.",
+      "monthlyGuidance": "Through a Tiger month, coordinate shared strengths. For Dog, balance duty with changing conditions while adjusting to Tiger's taking initiative when a direction is clear.",
+      "yearlyGuidance": "In a Tiger year, cultivate a durable common direction. For Dog, sustain protecting trust, fairness and established obligations without overlooking taking initiative when a direction is clear.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rabbit": {
       "branch": "卯",
@@ -69,7 +116,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Rabbit's keeping discussions measured and relationships settled; balance separate genuine concerns from assumptions with speak clearly without losing tact.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Dog and Rabbit meet through 六合. Dog's protecting trust, fairness and established obligations meets Rabbit's keeping discussions measured and relationships settled; a point of caution is holding a position too tightly alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Wood",
+        "direction": "partner controls selected",
+        "meaning": "Rabbit's Wood controls Dog's Earth."
+      },
+      "dailyGuidance": "On a Rabbit day, seek agreement. For Dog, separate genuine concerns from assumptions while recognizing Rabbit's keeping discussions measured and relationships settled.",
+      "monthlyGuidance": "Through a Rabbit month, develop steady trust. For Dog, balance duty with changing conditions while adjusting to Rabbit's keeping discussions measured and relationships settled.",
+      "yearlyGuidance": "In a Rabbit year, invest in supportive partnerships. For Dog, sustain protecting trust, fairness and established obligations without overlooking keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dragon": {
       "branch": "辰",
@@ -84,7 +145,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Dragon's bringing different interests into a larger plan; balance separate genuine concerns from assumptions with test big ideas against practical limits.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "Dog and Dragon meet through 六冲. Dog's protecting trust, fairness and established obligations meets Dragon's bringing different interests into a larger plan; a point of caution is holding a position too tightly alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Dog and Dragon share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Dragon day, slow down before reacting. For Dog, separate genuine concerns from assumptions while recognizing Dragon's bringing different interests into a larger plan.",
+      "monthlyGuidance": "Through a Dragon month, adapt plans with patience. For Dog, balance duty with changing conditions while adjusting to Dragon's bringing different interests into a larger plan.",
+      "yearlyGuidance": "In a Dragon year, prepare for changing priorities. For Dog, sustain protecting trust, fairness and established obligations without overlooking bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "snake": {
       "branch": "巳",
@@ -99,7 +174,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Snake's watching patterns before making a move; balance separate genuine concerns from assumptions with verify intentions rather than guessing.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "No named branch pairing is listed. Dog's protecting trust, fairness and established obligations meets Snake's watching patterns before making a move; a point of caution is holding a position too tightly alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Snake's Fire generates Dog's Earth."
+      },
+      "dailyGuidance": "On a Snake day, follow actual elemental symbolism. For Dog, separate genuine concerns from assumptions while recognizing Snake's watching patterns before making a move.",
+      "monthlyGuidance": "Through a Snake month, adjust expectations to genuine differences. For Dog, balance duty with changing conditions while adjusting to Snake's watching patterns before making a move.",
+      "yearlyGuidance": "In a Snake year, keep longer plans flexible. For Dog, sustain protecting trust, fairness and established obligations without overlooking watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "horse": {
       "branch": "午",
@@ -114,7 +203,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Horse's building momentum and taking timely action; balance separate genuine concerns from assumptions with pause before acting on urgency.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "Dog and Horse meet through 三合组. Dog's protecting trust, fairness and established obligations meets Horse's building momentum and taking timely action; a point of caution is holding a position too tightly alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Fire",
+        "direction": "partner generates selected",
+        "meaning": "Horse's Fire generates Dog's Earth."
+      },
+      "dailyGuidance": "On a Horse day, notice common purpose. For Dog, separate genuine concerns from assumptions while recognizing Horse's building momentum and taking timely action.",
+      "monthlyGuidance": "Through a Horse month, coordinate shared strengths. For Dog, balance duty with changing conditions while adjusting to Horse's building momentum and taking timely action.",
+      "yearlyGuidance": "In a Horse year, cultivate a durable common direction. For Dog, sustain protecting trust, fairness and established obligations without overlooking building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "goat": {
       "branch": "未",
@@ -135,7 +238,26 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Goat's maintaining care and cooperation; balance separate genuine concerns from assumptions with state needs and responsibilities openly.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "Dog and Goat meet through 相破 and 刑组关联. Dog's protecting trust, fairness and established obligations meets Goat's maintaining care and cooperation; a point of caution is holding a position too tightly alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Dog and Goat share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Goat day, inspect fragile arrangements. For Dog, separate genuine concerns from assumptions while recognizing Goat's maintaining care and cooperation.",
+      "monthlyGuidance": "Through a Goat month, repair interruptions early. For Dog, balance duty with changing conditions while adjusting to Goat's maintaining care and cooperation.",
+      "yearlyGuidance": "In a Goat year, reinforce long-term commitments. For Dog, sustain protecting trust, fairness and established obligations without overlooking maintaining care and cooperation.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Dog–Goat; it must be interpreted alongside 相破."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "monkey": {
       "branch": "申",
@@ -150,7 +272,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Monkey's finding alternate approaches when plans shift; balance separate genuine concerns from assumptions with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Dog and Monkey meet through 三会组. Dog's protecting trust, fairness and established obligations meets Monkey's finding alternate approaches when plans shift; a point of caution is holding a position too tightly alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Dog's Earth generates Monkey's Metal."
+      },
+      "dailyGuidance": "On a Monkey day, use common rhythm. For Dog, separate genuine concerns from assumptions while recognizing Monkey's finding alternate approaches when plans shift.",
+      "monthlyGuidance": "Through a Monkey month, organize priorities around seasonal context. For Dog, balance duty with changing conditions while adjusting to Monkey's finding alternate approaches when plans shift.",
+      "yearlyGuidance": "In a Monkey year, maintain a consistent direction. For Dog, sustain protecting trust, fairness and established obligations without overlooking finding alternate approaches when plans shift.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "rooster": {
       "branch": "酉",
@@ -171,7 +307,26 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Rooster's noticing detail and maintaining standards; balance separate genuine concerns from assumptions with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "Dog and Rooster meet through 六害 and 三会组. Dog's protecting trust, fairness and established obligations meets Rooster's noticing detail and maintaining standards; a point of caution is holding a position too tightly alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Metal",
+        "direction": "selected generates partner",
+        "meaning": "Dog's Earth generates Rooster's Metal."
+      },
+      "dailyGuidance": "On a Rooster day, check unclear expectations. For Dog, separate genuine concerns from assumptions while recognizing Rooster's noticing detail and maintaining standards.",
+      "monthlyGuidance": "Through a Rooster month, resolve recurring misunderstandings. For Dog, balance duty with changing conditions while adjusting to Rooster's noticing detail and maintaining standards.",
+      "yearlyGuidance": "In a Rooster year, strengthen boundaries and trust. For Dog, sustain protecting trust, fairness and established obligations without overlooking noticing detail and maintaining standards.",
+      "overlappingRelationships": [
+        {
+          "type": "三会组",
+          "qualification": "However, 三会组 also applies to Dog–Rooster; it must be interpreted alongside 六害."
+        }
+      ],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "dog": {
       "branch": "戌",
@@ -186,7 +341,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Dog's protecting trust, fairness and established obligations; balance separate genuine concerns from assumptions with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Dog and Dog meet through 同支. Dog's protecting trust, fairness and established obligations meets Dog's protecting trust, fairness and established obligations; a point of caution is holding a position too tightly alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Earth",
+        "direction": "same element",
+        "meaning": "Dog and Dog share Earth without guaranteeing harmony."
+      },
+      "dailyGuidance": "On a Dog day, notice repeated habits. For Dog, separate genuine concerns from assumptions while recognizing Dog's protecting trust, fairness and established obligations.",
+      "monthlyGuidance": "Through a Dog month, refine familiar routines. For Dog, balance duty with changing conditions while adjusting to Dog's protecting trust, fairness and established obligations.",
+      "yearlyGuidance": "In a Dog year, strengthen good habits without repeating mistakes. For Dog, sustain protecting trust, fairness and established obligations without overlooking protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     },
     "pig": {
       "branch": "亥",
@@ -201,7 +370,21 @@
         }
       ],
       "specificFocus": "Dog's protecting trust, fairness and established obligations meets Pig's bringing goodwill and openness into relationships; balance separate genuine concerns from assumptions with check details while remaining approachable.",
-      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Dog should watch for holding a position too tightly, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "loyal, vigilant and principled",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "No named branch pairing is listed. Dog's protecting trust, fairness and established obligations meets Pig's bringing goodwill and openness into relationships; a point of caution is holding a position too tightly alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Earth",
+        "partner": "Water",
+        "direction": "selected controls partner",
+        "meaning": "Dog's Earth controls Pig's Water."
+      },
+      "dailyGuidance": "On a Pig day, follow actual elemental symbolism. For Dog, separate genuine concerns from assumptions while recognizing Pig's bringing goodwill and openness into relationships.",
+      "monthlyGuidance": "Through a Pig month, adjust expectations to genuine differences. For Dog, balance duty with changing conditions while adjusting to Pig's bringing goodwill and openness into relationships.",
+      "yearlyGuidance": "In a Pig year, keep longer plans flexible. For Dog, sustain protecting trust, fairness and established obligations without overlooking bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional named branch pairings from data/relationships.json; personality and guidance are conventional symbolic interpretations."
     }
   }
 }
