@@ -24,7 +24,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Rat's responding quickly to changing information; balance verify intentions rather than guessing with notice what matters before responding.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Rat's tendency toward responding quickly to changing information is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Rat's tendency toward responding quickly to changing information is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "alert, adaptable and resourceful",
+      "relationshipInterpretation": "Snake and Rat have no listed special branch pairing. In animal-character terms, watching patterns before making a move meets responding quickly to changing information; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside scattered attention or excessive calculation.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Water",
+        "direction": "partner controls selected",
+        "meaning": "Rat's Water restrains Snake's Fire; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Snake on a Rat day, work with the actual elemental direction rather than assuming a clash. Verify intentions rather than guessing while taking account of notice what matters before responding.",
+      "monthlyGuidance": "For Snake through a Rat month, use elemental and seasonal contrasts to adjust expectations. Share enough information to build trust as Rat's tendency toward responding quickly to changing information shapes the pace.",
+      "yearlyGuidance": "For Snake in a Rat year, plan around the real elemental interaction, not an invented special relationship. Keep watching patterns before making a move constructive while making room for responding quickly to changing information.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "ox": {
       "branch": "丑",
@@ -39,7 +53,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Ox's protecting routines and working through commitments; balance verify intentions rather than guessing with keep a dependable pace and hear other views.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Ox's tendency toward protecting routines and working through commitments is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Ox's tendency toward protecting routines and working through commitments is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "steady, methodical and persistent",
+      "relationshipInterpretation": "Snake meets Ox through 三合组. In animal-character terms, watching patterns before making a move meets protecting routines and working through commitments; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside resisting a necessary change of course.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Earth",
+        "direction": "selected generates partner",
+        "meaning": "Snake's Fire nourishes Ox's Earth; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Snake on a Ox day, look for a shared direction. Verify intentions rather than guessing while taking account of keep a dependable pace and hear other views.",
+      "monthlyGuidance": "For Snake through a Ox month, cultivate compatible strengths without assuming a complete formation. Share enough information to build trust as Ox's tendency toward protecting routines and working through commitments shapes the pace.",
+      "yearlyGuidance": "For Snake in a Ox year, support a consistent direction over time. Keep watching patterns before making a move constructive while making room for protecting routines and working through commitments.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "tiger": {
       "branch": "寅",
@@ -60,7 +88,26 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Tiger's taking initiative when a direction is clear; balance verify intentions rather than guessing with choose battles and direct initiative carefully.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Tiger's tendency toward taking initiative when a direction is clear is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "bold, forward-moving and independent",
+      "relationshipInterpretation": "Snake meets Tiger through 六害 and 刑组关联. In animal-character terms, watching patterns before making a move meets taking initiative when a direction is clear; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside turning confidence into haste or rivalry.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Wood",
+        "direction": "partner generates selected",
+        "meaning": "Tiger's Wood nourishes Snake's Fire; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Snake on a Tiger day, clarify intentions before frustration grows. Verify intentions rather than guessing while taking account of choose battles and direct initiative carefully.",
+      "monthlyGuidance": "For Snake through a Tiger month, name responsibilities and resolve recurring misunderstandings. Share enough information to build trust as Tiger's tendency toward taking initiative when a direction is clear shapes the pace.",
+      "yearlyGuidance": "For Snake in a Tiger year, protect trust with clear boundaries and expectations. Keep watching patterns before making a move constructive while making room for taking initiative when a direction is clear.",
+      "overlappingRelationships": [
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Snake–Tiger; this additional classification must be interpreted alongside 六害, not discarded."
+        }
+      ],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rabbit": {
       "branch": "卯",
@@ -75,7 +122,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Rabbit's keeping discussions measured and relationships settled; balance verify intentions rather than guessing with speak clearly without losing tact.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Rabbit's tendency toward keeping discussions measured and relationships settled is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "considerate, observant and tactful",
+      "relationshipInterpretation": "Snake and Rabbit have no listed special branch pairing. In animal-character terms, watching patterns before making a move meets keeping discussions measured and relationships settled; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside withdrawing too quickly from an uncomfortable issue.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Wood",
+        "direction": "partner generates selected",
+        "meaning": "Rabbit's Wood nourishes Snake's Fire; support flows toward the selected animal."
+      },
+      "dailyGuidance": "For Snake on a Rabbit day, work with the actual elemental direction rather than assuming a clash. Verify intentions rather than guessing while taking account of speak clearly without losing tact.",
+      "monthlyGuidance": "For Snake through a Rabbit month, use elemental and seasonal contrasts to adjust expectations. Share enough information to build trust as Rabbit's tendency toward keeping discussions measured and relationships settled shapes the pace.",
+      "yearlyGuidance": "For Snake in a Rabbit year, plan around the real elemental interaction, not an invented special relationship. Keep watching patterns before making a move constructive while making room for keeping discussions measured and relationships settled.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dragon": {
       "branch": "辰",
@@ -90,7 +151,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Dragon's bringing different interests into a larger plan; balance verify intentions rather than guessing with test big ideas against practical limits.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Dragon's tendency toward bringing different interests into a larger plan is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "ambitious, expansive and organizing",
+      "relationshipInterpretation": "Snake and Dragon have no listed special branch pairing. In animal-character terms, watching patterns before making a move meets bringing different interests into a larger plan; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside overcommitting before details are settled.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Earth",
+        "direction": "selected generates partner",
+        "meaning": "Snake's Fire nourishes Dragon's Earth; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Snake on a Dragon day, work with the actual elemental direction rather than assuming a clash. Verify intentions rather than guessing while taking account of test big ideas against practical limits.",
+      "monthlyGuidance": "For Snake through a Dragon month, use elemental and seasonal contrasts to adjust expectations. Share enough information to build trust as Dragon's tendency toward bringing different interests into a larger plan shapes the pace.",
+      "yearlyGuidance": "For Snake in a Dragon year, plan around the real elemental interaction, not an invented special relationship. Keep watching patterns before making a move constructive while making room for bringing different interests into a larger plan.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "snake": {
       "branch": "巳",
@@ -105,7 +180,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Snake's watching patterns before making a move; balance verify intentions rather than guessing with verify intentions rather than guessing.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Snake's tendency toward watching patterns before making a move is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Snake's tendency toward watching patterns before making a move is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "deliberate, perceptive and strategic",
+      "relationshipInterpretation": "Snake meets Snake through 同支. In animal-character terms, watching patterns before making a move meets watching patterns before making a move; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside becoming guarded or reading too much into motives.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Fire",
+        "direction": "same element",
+        "meaning": "Both carry Fire, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Snake on a Snake day, watch for a familiar habit repeated. Verify intentions rather than guessing while taking account of verify intentions rather than guessing.",
+      "monthlyGuidance": "For Snake through a Snake month, refine familiar routines without doubling down on mistakes. Share enough information to build trust as Snake's tendency toward watching patterns before making a move shapes the pace.",
+      "yearlyGuidance": "For Snake in a Snake year, strengthen useful habits and reconsider outdated ones. Keep watching patterns before making a move constructive while making room for watching patterns before making a move.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "horse": {
       "branch": "午",
@@ -120,7 +209,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Horse's building momentum and taking timely action; balance verify intentions rather than guessing with pause before acting on urgency.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Horse's tendency toward building momentum and taking timely action is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Horse's tendency toward building momentum and taking timely action is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "energetic, mobile and independent",
+      "relationshipInterpretation": "Snake meets Horse through 三会组. In animal-character terms, watching patterns before making a move meets building momentum and taking timely action; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside moving faster than circumstances allow.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Fire",
+        "direction": "same element",
+        "meaning": "Both carry Fire, adding a shared elemental quality without implying harmony."
+      },
+      "dailyGuidance": "For Snake on a Horse day, notice common seasonal rhythm. Verify intentions rather than guessing while taking account of pause before acting on urgency.",
+      "monthlyGuidance": "For Snake through a Horse month, organize activity around a shared seasonal pattern. Share enough information to build trust as Horse's tendency toward building momentum and taking timely action shapes the pace.",
+      "yearlyGuidance": "For Snake in a Horse year, maintain realistic routines in the longer seasonal cycle. Keep watching patterns before making a move constructive while making room for building momentum and taking timely action.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "goat": {
       "branch": "未",
@@ -135,7 +238,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Goat's maintaining care and cooperation; balance verify intentions rather than guessing with state needs and responsibilities openly.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Goat's tendency toward maintaining care and cooperation is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Goat's tendency toward maintaining care and cooperation is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "patient, receptive and community-minded",
+      "relationshipInterpretation": "Snake meets Goat through 三会组. In animal-character terms, watching patterns before making a move meets maintaining care and cooperation; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside hesitating when a clear decision is needed.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Earth",
+        "direction": "selected generates partner",
+        "meaning": "Snake's Fire nourishes Goat's Earth; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Snake on a Goat day, notice common seasonal rhythm. Verify intentions rather than guessing while taking account of state needs and responsibilities openly.",
+      "monthlyGuidance": "For Snake through a Goat month, organize activity around a shared seasonal pattern. Share enough information to build trust as Goat's tendency toward maintaining care and cooperation shapes the pace.",
+      "yearlyGuidance": "For Snake in a Goat year, maintain realistic routines in the longer seasonal cycle. Keep watching patterns before making a move constructive while making room for maintaining care and cooperation.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "monkey": {
       "branch": "申",
@@ -162,7 +279,30 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Monkey's finding alternate approaches when plans shift; balance verify intentions rather than guessing with explain changes and confirm shared expectations.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Monkey's tendency toward finding alternate approaches when plans shift is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "inventive, agile and quick-thinking",
+      "relationshipInterpretation": "Snake meets Monkey through 六合 and 相破 and 刑组关联. In animal-character terms, watching patterns before making a move meets finding alternate approaches when plans shift; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside switching tactics before others can follow.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Metal",
+        "direction": "selected controls partner",
+        "meaning": "Snake's Fire restrains Monkey's Metal; directing the situation may require care."
+      },
+      "dailyGuidance": "For Snake on a Monkey day, find a point of agreement. Verify intentions rather than guessing while taking account of explain changes and confirm shared expectations.",
+      "monthlyGuidance": "For Snake through a Monkey month, develop cooperation without taking goodwill for granted. Share enough information to build trust as Monkey's tendency toward finding alternate approaches when plans shift shapes the pace.",
+      "yearlyGuidance": "For Snake in a Monkey year, invest in reliable partnerships. Keep watching patterns before making a move constructive while making room for finding alternate approaches when plans shift.",
+      "overlappingRelationships": [
+        {
+          "type": "相破",
+          "qualification": "However, 相破 also applies to Snake–Monkey; this additional classification must be interpreted alongside 六合, not discarded."
+        },
+        {
+          "type": "刑组关联",
+          "qualification": "However, 刑组关联 also applies to Snake–Monkey; this additional classification must be interpreted alongside 六合, not discarded."
+        }
+      ],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "rooster": {
       "branch": "酉",
@@ -177,7 +317,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Rooster's noticing detail and maintaining standards; balance verify intentions rather than guessing with offer constructive rather than sharp feedback.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Rooster's tendency toward noticing detail and maintaining standards is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "precise, organized and outspoken",
+      "relationshipInterpretation": "Snake meets Rooster through 三合组. In animal-character terms, watching patterns before making a move meets noticing detail and maintaining standards; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside turning corrections into needless criticism.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Metal",
+        "direction": "selected controls partner",
+        "meaning": "Snake's Fire restrains Rooster's Metal; directing the situation may require care."
+      },
+      "dailyGuidance": "For Snake on a Rooster day, look for a shared direction. Verify intentions rather than guessing while taking account of offer constructive rather than sharp feedback.",
+      "monthlyGuidance": "For Snake through a Rooster month, cultivate compatible strengths without assuming a complete formation. Share enough information to build trust as Rooster's tendency toward noticing detail and maintaining standards shapes the pace.",
+      "yearlyGuidance": "For Snake in a Rooster year, support a consistent direction over time. Keep watching patterns before making a move constructive while making room for noticing detail and maintaining standards.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "dog": {
       "branch": "戌",
@@ -192,7 +346,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Dog's protecting trust, fairness and established obligations; balance verify intentions rather than guessing with separate genuine concerns from assumptions.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Dog's tendency toward protecting trust, fairness and established obligations is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "loyal, vigilant and principled",
+      "relationshipInterpretation": "Snake and Dog have no listed special branch pairing. In animal-character terms, watching patterns before making a move meets protecting trust, fairness and established obligations; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside holding a position too tightly.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Earth",
+        "direction": "selected generates partner",
+        "meaning": "Snake's Fire nourishes Dog's Earth; support flows outward from the selected animal."
+      },
+      "dailyGuidance": "For Snake on a Dog day, work with the actual elemental direction rather than assuming a clash. Verify intentions rather than guessing while taking account of separate genuine concerns from assumptions.",
+      "monthlyGuidance": "For Snake through a Dog month, use elemental and seasonal contrasts to adjust expectations. Share enough information to build trust as Dog's tendency toward protecting trust, fairness and established obligations shapes the pace.",
+      "yearlyGuidance": "For Snake in a Dog year, plan around the real elemental interaction, not an invented special relationship. Keep watching patterns before making a move constructive while making room for protecting trust, fairness and established obligations.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     },
     "pig": {
       "branch": "亥",
@@ -207,7 +375,21 @@
         }
       ],
       "specificFocus": "Snake's watching patterns before making a move meets Pig's bringing goodwill and openness into relationships; balance verify intentions rather than guessing with check details while remaining approachable.",
-      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent."
+      "counterpartCaution": "Snake should watch for becoming guarded or reading too much into motives, particularly when Pig's tendency toward bringing goodwill and openness into relationships is prominent.",
+      "animalTraits": "deliberate, perceptive and strategic",
+      "partnerTraits": "sincere, generous and accommodating",
+      "relationshipInterpretation": "Snake meets Pig through 六冲. In animal-character terms, watching patterns before making a move meets bringing goodwill and openness into relationships; the practical tension is that becoming guarded or reading too much into motives can become more noticeable alongside trusting informal expectations too readily.",
+      "fiveElements": {
+        "selected": "Fire",
+        "partner": "Water",
+        "direction": "partner controls selected",
+        "meaning": "Pig's Water restrains Snake's Fire; boundaries and adaptation deserve attention."
+      },
+      "dailyGuidance": "For Snake on a Pig day, wait before reacting to a conflicting pace. Verify intentions rather than guessing while taking account of check details while remaining approachable.",
+      "monthlyGuidance": "For Snake through a Pig month, allow plans to change without turning each difference into a fight. Share enough information to build trust as Pig's tendency toward bringing goodwill and openness into relationships shapes the pace.",
+      "yearlyGuidance": "For Snake in a Pig year, prepare options and avoid locking important decisions into one approach. Keep watching patterns before making a move constructive while making room for bringing goodwill and openness into relationships.",
+      "overlappingRelationships": [],
+      "interpretationBasis": "Traditional branch pairs from data/relationships.json; animal traits are conventional symbolic character descriptions, and advice is interpretive."
     }
   }
 }
