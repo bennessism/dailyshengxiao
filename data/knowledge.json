@@ -4,55 +4,55 @@
     "name": "六合",
     "en": "Six Harmonies",
     "summary": "Six established one-to-one pairings.",
-    "detail": "六合 describes six paired Earthly Branch relationships. Traditionally it can suggest connection or cooperation, but it does not guarantee that a particular event will go well. Other relationships, context and complete charts can change the interpretation."
+    "detail": "六合 identifies six one-to-one branch pairs: 子丑、寅亥、卯戌、辰酉、巳申、午未. 合 is traditionally read as joining, affinity or a tendency toward coordination. For example, Rabbit (卯) with Dog (戌) is a 六合 pairing, while Rat (子) with Dog (戌) is not. A named harmony is a branch relationship, not proof of good fortune; other simultaneous branch classifications may add nuance."
   },
   {
     "id": "san-he",
     "name": "三合",
     "en": "Three Harmonies",
     "summary": "Four elemental groups of three branches.",
-    "detail": "三合 groups branches into Water (申子辰), Wood (亥卯未), Fire (寅午戌), and Metal (巳酉丑). Two branches can belong to the same group, but this site labels that only as a shared group, not a complete 三合局."
+    "detail": "三合 arranges the twelve branches into four elemental trios: Water 申子辰, Wood 亥卯未, Fire 寅午戌, and Metal 巳酉丑. Rat (子) and Dragon (辰), for example, share the Water trio. With just two branches, this site reports shared 三合 membership, not a complete 三合局 or a transformation of their elements. The third member and broader chart context matter."
   },
   {
     "id": "liu-chong",
     "name": "六冲",
     "en": "Six Clashes",
     "summary": "Six pairs of opposing branches.",
-    "detail": "六冲 pairs are 子午、丑未、寅申、卯酉、辰戌、巳亥. Traditional interpretations often emphasize movement, tension or adjustment; a clash alone is not proof of misfortune."
+    "detail": "六冲 consists of six opposing branch pairs: 子午、丑未、寅申、卯酉、辰戌、巳亥. For example, Snake (巳) and Pig (亥) form a direct clash, while Snake and Rat do not. Traditional interpretation links 冲 with opposition, movement, divergent tendencies and the need for readjustment; it does not establish that accidents, arguments or losses will actually occur."
   },
   {
     "id": "liu-hai",
     "name": "六害",
     "en": "Six Harms",
     "summary": "A separate set of disruptive branch pairings.",
-    "detail": "六害 relationships are traditionally associated with friction or lack of ease. They can coexist with another relationship classification, so the engine preserves all applicable labels."
+    "detail": "六害 consists of 子未、丑午、寅巳、卯辰、申亥、酉戌. Unlike the direct opposition of 六冲, 害 is traditionally associated with interference, impediments, and relationships that do not fit together smoothly. Rat (子) and Goat (未) form 六害. These labels describe a specific branch classification, not a scientifically demonstrated forecast."
   },
   {
     "id": "xiang-xing",
     "name": "相刑",
     "en": "Punishments",
     "summary": "Self, paired and multi-branch punishment conventions.",
-    "detail": "相刑 includes the 子卯 pair, self-punishment for 辰午酉亥, and multi-branch patterns such as 寅巳申 and 丑未戌. Two members of a three-branch group are not automatically presented as the complete punishment formation."
+    "detail": "相刑 (punishment) includes distinct configurations. The site's configured direct pair is 子卯, traditionally classed with 无礼之刑. Self-punishment is recorded for repeated 辰、午、酉、亥. Traditional three-branch patterns include 寅巳申 and 丑未戌, but two members alone are not presented here as a complete three-branch punishment. 刑 is commonly interpreted as constraint, discipline, pressure or complications, not a sentence that misfortune must happen."
   },
   {
     "id": "xiang-po",
     "name": "相破",
     "en": "Breaks",
     "summary": "Six traditional disruptive pairings.",
-    "detail": "相破 may be read as interruption or a need for repair. It is a distinct relationship from 六冲 and 六害; relationships may overlap."
+    "detail": "相破 contains six pairs in this site's traditional table: 子酉、丑辰、寅亥、卯午、巳申、未戌. 破 describes breaking or disruption of continuity, distinct from direct opposition (冲) and interference (害). For instance, Tiger (寅) and Pig (亥) are both a 六合 harmony and a 相破 pairing in the configured systems. This overlap is why the site should report both instead of pretending all classifications give the same judgment."
   },
   {
     "id": "san-hui",
     "name": "三会",
     "en": "Seasonal Meetings",
     "summary": "Four seasonal branch trios.",
-    "detail": "三会 groups 寅卯辰 for Wood, 巳午未 for Fire, 申酉戌 for Metal, and 亥子丑 for Water. Sharing a seasonal group with another branch is not the same as a complete meeting of all three branches."
+    "detail": "三会 describes the meeting of branches within the same season: spring Wood 寅卯辰, summer Fire 巳午未, autumn Metal 申酉戌, and winter Water 亥子丑. Rat (子) and Ox (丑) share the winter Water seasonal group. This conveys seasonal affinity, but a two-branch comparison does not complete the three-branch 三会 formation. 三会 concerns seasonal grouping and should not be mistaken for the six one-to-one harmonies."
   },
   {
     "id": "gan-zhi",
     "name": "干支与节气",
     "en": "Stems, Branches & Solar Terms",
     "summary": "The calendar foundation for year, month and day.",
-    "detail": "The year pillar changes at 立春, the month pillar follows the solar-term 节 boundaries, and the day pillar follows the chosen midnight-based local calendar convention. Popular birth-year animal conventions may instead switch at Lunar New Year. Calculations depend on the selected calendar time zone."
+    "detail": "The traditional calendar combines ten Heavenly Stems (天干) and twelve Earthly Branches (地支) in a repeating sixty-unit cycle (六十甲子). The year pillar changes at 立春; the month's branch follows solar-term 节 boundaries; and the day pillar uses the site's stated local-midnight convention. Each branch has a conventional Five Phase and seasonal association. The generating cycle (相生) runs Wood→Fire→Earth→Metal→Water→Wood; the controlling cycle (相克) runs Wood→Earth→Water→Fire→Metal→Wood. For example, Dog's Earth controls Rat's Water in that cycle, even though 戌 and 子 do not form a named 六冲 or 六合 pair. Elemental interpretation is supplementary, not equivalent to a named branch relationship or a personal prediction."
   }
 ]
